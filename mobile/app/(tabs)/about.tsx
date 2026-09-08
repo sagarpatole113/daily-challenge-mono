@@ -13,27 +13,9 @@ import { useState } from "react";
 import { colors, radius, spacing, shadow } from "../../src/theme/theme";
 
 const LINKS = {
-  portfolio: "https://sagarpatole113.github.io/portfolio/",
   email: "mailto:sagarpatole113@gmail.com",
-  github: "https://github.com/sagarpatole113",
-  linkedin: "https://www.linkedin.com/in/sagar-patole-953015182/",
+  telegram: "https://t.me/+k9PS6QEejuIxZDBl",
 };
-
-const TECH_STACK = [
-  ".NET / C#",
-  "ASP.NET Core",
-  "React",
-  "Angular",
-  "Node.js",
-  "PostgreSQL",
-  "MongoDB",
-  "REST APIs",
-];
-
-const PROJECTS = [
-  { name: "FLEETPULSE", blurb: "Fleet Management & Real-Time Tracking" },
-  { name: "FOOD FLOW", blurb: "Real-Time Order Management" },
-];
 
 function openLink(url: string) {
   Linking.openURL(url).catch(() => { });
@@ -51,12 +33,7 @@ export default function AboutScreen() {
             source={require("../../assets/profile.jpg")}
             style={styles.profileImage}
           />
-
-          <Text style={styles.name}>Sagar Patole</Text>
           <Text style={styles.role}>Full Stack Developer</Text>
-          <Text style={styles.company}>
-            Freelancer · Jalna, Maharashtra
-          </Text>
         </View>
 
         {/* ABOUT */}
@@ -74,132 +51,59 @@ export default function AboutScreen() {
             Bug, wrong question किंवा suggestion असेल तर email करा किंवा Telegram group मध्ये सांगा.
           </Text>
         </View>
-
-        {/* TECH STACK */}
-        {/* <View style={styles.card}>
-        <Text style={styles.sectionTitle}>TECH STACK</Text>
-
-        <View style={styles.chipRow}>
-          {TECH_STACK.map((t) => (
-            <View key={t} style={styles.chip}>
-              <Text style={styles.chipText}>{t}</Text>
-            </View>
-          ))}
-        </View>
-      </View> */}
-
-        {/* PROJECTS
-      <View style={styles.card}>
-        <Text style={styles.sectionTitle}>PROJECTS</Text>
-
-        {PROJECTS.map((p, i) => (
-          <View
-            key={p.name}
-            style={[
-              styles.projectRow,
-              i === PROJECTS.length - 1 && { marginBottom: 0 },
-            ]}
-          >
-            <View style={styles.projectDot} />
-
-            <View style={{ flex: 1 }}>
-              <Text style={styles.projectName}>{p.name}</Text>
-              <Text style={styles.projectBlurb}>{p.blurb}</Text>
-            </View>
-          </View>
-        ))}
-      </View> */}
-
-        {/* BUY ME A CHAI */}
+        {/* BUY ME A CHAI CARD */}
         <View style={styles.chaiCard}>
           <Pressable
             style={styles.chaiTapArea}
             onPress={() => setShowChaiQR(true)}
-
           >
             <View style={styles.chaiIconContainer}>
               <Text style={styles.chaiEmoji}>☕</Text>
             </View>
-
             <View style={styles.chaiContent}>
-              <Text style={styles.chaiTitle}>
-                Buy Me a Chai
-              </Text>
-
+              <Text style={styles.chaiTitle}>Buy me a chai</Text>
               <Text style={styles.chaiText}>
-                Enjoying the app? Scan and treat the developer to a chai.
+                Support the free daily tests if you find them useful.
               </Text>
             </View>
-
             <View style={styles.scanBadge}>
-              <Text style={styles.scanBadgeText}>
-                SCAN
-              </Text>
+              <Text style={styles.scanBadgeText}>SCAN</Text>
             </View>
           </Pressable>
         </View>
 
-
-        {/* SOCIAL LINKS */}
-        {/* <View style={styles.linksRow}>
-        <Pressable
-          style={styles.linkButton}
-          onPress={() => openLink(LINKS.portfolio)}
-        >
-          <Text style={styles.linkButtonText}>Portfolio</Text>
-        </Pressable>
-
-        <Pressable
-          style={[styles.linkButton, styles.linkButtonGhost]}
-          onPress={() => openLink(LINKS.github)}
-        >
-          <Text style={styles.linkButtonGhostText}>GitHub</Text>
-        </Pressable>
-
-        <Pressable
-          style={[styles.linkButton, styles.linkButtonGhost]}
-          onPress={() => openLink(LINKS.linkedin)}
-        >
-          <Text style={styles.linkButtonGhostText}>LinkedIn</Text>
-        </Pressable>
-      </View> */}
-
         <Pressable onPress={() => openLink(LINKS.email)}>
-          <Text style={styles.emailLink}>Get in touch →</Text>
+          <Text style={styles.emailLink}>Email me about a bug or suggestion</Text>
+        </Pressable>
+
+        <Pressable onPress={() => openLink(LINKS.telegram)}>
+          <Text style={styles.telegramLink}>Join the Telegram group</Text>
         </Pressable>
       </ScrollView>
 
       <Modal
         visible={showChaiQR}
-        transparent={true}
+        transparent
         animationType="fade"
         onRequestClose={() => setShowChaiQR(false)}
-
       >
         <View style={styles.modalOverlay}>
           <View style={styles.qrModal}>
             <Pressable
               style={styles.closeButton}
               onPress={() => setShowChaiQR(false)}
+              accessibilityLabel="Close QR code"
             >
-              <Text style={styles.closeButtonText}>
-                ✕
-              </Text>
+              <Text style={styles.closeButtonText}>X</Text>
             </Pressable>
 
             <View style={styles.qrHeader}>
               <View style={styles.qrChaiCircle}>
-                <Text style={styles.qrChaiEmoji}>
-                  ☕
-                </Text>
+                <Text style={styles.qrChaiEmoji}>☕</Text>
               </View>
-
-              <Text style={styles.qrTitle}>
-                Buy Me a Chai
-              </Text>
-
+              <Text style={styles.qrTitle}>Buy me a chai</Text>
               <Text style={styles.qrSubtitle}>
-                Scan with any UPI app and send some chai love ❤️
+                Your support helps keep Saatatya free for students.
               </Text>
             </View>
 
@@ -207,20 +111,18 @@ export default function AboutScreen() {
               <Image
                 source={require("../../assets/chai-qr.jpeg")}
                 style={styles.qrImage}
-                resizeMode="contain"
               />
             </View>
 
             <View style={styles.qrFooter}>
               <Text style={styles.qrFooterText}>
-                Powered by chai, bugs and late-night coding 💻☕
+                Payment is completely optional. Thank you for supporting the
+                project.
               </Text>
             </View>
           </View>
-
         </View>
       </Modal>
-
     </SafeAreaView>
   );
 }
@@ -232,120 +134,54 @@ const styles = StyleSheet.create({
   },
 
   scroll: {
-    padding: spacing.xl,
-    paddingBottom: 40,
+    padding: spacing.lg,
+    paddingBottom: spacing.xxxl,
   },
 
   header: {
     alignItems: "center",
-    marginBottom: spacing.xl,
-    marginTop: spacing.sm,
+    paddingVertical: spacing.xl,
   },
 
   profileImage: {
-    width: 104,
-    height: 104,
-    borderRadius: 52,
-    marginBottom: spacing.md,
-    borderWidth: 3,
+    width: 92,
+    height: 92,
+    borderRadius: 46,
+    borderWidth: 2,
     borderColor: colors.primary,
-    ...shadow.soft,
-  },
-
-  name: {
-    color: colors.text,
-    fontSize: 22,
-    fontWeight: "800",
-    letterSpacing: -0.3,
+    marginBottom: spacing.md,
   },
 
   role: {
-    color: colors.primary,
-    fontSize: 14,
-    fontWeight: "700",
-    marginTop: 4,
-  },
-
-  company: {
     color: colors.textDim,
-    fontSize: 13,
-    marginTop: 4,
-    textAlign: "center",
-    fontWeight: "500",
+    fontSize: 14,
+    fontWeight: "600",
   },
 
   card: {
     backgroundColor: colors.surface,
-    borderRadius: radius.lg,
-    padding: spacing.xl,
+    borderRadius: radius.xl,
+    padding: spacing.lg,
     marginBottom: spacing.md,
     borderWidth: 1,
     borderColor: colors.border,
-    ...shadow.soft,
+    ...shadow.card,
   },
 
   sectionTitle: {
-    color: colors.textFaint,
-    fontSize: 12,
+    color: colors.primary,
+    fontSize: 11,
     fontWeight: "800",
-    letterSpacing: 1,
+    letterSpacing: 1.1,
     marginBottom: spacing.md,
   },
 
   bodyText: {
     color: colors.textDim,
     fontSize: 14,
-    lineHeight: 22,
+    lineHeight: 23,
   },
 
-  chipRow: {
-    flexDirection: "row",
-    flexWrap: "wrap",
-    gap: spacing.sm,
-  },
-
-  chip: {
-    backgroundColor: colors.surfaceAlt,
-    borderRadius: radius.pill,
-    paddingHorizontal: spacing.md,
-    paddingVertical: 7,
-  },
-
-  chipText: {
-    color: colors.text,
-    fontSize: 12,
-    fontWeight: "600",
-  },
-
-  projectRow: {
-    flexDirection: "row",
-    alignItems: "flex-start",
-    marginBottom: spacing.md,
-  },
-
-  projectDot: {
-    width: 8,
-    height: 8,
-    borderRadius: 4,
-    backgroundColor: colors.primary,
-    marginTop: 6,
-    marginRight: spacing.md,
-  },
-
-  projectName: {
-    color: colors.text,
-    fontSize: 15,
-    fontWeight: "700",
-  },
-
-  projectBlurb: {
-    color: colors.textDim,
-    fontSize: 13,
-    marginTop: 2,
-    lineHeight: 18,
-  },
-
-  /* BUY ME A CHAI CARD */
   chaiCard: {
     backgroundColor: colors.primarySoft,
     borderRadius: radius.xl,
@@ -409,40 +245,16 @@ const styles = StyleSheet.create({
   },
 
   /* LINKS */
-  linksRow: {
-    flexDirection: "row",
-    gap: spacing.sm + 2,
-    marginTop: spacing.xs,
-  },
-
-  linkButton: {
-    flex: 1,
-    backgroundColor: colors.primary,
-    borderRadius: radius.md,
-    paddingVertical: 13,
-    alignItems: "center",
-    ...shadow.button,
-  },
-
-  linkButtonText: {
-    color: colors.onPrimary,
-    fontWeight: "800",
-    fontSize: 13,
-  },
-
-  linkButtonGhost: {
-    backgroundColor: "transparent",
-    borderWidth: 1,
-    borderColor: colors.border,
-  },
-
-  linkButtonGhostText: {
-    color: colors.text,
-    fontWeight: "700",
-    fontSize: 13,
-  },
 
   emailLink: {
+    color: colors.textDim,
+    fontSize: 13,
+    textAlign: "center",
+    marginTop: spacing.xl,
+    fontWeight: "600",
+  },
+
+   telegramLink: {
     color: colors.textDim,
     fontSize: 13,
     textAlign: "center",

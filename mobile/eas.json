@@ -1,11 +1,10 @@
 {
   "build": {
-    "preview": {
-      "android": { "buildType": "apk" },
-      "env": { "APP_ENV": "preview" }
-    },
     "production": {
-      "android": { "buildType": "app-bundle" }
+      "android": {
+        "buildType": "apk"
+      },
+      "environment": "production"
     }
   }
 }

@@ -1,0 +1,3205 @@
+{
+  "title": "MPSC Group C Daily Test 1",
+  "questions": [
+  {
+    "questionEnglish": "Consider the following statements:\n(A) Article 19 freedoms are available only to citizens.\n(B) Article 21 protects life and personal liberty of every person.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) कलम १९ मधील स्वातंत्र्ये फक्त नागरिकांना उपलब्ध आहेत.\n(B) कलम २१ प्रत्येक व्यक्तीच्या जीवन व वैयक्तिक स्वातंत्र्याचे संरक्षण करते.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanationEnglish": "Article 19 rights are citizen-specific, while Article 21 uses the expression person and extends to non-citizens as well.",
+    "explanationMarathi": "कलम १९ मधील अधिकार नागरिकांसाठी आहेत; कलम २१ मधील संरक्षण “व्यक्ती” या व्यापक संज्ञेला लागू होते.",
+    "subject": "Polity",
+    "topic": "Fundamental Rights",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) Directive Principles are fundamental in governance but are not enforceable by any court.\n(B) Fundamental Rights are enforceable through constitutional remedies.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) राज्याच्या धोरणाच्या मार्गदर्शक तत्त्वांना शासनात मूलभूत महत्त्व आहे, पण ती न्यायालयाद्वारे अंमलात आणता येत नाहीत.\n(B) मूलभूत अधिकारांची घटनात्मक उपायांद्वारे अंमलबजावणी करता येते.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanationEnglish": "Article 37 makes the Directive Principles non-justiciable but fundamental in governance; Fundamental Rights are judicially enforceable.",
+    "explanationMarathi": "कलम ३७ मार्गदर्शक तत्त्वांना अंमलबजावणी-अयोग्य पण शासनासाठी मूलभूत मानते; मूलभूत अधिकार न्यायालयीन अंमलबजावणीयोग्य आहेत.",
+    "subject": "Polity",
+    "topic": "Directive Principles",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) An ordinance can be promulgated only when both Houses of Parliament are not in session.\n(B) An ordinance has the same force as an Act of Parliament, subject to constitutional limitations.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) अध्यादेश फक्त संसदेची दोन्ही सभागृहे अधिवेशनात नसताना काढता येतो.\n(B) घटनात्मक मर्यादांच्या अधीन राहून अध्यादेशाला संसदेच्या कायद्याइतकेच बल असते.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanationEnglish": "The President may promulgate an ordinance when Parliament is not in session such that immediate legislative action is required; it has the force of law but is temporary.",
+    "explanationMarathi": "संसद अधिवेशनात नसताना आवश्यक परिस्थितीत राष्ट्रपती अध्यादेश काढू शकतात. त्याला कायद्याचे बल असते, पण तो तात्पुरता असतो.",
+    "subject": "Polity",
+    "topic": "President—Ordinance",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) The Supreme Court can issue writs under Article 32 for enforcement of Fundamental Rights.\n(B) High Courts can issue writs only for Fundamental Rights.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) मूलभूत अधिकारांच्या अंमलबजावणीसाठी सर्वोच्च न्यायालय कलम ३२ अंतर्गत रिट जारी करू शकते.\n(B) उच्च न्यायालये फक्त मूलभूत अधिकारांसाठीच रिट जारी करू शकतात.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanationEnglish": "Article 226 permits High Courts to issue writs for Fundamental Rights and for other legal rights as well.",
+    "explanationMarathi": "कलम २२६ नुसार उच्च न्यायालये मूलभूत अधिकारांबरोबरच इतर कायदेशीर अधिकारांसाठीही रिट जारी करू शकतात.",
+    "subject": "Polity",
+    "topic": "Judiciary",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) A bill pending in the Rajya Sabha does not lapse merely because the Lok Sabha is dissolved.\n(B) A bill pending in the Lok Sabha lapses on dissolution, subject to constitutional exceptions.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) राज्यसभेत प्रलंबित असलेले विधेयक केवळ लोकसभा विसर्जित झाल्यामुळे लुप्त होत नाही.\n(B) लोकसभेत प्रलंबित विधेयक लोकसभा विसर्जित झाल्यावर, घटनात्मक अपवादांच्या अधीन, लुप्त होते.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanationEnglish": "Dissolution affects bills pending in the Lok Sabha, while a bill pending in the Rajya Sabha does not lapse merely for that reason.",
+    "explanationMarathi": "लोकसभा विसर्जित झाल्याचा परिणाम लोकसभेतील प्रलंबित विधेयकांवर होतो; राज्यसभेतील विधेयक केवळ त्या कारणामुळे लुप्त होत नाही.",
+    "subject": "Polity",
+    "topic": "Parliamentary Procedure",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) Residuary legislative powers in India belong to Parliament.\n(B) In every federal system, residuary powers necessarily belong to the States.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) भारतात अवशिष्ट विधायी अधिकार संसदेकडे आहेत.\n(B) प्रत्येक संघराज्य व्यवस्थेत अवशिष्ट अधिकार राज्यांकडेच असतात.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanationEnglish": "The Constitution assigns residuary legislative powers to Parliament; their allocation differs across federations.",
+    "explanationMarathi": "भारतीय राज्यघटनेत अवशिष्ट विधायी अधिकार संसदेला दिले आहेत. प्रत्येक संघराज्यात हीच रचना असते असे नाही.",
+    "subject": "Polity",
+    "topic": "Federalism",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) The Election Commission of India conducts elections to State Legislative Assemblies.\n(B) It conducts elections to Panchayats and Municipalities.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) भारत निवडणूक आयोग राज्य विधानसभांच्या निवडणुका घेतो.\n(B) भारत निवडणूक आयोग पंचायत व नगरपालिकांच्या निवडणुका घेतो.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanationEnglish": "Assembly elections are under the Election Commission of India; local-body elections are conducted by State Election Commissions.",
+    "explanationMarathi": "विधानसभा निवडणुका भारत निवडणूक आयोग घेतो; स्थानिक स्वराज्य संस्थांच्या निवडणुका राज्य निवडणूक आयोग घेतो.",
+    "subject": "Polity",
+    "topic": "Election Commission",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) During a National Emergency, Article 19 is automatically suspended in every kind of emergency.\n(B) Article 19 is automatically suspended only when the emergency is proclaimed on grounds of war or external aggression.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) राष्ट्रीय आणीबाणीच्या प्रत्येक प्रकारात कलम १९ आपोआप निलंबित होते.\n(B) युद्ध किंवा बाह्य आक्रमणाच्या कारणावर घोषित आणीबाणीच्या वेळीच कलम १९ आपोआप निलंबित होते.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "C",
+    "explanationEnglish": "The Constitution limits automatic suspension of Article 19 to an emergency based on war or external aggression, not armed rebellion.",
+    "explanationMarathi": "कलम १९ चे आपोआप निलंबन युद्ध किंवा बाह्य आक्रमणावर आधारित आणीबाणीपुरते मर्यादित आहे; सशस्त्र बंडाच्या कारणावर ते आपोआप निलंबित होत नाही.",
+    "subject": "Polity",
+    "topic": "Emergency",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) A constitutional amendment affecting the election of the President requires ratification by at least half of the States.\n(B) Every constitutional amendment requires State ratification.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) राष्ट्रपतींच्या निवडणुकीवर परिणाम करणाऱ्या घटनादुरुस्तीला किमान निम्म्या राज्यांची मान्यता आवश्यक आहे.\n(B) प्रत्येक घटनादुरुस्तीला राज्यांची मान्यता आवश्यक असते.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanationEnglish": "Specified federal provisions, including the President’s election, require State ratification; many amendments do not.",
+    "explanationMarathi": "राष्ट्रपतींची निवडणूक यांसारख्या विशिष्ट संघराज्यीय तरतुदींमध्ये राज्यांची मान्यता आवश्यक असते; प्रत्येक दुरुस्तीसाठी ती आवश्यक नाही.",
+    "subject": "Polity",
+    "topic": "Constitutional Amendment",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) The Finance Commission is constituted by the President.\n(B) It is a permanent body with a fixed five-year tenure for every commission.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) वित्त आयोगाची स्थापना राष्ट्रपती करतात.\n(B) तो कायमस्वरूपी संस्था असून प्रत्येक आयोगाचा निश्चित पाच वर्षांचा कार्यकाळ असतो.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanationEnglish": "The President constitutes the Finance Commission periodically; it is not a permanent commission, though the Constitution provides for periodic constitution.",
+    "explanationMarathi": "राष्ट्रपती वेळोवेळी वित्त आयोग स्थापन करतात. तो कायमस्वरूपी संस्था नाही; संविधानात त्याची कालानुरूप स्थापना अपेक्षित आहे.",
+    "subject": "Polity",
+    "topic": "Finance Commission",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) The Governor is appointed by the President.\n(B) The Governor is directly elected by the people of the State.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) राज्यपालांची नियुक्ती राष्ट्रपती करतात.\n(B) राज्यपालांची राज्यातील जनतेकडून थेट निवड होते.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanationEnglish": "The Governor is appointed by the President and is not directly elected by the State electorate.",
+    "explanationMarathi": "राज्यपालांची नियुक्ती राष्ट्रपती करतात; राज्यातील मतदार त्यांची थेट निवड करत नाहीत.",
+    "subject": "Polity",
+    "topic": "Governor",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) The 73rd Amendment constitutionalised Panchayats.\n(B) The 74th Amendment deals primarily with urban local bodies.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) ७३ व्या घटनादुरुस्तीने पंचायतराज संस्थांना घटनात्मक दर्जा दिला.\n(B) ७४ वी घटनादुरुस्ती प्रामुख्याने नागरी स्थानिक स्वराज्य संस्थांशी संबंधित आहे.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanationEnglish": "The 73rd Amendment concerns Panchayats and the 74th concerns Municipalities and other urban local bodies.",
+    "explanationMarathi": "७३ वी घटनादुरुस्ती पंचायतींशी, तर ७४ वी घटनादुरुस्ती नगरपालिका व नागरी स्थानिक स्वराज्य संस्थांशी संबंधित आहे.",
+    "subject": "Polity",
+    "topic": "Local Government",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) The Rajya Sabha is a permanent House.\n(B) One-third of its members retire every second year.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) राज्यसभा हे कायमस्वरूपी सभागृह आहे.\n(B) तिचे एक-तृतीयांश सदस्य दर दोन वर्षांनी निवृत्त होतात.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanationEnglish": "The Rajya Sabha is not dissolved; approximately one-third of its members retire every two years.",
+    "explanationMarathi": "राज्यसभा विसर्जित होत नाही. तिचे सुमारे एक-तृतीयांश सदस्य दर दोन वर्षांनी निवृत्त होतात.",
+    "subject": "Polity",
+    "topic": "Rajya Sabha",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) Judicial review can examine legislative action for constitutional validity.\n(B) Judicial review means courts may routinely replace every policy choice with their preferred policy.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) न्यायालयीन पुनरावलोकनात कायदे घटनात्मकदृष्ट्या वैध आहेत का हे तपासता येते.\n(B) न्यायालयीन पुनरावलोकन म्हणजे न्यायालये प्रत्येक धोरणात्मक निर्णयाच्या जागी स्वतःचे धोरण लावू शकतात.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanationEnglish": "Judicial review tests legality and constitutionality; it does not mean unlimited substitution of judicial policy preferences.",
+    "explanationMarathi": "न्यायालयीन पुनरावलोकन कायदेशीरता व घटनात्मकता तपासते; प्रत्येक धोरणात्मक निर्णय न्यायालयाच्या पसंतीने बदलणे हा त्याचा अर्थ नाही.",
+    "subject": "Polity",
+    "topic": "Judicial Review",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) The Preamble is part of the Constitution for interpretive purposes.\n(B) The Preamble by itself creates directly enforceable Fundamental Rights.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) अर्थ लावण्याच्या दृष्टीने उद्देशिका राज्यघटनेचा भाग मानली जाते.\n(B) उद्देशिका स्वतःहून थेट अंमलबजावणीयोग्य मूलभूत अधिकार निर्माण करते.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanationEnglish": "The Preamble assists constitutional interpretation but does not independently create enforceable rights.",
+    "explanationMarathi": "उद्देशिका घटनात्मक अर्थ लावण्यास मदत करते; ती स्वतःहून अंमलबजावणीयोग्य अधिकार निर्माण करत नाही.",
+    "subject": "Polity",
+    "topic": "Preamble",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) Much of the Maharashtra Plateau is underlain by basaltic lava flows.\n(B) The Deccan Trap landscape was formed mainly by marine coral deposition.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) महाराष्ट्र पठाराचा मोठा भाग बेसाल्टिक लाव्हा प्रवाहांनी व्यापलेला आहे.\n(B) दख्खन ट्रॅपची भूरचना मुख्यतः समुद्री प्रवाळ साठ्यांमुळे तयार झाली.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanationEnglish": "The Deccan Plateau is strongly associated with extensive basaltic lava flows; coral deposition is unrelated to its principal origin.",
+    "explanationMarathi": "दख्खन पठाराचा मोठा भाग विस्तृत बेसाल्टिक लाव्हा प्रवाहांशी संबंधित आहे; प्रवाळ साठे त्याच्या प्रमुख उत्पत्तीचे कारण नाहीत.",
+    "subject": "Geography",
+    "topic": "Maharashtra Geology",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) The Western Ghats enhance orographic rainfall on their windward side.\n(B) The leeward side necessarily receives no rainfall.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) पश्चिम घाटांच्या वाऱ्याच्या दिशेच्या बाजूस पर्वतीय पर्जन्य वाढतो.\n(B) पर्जन्यछायेच्या बाजूस अनिवार्यपणे अजिबात पाऊस पडत नाही.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanationEnglish": "Orographic uplift produces heavy rain on the windward side; the leeward side has reduced rainfall, not necessarily zero rainfall.",
+    "explanationMarathi": "पर्वतीय उन्नतीमुळे वाऱ्याच्या दिशेच्या बाजूस जास्त पाऊस पडतो; पर्जन्यछायेच्या बाजूस पाऊस कमी असतो, शून्य नाही.",
+    "subject": "Geography",
+    "topic": "Western Ghats",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) The Godavari and Bhima basins are separated in parts by the Sahyadri/Shambhu-Mahadev highlands.\n(B) Basin boundaries are determined only by political district boundaries.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) काही भागांत गोदावरी व भीमा खोरे सह्याद्री/शंभू-महादेव उंच प्रदेशांमुळे विभक्त होतात.\n(B) नदीखोऱ्यांच्या सीमा फक्त जिल्ह्यांच्या राजकीय सीमांनी ठरतात.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanationEnglish": "Drainage divides are physical topographic boundaries, not administrative district boundaries.",
+    "explanationMarathi": "जलविभाजक हे भौतिक स्थलाकृतिक सीमारेषा असतात; त्या प्रशासकीय जिल्हा सीमांवर अवलंबून नसतात.",
+    "subject": "Geography",
+    "topic": "River Basins",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) Black soil has high clay content and considerable moisture-retention capacity.\n(B) Its shrink-swell behaviour is associated with clay minerals.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) काळ्या मातीत चिकणमातीचे प्रमाण जास्त असून पाणीधारण क्षमता लक्षणीय असते.\n(B) तिचे आकुंचन-फुगणे चिकणमातीतील खनिजांशी संबंधित आहे.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanationEnglish": "Black soils are clay-rich and exhibit shrink-swell behaviour, particularly due to expansive clay minerals.",
+    "explanationMarathi": "काळी माती चिकणमातीप्रधान असते आणि प्रसरणशील चिकणमाती खनिजांमुळे आकुंचन-फुगणे दिसते.",
+    "subject": "Geography",
+    "topic": "Black Soil",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) Contour bunding can reduce downslope runoff on sloping farmland.\n(B) It is designed primarily to increase the speed of surface runoff.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) उताराच्या शेतात समोच्च बांधांमुळे उताराच्या दिशेने वाहून जाणारे पाणी कमी करता येते.\n(B) त्यांचा मुख्य उद्देश पृष्ठीय प्रवाहाचा वेग वाढवणे हा आहे.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanationEnglish": "Contour bunds interrupt slope length and slow runoff, aiding infiltration and reducing erosion.",
+    "explanationMarathi": "समोच्च बांध उताराची सलग लांबी तोडून पृष्ठीय प्रवाहाचा वेग कमी करतात, त्यामुळे झिरपण वाढून अपरदन कमी होऊ शकते.",
+    "subject": "Geography",
+    "topic": "Soil Erosion",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) Differential heating of land and sea contributes to the seasonal monsoon circulation.\n(B) Monsoon rainfall is caused solely by the Earth’s rotation.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) जमीन व समुद्राच्या असमान तापमानामुळे हंगामी मान्सून परिसंचरणास हातभार लागतो.\n(B) मान्सून पर्जन्य केवळ पृथ्वीच्या परिभ्रमणामुळे होतो.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanationEnglish": "Seasonal pressure differences, land-sea heating contrast and large-scale circulation all contribute; rotation alone is insufficient.",
+    "explanationMarathi": "हंगामी दाबातील फरक, जमीन-समुद्र तापमान विरोधाभास आणि व्यापक वातावरणीय परिसंचरण यांचा मान्सूनवर परिणाम होतो; फक्त पृथ्वीचे परिभ्रमण पुरेसे नाही.",
+    "subject": "Geography",
+    "topic": "Monsoon",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) Population density is population divided by geographical area.\n(B) A fall in area with unchanged population necessarily lowers density.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) लोकसंख्या घनता = लोकसंख्या ÷ भौगोलिक क्षेत्रफळ.\n(B) लोकसंख्या स्थिर असताना क्षेत्रफळ कमी झाल्यास घनता निश्चितपणे कमी होते.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanationEnglish": "With population fixed, reducing area raises density because the same population is distributed over less land.",
+    "explanationMarathi": "लोकसंख्या स्थिर असताना क्षेत्रफळ कमी झाल्यास त्याच लोकसंख्येचे वितरण कमी जमिनीवर होते, त्यामुळे घनता वाढते.",
+    "subject": "Geography",
+    "topic": "Population",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) Drip irrigation can reduce conveyance and evaporation losses compared with some conventional methods.\n(B) Drip irrigation necessarily applies equal water to every field regardless of crop need.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) काही पारंपरिक पद्धतींच्या तुलनेत ठिबक सिंचनामुळे वहन व बाष्पीभवनातील काही हानी कमी करता येते.\n(B) ठिबक सिंचनात पिकाच्या गरजेकडे दुर्लक्ष करून प्रत्येक शेताला समान पाणी देणे बंधनकारक असते.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanationEnglish": "Drip systems deliver water close to the root zone and can be managed according to crop requirements.",
+    "explanationMarathi": "ठिबक सिंचन मुळांच्या परिसरात पाणी देत असल्याने पाण्याचा कार्यक्षम वापर शक्य होतो आणि पिकाच्या गरजेनुसार व्यवस्थापन करता येते.",
+    "subject": "Geography",
+    "topic": "Agriculture",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) Closely spaced contour lines indicate a steep slope.\n(B) Widely spaced contours generally indicate a gentler slope.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) एकमेकांच्या जवळ असलेल्या समोच्च रेषा तीव्र उतार दर्शवतात.\n(B) दूरदूर असलेल्या समोच्च रेषा सामान्यतः सौम्य उतार दर्शवतात.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanationEnglish": "Contour spacing represents change in elevation over horizontal distance; close spacing means steeper terrain.",
+    "explanationMarathi": "समोच्च रेषांतील अंतर उंचीतील बदल व आडव्या अंतराचा संबंध दर्शवते; कमी अंतर म्हणजे अधिक तीव्र उतार.",
+    "subject": "Geography",
+    "topic": "Map Reading",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) Tropical cyclones generally require warm ocean water.\n(B) They derive all their energy directly from sunlight reaching the ocean surface.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) उष्णकटिबंधीय चक्रीवादळांना सामान्यतः उबदार समुद्राचे पाणी आवश्यक असते.\n(B) त्यांची संपूर्ण ऊर्जा थेट समुद्राच्या पृष्ठभागावर पडणाऱ्या सूर्यप्रकाशातून मिळते.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanationEnglish": "Warm ocean water supplies latent heat through evaporation and condensation; the energy pathway is not direct sunlight alone.",
+    "explanationMarathi": "उबदार समुद्रातून बाष्पीभवन व संघननाद्वारे गुप्त उष्णता मिळते; ऊर्जा थेट सूर्यप्रकाशातूनच मिळते असे नाही.",
+    "subject": "Geography",
+    "topic": "Cyclones",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) Excessive groundwater extraction can lower the water table.\n(B) Artificial recharge can never affect groundwater levels.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) अतिप्रमाणात भूजल उपशामुळे भूजल पातळी खाली जाऊ शकते.\n(B) कृत्रिम पुनर्भरणाचा भूजल पातळीवर कधीही परिणाम होऊ शकत नाही.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanationEnglish": "Extraction can exceed recharge and lower the water table; recharge structures can improve replenishment when conditions permit.",
+    "explanationMarathi": "उपसा पुनर्भरणापेक्षा जास्त झाल्यास भूजल पातळी घटू शकते; योग्य परिस्थितीत पुनर्भरण रचना भूजल पुनर्भरण वाढवू शकतात.",
+    "subject": "Geography",
+    "topic": "Groundwater",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) Urban heat islands can be intensified by concrete surfaces and reduced vegetation.\n(B) Urbanisation always lowers local nighttime temperatures.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) काँक्रीट पृष्ठभाग व कमी वनस्पतीमुळे शहरी उष्ण बेट परिणाम वाढू शकतो.\n(B) शहरीकरणामुळे स्थानिक रात्रीचे तापमान नेहमी कमी होते.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanationEnglish": "Built surfaces store heat and reduced vegetation lowers evaporative cooling, often increasing urban nighttime temperatures.",
+    "explanationMarathi": "बांधकामातील पृष्ठभाग उष्णता साठवतात आणि वनस्पती कमी झाल्याने बाष्पोत्सर्जनात्मक थंडावा कमी होतो; त्यामुळे रात्रीचे तापमान वाढू शकते.",
+    "subject": "Geography",
+    "topic": "Urban Geography",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) Mangroves can reduce wave energy and trap sediments.\n(B) Mangrove ecosystems require permanently freshwater conditions.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) खारफुटी वनस्पती लाटांची ऊर्जा कमी करून गाळ अडकवू शकतात.\n(B) खारफुटी परिसंस्थांना कायमस्वरूपी गोड्या पाण्याचीच गरज असते.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanationEnglish": "Mangroves tolerate saline or brackish environments and can buffer coastal processes.",
+    "explanationMarathi": "खारफुटी वनस्पती खारट किंवा अर्धखारट पाण्यात तग धरतात आणि किनारी प्रक्रियांवर संरक्षणात्मक परिणाम करू शकतात.",
+    "subject": "Geography",
+    "topic": "Coasts",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) Earthquakes can occur along faults where stored strain is released.\n(B) Every earthquake is caused by volcanic eruption.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) साठलेला ताण भ्रंशावर मुक्त झाल्यास भूकंप होऊ शकतो.\n(B) प्रत्येक भूकंप ज्वालामुखीच्या उद्रेकामुळे होतो.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanationEnglish": "Most earthquakes are tectonic, involving sudden movement along faults; volcanic earthquakes are only one category.",
+    "explanationMarathi": "बहुतेक भूकंप विवर्तनिक असतात आणि भ्रंशांवरील अचानक हालचालींशी संबंधित असतात; ज्वालामुखीय भूकंप हा एक प्रकार आहे.",
+    "subject": "Geography",
+    "topic": "Plate Tectonics",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) GDP measures the value of final goods and services produced within a country during a period.\n(B) GDP includes every intermediate transaction separately to avoid double counting.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) GDP एखाद्या कालावधीत देशाच्या सीमेत उत्पादित अंतिम वस्तू व सेवांचे मूल्य मोजतो.\n(B) दुहेरी मोजणी टाळण्यासाठी GDP मध्ये प्रत्येक मध्यवर्ती व्यवहार स्वतंत्रपणे जोडला जातो.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanationEnglish": "GDP focuses on final output or value added; counting all intermediate transactions separately would create double counting.",
+    "explanationMarathi": "GDP मध्ये अंतिम उत्पादन किंवा मूल्यवर्धन मोजले जाते; सर्व मध्यवर्ती व्यवहार स्वतंत्रपणे जोडल्यास दुहेरी मोजणी होईल.",
+    "subject": "Economics",
+    "topic": "GDP",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) A sustained rise in the general price level reduces the purchasing power of money, ceteris paribus.\n(B) Inflation means that every individual price must rise by exactly the same percentage.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) सर्वसाधारण किंमत पातळी सातत्याने वाढल्यास इतर घटक स्थिर असताना पैशाची क्रयशक्ती कमी होते.\n(B) महागाई म्हणजे प्रत्येक किंमत अगदी समान टक्केवारीने वाढणे.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanationEnglish": "Inflation is a broad rise in the general price level; individual prices can move by different amounts or even fall.",
+    "explanationMarathi": "महागाई म्हणजे सर्वसाधारण किंमत पातळीतील वाढ. प्रत्येक वस्तूची किंमत समान प्रमाणात वाढणे आवश्यक नाही.",
+    "subject": "Economics",
+    "topic": "Inflation",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) Fiscal deficit broadly reflects the government’s total expenditure exceeding receipts excluding borrowings.\n(B) Fiscal deficit is identical to the current account deficit.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) कर्जउभारणी वगळता शासनाच्या प्राप्तीपेक्षा एकूण खर्च जास्त असणे ही राजकोषीय तुटीची व्यापक कल्पना आहे.\n(B) राजकोषीय तूट आणि चालू खात्यातील तूट एकच आहेत.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanationEnglish": "Fiscal deficit is a public-finance concept; the current account deficit is part of the balance of payments.",
+    "explanationMarathi": "राजकोषीय तूट ही सार्वजनिक वित्ताशी संबंधित आहे; चालू खात्यातील तूट देय शिल्लक व बाह्य क्षेत्राशी संबंधित आहे.",
+    "subject": "Economics",
+    "topic": "Fiscal Deficit",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) An increase in policy interest rates can weaken interest-sensitive borrowing and spending.\n(B) Higher policy rates mechanically guarantee a fall in every price in the economy immediately.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) धोरणात्मक व्याजदर वाढल्याने व्याजदरास संवेदनशील कर्जउभारणी व खर्च कमी होऊ शकतो.\n(B) धोरणात्मक व्याजदर वाढल्यावर अर्थव्यवस्थेतील प्रत्येक किंमत त्वरित कमी होणे हमखास असते.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanationEnglish": "Monetary transmission takes time and affects sectors differently; it does not mechanically reduce every price immediately.",
+    "explanationMarathi": "चलनविषयक धोरणाचा परिणाम वेळ घेऊ शकतो आणि वेगवेगळ्या क्षेत्रांवर वेगळा होतो; प्रत्येक किंमत त्वरित कमी होणे हमखास नाही.",
+    "subject": "Economics",
+    "topic": "Monetary Policy",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) Borrowing can finance capital expenditure that may raise future productive capacity.\n(B) Every public borrowing necessarily increases the government’s current revenue.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) कर्जउभारणीद्वारे भविष्यातील उत्पादक क्षमता वाढवणारा भांडवली खर्च वित्तपुरवठा करता येतो.\n(B) प्रत्येक सरकारी कर्जउभारणीमुळे सरकारचा चालू महसूल वाढतो.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanationEnglish": "Borrowing creates resources now and a liability for repayment; it is not itself current revenue.",
+    "explanationMarathi": "कर्जउभारणीमुळे तत्काळ निधी मिळतो पण भविष्यात परतफेडीचे दायित्व निर्माण होते; ती स्वतः चालू महसूल नाही.",
+    "subject": "Economics",
+    "topic": "Public Debt",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) If demand falls 20% when price rises 10%, price elasticity magnitude exceeds one.\n(B) Such demand is perfectly inelastic.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) किंमत १०% वाढल्यावर मागणी २०% घटली तर किंमत लवचिकतेचे परिमाण एकापेक्षा जास्त आहे.\n(B) अशी मागणी पूर्णपणे अलवचिक आहे.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanationEnglish": "Elasticity magnitude is 20/10 = 2, so demand is elastic, not perfectly inelastic.",
+    "explanationMarathi": "लवचिकतेचे परिमाण = २०/१० = २. त्यामुळे मागणी लवचिक आहे; पूर्णपणे अलवचिक नाही.",
+    "subject": "Economics",
+    "topic": "Elasticity",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) A current account deficit can coexist with a financial-account surplus.\n(B) A current account deficit necessarily means exports exceed imports.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) चालू खात्यातील तूट वित्तीय खात्यातील अधिशेषासोबत अस्तित्वात राहू शकते.\n(B) चालू खात्यातील तूट म्हणजे निर्यात आयातीपेक्षा जास्त असणे.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanationEnglish": "External deficits can be financed by capital/financial inflows; a trade deficit is one possible component of a current account deficit.",
+    "explanationMarathi": "बाह्य तूट भांडवली/वित्तीय प्रवाहातून वित्तपुरवठा केली जाऊ शकते; व्यापार तूट ही चालू खात्यातील तुटीचा एक घटक असू शकते.",
+    "subject": "Economics",
+    "topic": "Balance of Payments",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) A bank creates deposit money when it extends credit under the banking system.\n(B) Every bank loan must be funded solely by prior physical cash deposits kept in a vault.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) बँकिंग व्यवस्थेत बँक कर्ज देताना ठेवींच्या रूपात पैसा निर्माण करू शकते.\n(B) प्रत्येक बँक कर्जासाठी तिजोरीतील आधीपासूनच्या भौतिक रोख ठेवींचाच वापर करणे बंधनकारक आहे.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanationEnglish": "Modern deposit banking creates deposit balances through lending, subject to liquidity, capital and regulatory constraints.",
+    "explanationMarathi": "आधुनिक बँकिंगमध्ये कर्जवितरणातून ठेवी निर्माण होऊ शकतात; त्यावर तरलता, भांडवल व नियामक मर्यादा असतात.",
+    "subject": "Economics",
+    "topic": "Banking",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) Opportunity cost is the value of the next best alternative forgone.\n(B) Opportunity cost is always equal to the money price paid for the chosen option.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) संधी खर्च म्हणजे निवडलेल्या पर्यायामुळे सोडून दिलेल्या पुढील सर्वोत्तम पर्यायाचे मूल्य.\n(B) संधी खर्च नेहमी निवडलेल्या पर्यायासाठी दिलेल्या पैशाच्या किंमतीइतकाच असतो.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanationEnglish": "Opportunity cost depends on the best forgone alternative and need not equal the explicit monetary price.",
+    "explanationMarathi": "संधी खर्च पुढील सर्वोत्तम सोडलेल्या पर्यायाच्या मूल्यावर अवलंबून असतो; तो स्पष्ट पैशाच्या किंमतीइतकाच असणे आवश्यक नाही.",
+    "subject": "Economics",
+    "topic": "Opportunity Cost",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) In a simple model without taxes/imports, a higher MPC produces a larger spending multiplier.\n(B) The multiplier is 1/MPC.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) कर व आयात नसलेल्या साध्या मॉडेलमध्ये MPC जास्त असल्यास खर्च गुणक मोठा होतो.\n(B) खर्च गुणक = १/MPC असतो.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanationEnglish": "The simple multiplier is 1/(1−MPC), not 1/MPC.",
+    "explanationMarathi": "साधा खर्च गुणक १/(१−MPC) असतो; १/MPC नाही.",
+    "subject": "Economics",
+    "topic": "Multiplier",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) Frictional unemployment can arise while workers search for jobs.\n(B) Frictional unemployment necessarily disappears whenever an economy is growing.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) कामगार नवीन नोकरी शोधत असताना घर्षणात्मक बेरोजगारी निर्माण होऊ शकते.\n(B) अर्थव्यवस्था वाढत असताना घर्षणात्मक बेरोजगारी आपोआप पूर्णपणे नाहीशी होते.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanationEnglish": "Job search and matching take time even in growing economies, so some frictional unemployment can persist.",
+    "explanationMarathi": "अर्थव्यवस्था वाढत असतानाही नोकरी शोधणे व जुळवणी यासाठी वेळ लागतो; त्यामुळे काही घर्षणात्मक बेरोजगारी राहू शकते.",
+    "subject": "Economics",
+    "topic": "Unemployment",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) Pollution from a factory imposed on nearby residents is a negative externality.\n(B) A negative externality is fully reflected in the producer’s private cost by definition.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) कारखान्याच्या प्रदूषणाचा जवळच्या रहिवाशांवर होणारा परिणाम नकारात्मक बाह्य परिणाम आहे.\n(B) नकारात्मक बाह्य परिणामाची सामाजिक किंमत व्याख्येने उत्पादकाच्या खाजगी खर्चात पूर्णपणे समाविष्ट असते.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanationEnglish": "An externality is precisely an effect on third parties outside the decision-maker’s private cost/benefit calculation.",
+    "explanationMarathi": "बाह्य परिणाम म्हणजे निर्णय घेणाऱ्याच्या खाजगी खर्च-फायद्याबाहेरील तृतीय पक्षावर होणारा परिणाम.",
+    "subject": "Economics",
+    "topic": "Externalities",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) A progressive tax system takes a higher average tax burden as income rises, under its standard definition.\n(B) A progressive tax has the same average tax rate at every income level.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) प्रगतिशील करप्रणालीत उत्पन्न वाढल्यावर सरासरी करभार वाढतो.\n(B) प्रगतिशील करात प्रत्येक उत्पन्न पातळीवर सरासरी करदर समान असतो.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanationEnglish": "Progressivity means the average tax rate rises with income; a constant average rate is proportional taxation.",
+    "explanationMarathi": "प्रगतिशील करात उत्पन्न वाढल्यावर सरासरी करदर वाढतो; समान सरासरी दर ही प्रमाणबद्ध करप्रणालीची वैशिष्ट्ये आहेत.",
+    "subject": "Economics",
+    "topic": "Taxation",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) Haemoglobin binds oxygen reversibly in red blood cells.\n(B) Haemoglobin is produced mainly by mature red blood cells after they lose their nucleus.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) हिमोग्लोबिन लाल रक्तपेशींमध्ये ऑक्सिजनशी उलटणाऱ्या पद्धतीने बांधले जाते.\n(B) केंद्रक गमावल्यानंतर परिपक्व लाल रक्तपेशी मुख्यतः स्वतः हिमोग्लोबिन तयार करतात.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanationEnglish": "Haemoglobin is synthesised during erythropoiesis before mature mammalian RBCs lose their nucleus; mature RBCs lack the machinery for protein synthesis.",
+    "explanationMarathi": "सस्तन प्राण्यांच्या परिपक्व लाल रक्तपेशी केंद्रक गमावण्यापूर्वी हिमोग्लोबिन तयार करतात. परिपक्व पेशींमध्ये प्रथिन संश्लेषणाची यंत्रणा नसते.",
+    "subject": "General Science",
+    "topic": "Human Physiology",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) A heterozygous individual has two different alleles at a locus.\n(B) A homozygous individual must always express a recessive phenotype.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) विषमयुग्मजीवामध्ये एखाद्या स्थानावर दोन भिन्न अॅलील असतात.\n(B) समयुग्मजीवामध्ये नेहमीच अप्रभावी लक्षण दिसते.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanationEnglish": "Heterozygosity means different alleles; homozygous individuals can be dominant or recessive depending on the alleles.",
+    "explanationMarathi": "विषमयुग्मज म्हणजे भिन्न अॅलील; समयुग्मज प्रभावी किंवा अप्रभावी कोणतेही असू शकते.",
+    "subject": "General Science",
+    "topic": "Genetics",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) Mitochondria contain their own genetic material.\n(B) Mitochondria are completely independent of nuclear genes for all proteins they contain.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) मायटोकॉन्ड्रियामध्ये स्वतःचे आनुवंशिक पदार्थ असतात.\n(B) मायटोकॉन्ड्रियातील सर्व प्रथिनांसाठी ते केंद्रकीय जनुकांपासून पूर्णपणे स्वतंत्र असतात.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanationEnglish": "Mitochondria have their own DNA but many mitochondrial proteins are encoded by nuclear genes.",
+    "explanationMarathi": "मायटोकॉन्ड्रियामध्ये स्वतःचे DNA असते; मात्र त्यातील अनेक प्रथिनांसाठी केंद्रकीय जनुकांवर अवलंबून राहावे लागते.",
+    "subject": "General Science",
+    "topic": "Cell Biology",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) During aerobic respiration, oxygen serves as the final electron acceptor in the mitochondrial electron transport chain.\n(B) Glycolysis occurs inside mitochondria in eukaryotic cells.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) एरोबिक श्वसनात माइटोकॉन्ड्रियातील इलेक्ट्रॉन वाहतूक साखळीत ऑक्सिजन अंतिम इलेक्ट्रॉन स्वीकारक असतो.\n(B) युकॅरियोटिक पेशींमध्ये ग्लायकोलिसिस माइटोकॉन्ड्रियात होते.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanationEnglish": "Glycolysis occurs in the cytosol; oxygen is the terminal electron acceptor in the mitochondrial electron transport chain.",
+    "explanationMarathi": "ग्लायकोलिसिस पेशीद्रव्यात होते; माइटोकॉन्ड्रियातील इलेक्ट्रॉन वाहतूक साखळीत ऑक्सिजन अंतिम इलेक्ट्रॉन स्वीकारक आहे.",
+    "subject": "General Science",
+    "topic": "Respiration",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) Transpiration can contribute to the upward movement of water through the cohesion-tension mechanism.\n(B) Transpiration occurs only at roots.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) cohesion-tension यंत्रणेद्वारे बाष्पोत्सर्जन पाण्याच्या वरच्या दिशेने हालचालीस हातभार लावते.\n(B) बाष्पोत्सर्जन फक्त मुळांमध्ये होते.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanationEnglish": "Water loss from leaves generates tension transmitted through the continuous water column; transpiration occurs mainly through aerial parts, especially stomata.",
+    "explanationMarathi": "पानांमधून पाण्याची हानी ताण निर्माण करते आणि तो सलग जलस्तंभातून खाली प्रसारित होतो; बाष्पोत्सर्जन प्रामुख्याने हवाई भागातून होते.",
+    "subject": "General Science",
+    "topic": "Plant Physiology",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) Memory cells can enable a faster secondary immune response.\n(B) Vaccination works by permanently eliminating every pathogen from the environment.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) स्मृती पेशींमुळे दुसरा प्रतिकारशक्ती प्रतिसाद अधिक जलद होऊ शकतो.\n(B) लसीकरणामुळे पर्यावरणातील प्रत्येक रोगकारक कायमचा नष्ट होतो.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanationEnglish": "Vaccination trains adaptive immunity; it does not physically eliminate every pathogen from the environment.",
+    "explanationMarathi": "लसीकरण अनुकूली प्रतिकारशक्तीला प्रशिक्षित करते; ते पर्यावरणातील प्रत्येक रोगकारक नष्ट करत नाही.",
+    "subject": "General Science",
+    "topic": "Immunity",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) In a series circuit, the same current passes through each ideal resistor.\n(B) In a parallel circuit, the voltage across each branch is the same for ideal branches connected to the same two nodes.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) श्रेणी परिपथात प्रत्येक आदर्श प्रतिरोधकातून समान प्रवाह जातो.\n(B) समान दोन नोड्सना जोडलेल्या समांतर शाखांमध्ये आदर्श स्थितीत प्रत्येक शाखेवरील विभवांतर समान असते.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanationEnglish": "Series elements share the same current; parallel branches connected across the same two nodes share the same voltage.",
+    "explanationMarathi": "श्रेणी परिपथात प्रवाह समान असतो; समान दोन नोड्समध्ये जोडलेल्या समांतर शाखांवर विभवांतर समान असते.",
+    "subject": "General Science",
+    "topic": "Physics—Electricity",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) During melting of a pure substance at its melting point, supplied heat can increase internal energy without raising temperature.\n(B) During melting, all supplied heat necessarily raises temperature.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) शुद्ध पदार्थाच्या वितळबिंदूवर वितळताना दिलेली उष्णता तापमान न वाढवता अंतर्गत ऊर्जा वाढवू शकते.\n(B) वितळताना दिलेली सर्व उष्णता तापमान वाढवते.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanationEnglish": "Latent heat is used for the phase change, so temperature can remain constant during melting at fixed pressure.",
+    "explanationMarathi": "गुप्त उष्णता अवस्थांतरासाठी वापरली जाते; निश्चित दाबावर वितळताना तापमान स्थिर राहू शकते.",
+    "subject": "General Science",
+    "topic": "Physics—Heat",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) A convex lens can form a virtual magnified image when the object lies within its focal length.\n(B) A convex lens always forms a real image.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) वस्तू नाभीय अंतराच्या आत असल्यास उत्तल भिंग आभासी व मोठी प्रतिमा तयार करू शकते.\n(B) उत्तल भिंग नेहमी वास्तविक प्रतिमा तयार करते.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanationEnglish": "Within the focal length, a convex lens produces a virtual, erect and magnified image; otherwise it can form real images.",
+    "explanationMarathi": "नाभीय अंतराच्या आत वस्तू असल्यास उत्तल भिंग आभासी, सुलट व मोठी प्रतिमा तयार करते; इतर परिस्थितीत वास्तविक प्रतिमा मिळू शकते.",
+    "subject": "General Science",
+    "topic": "Optics",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) A catalyst can change the rate of a reaction without being consumed overall.\n(B) A catalyst changes the equilibrium constant of a reversible reaction.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) उत्प्रेरक स्वतः एकूण खर्च न होता रासायनिक अभिक्रियेचा वेग बदलू शकतो.\n(B) उत्प्रेरक उत्क्रमणीय अभिक्रियेचा समतोल स्थिरांक बदलतो.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanationEnglish": "Catalysts lower activation barriers for forward and reverse reactions similarly and do not change the equilibrium constant.",
+    "explanationMarathi": "उत्प्रेरक पुढील व मागील अभिक्रियांसाठी सक्रियण ऊर्जा कमी करतो आणि समतोल स्थिरांक बदलत नाही.",
+    "subject": "General Science",
+    "topic": "Chemistry",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) Eutrophication can be promoted by excess nutrient inputs into water bodies.\n(B) Eutrophication necessarily increases dissolved oxygen indefinitely.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) जलाशयात अतिरिक्त पोषकद्रव्ये गेल्याने सुपोषण वाढू शकते.\n(B) सुपोषणामुळे विरघळलेल्या ऑक्सिजनचे प्रमाण अनिश्चित काळासाठी वाढत जाते.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanationEnglish": "Nutrient enrichment can cause algal growth and subsequent decomposition, which may reduce dissolved oxygen.",
+    "explanationMarathi": "अतिरिक्त पोषकद्रव्यांमुळे शैवाल वाढू शकतात आणि त्यांच्या विघटनामुळे विरघळलेला ऑक्सिजन कमी होऊ शकतो.",
+    "subject": "General Science",
+    "topic": "Environment",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) After three half-lives, one-eighth of a radioactive sample remains.\n(B) Half-life depends on the initial quantity of the radioactive sample.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) तीन अर्धायुष्यांनंतर किरणोत्सर्गी नमुन्याचा एक-अष्टमांश भाग शिल्लक राहतो.\n(B) अर्धायुष्य नमुन्याच्या प्रारंभिक प्रमाणावर अवलंबून असते.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanationEnglish": "After three half-lives, (1/2)^3 = 1/8 remains. Half-life is characteristic of the radionuclide under given conditions, not its initial amount.",
+    "explanationMarathi": "तीन अर्धायुष्यांनंतर (१/२)^३ = १/८ भाग उरतो. अर्धायुष्य हे किरणोत्सर्गी समस्थानिकाचे वैशिष्ट्य आहे; प्रारंभिक प्रमाणावर ते अवलंबून नसते.",
+    "subject": "General Science",
+    "topic": "Nuclear Physics",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) Antibiotics that target bacterial cell-wall synthesis can be ineffective against viruses.\n(B) Viruses possess bacterial peptidoglycan cell walls.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) जीवाणूंच्या पेशीभित्ती निर्मितीवर परिणाम करणारी प्रतिजैविके विषाणूंवर प्रभावी नसू शकतात.\n(B) विषाणूंमध्ये जीवाणूंसारखी पेप्टिडोग्लायकन पेशीभित्ती असते.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanationEnglish": "Viruses lack bacterial peptidoglycan cell walls, so antibiotics aimed at that structure do not have the same target.",
+    "explanationMarathi": "विषाणूंमध्ये जीवाणूंसारखी पेप्टिडोग्लायकन पेशीभित्ती नसते; त्यामुळे अशा प्रतिजैविकांचे लक्ष्य विषाणूंमध्ये नसते.",
+    "subject": "General Science",
+    "topic": "Microbiology",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) Energy flow through an ecosystem is unidirectional, while nutrients cycle.\n(B) Energy is recycled indefinitely in exactly the same way as nutrients.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) परिसंस्थेत ऊर्जा प्रवाह एकदिशीय असतो, तर पोषकद्रव्ये चक्राकार फिरतात.\n(B) पोषकद्रव्यांप्रमाणे ऊर्जा देखील तंतोतंत त्याच प्रकारे अनिश्चित काळ पुनर्वापरली जाते.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanationEnglish": "Energy enters mainly as solar energy and is progressively dissipated as heat, whereas matter cycles through ecosystems.",
+    "explanationMarathi": "ऊर्जा मुख्यतः सौर ऊर्जेच्या रूपात येते आणि उष्णतेच्या रूपात विसर्जित होते; पदार्थ मात्र परिसंस्थेत चक्राकार फिरतात.",
+    "subject": "General Science",
+    "topic": "Ecology",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) The Regulating Act of 1773 attempted to increase parliamentary control over the East India Company.\n(B) It abolished the East India Company immediately.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) १७७३ च्या रेग्युलेटिंग अॅक्टने ईस्ट इंडिया कंपनीवरील संसदीय नियंत्रण वाढवण्याचा प्रयत्न केला.\n(B) त्याने ईस्ट इंडिया कंपनी तात्काळ समाप्त केली.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanationEnglish": "The Act regulated Company administration but did not abolish the Company.",
+    "explanationMarathi": "या कायद्याने कंपनीच्या प्रशासनावर नियंत्रण वाढवले; कंपनी तात्काळ समाप्त केली नाही.",
+    "subject": "History",
+    "topic": "British Acts",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) The Charter Act of 1813 ended the Company’s trade monopoly in India with important exceptions.\n(B) It ended the Company’s political rule in India.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) १८१३ च्या चार्टर अॅक्टने काही महत्त्वाच्या अपवादांसह भारतातील कंपनीची व्यापार मक्तेदारी संपवली.\n(B) त्याने भारतातील कंपनीची राजकीय सत्ता संपवली.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanationEnglish": "The Act ended most of the Company’s trade monopoly but retained its political role.",
+    "explanationMarathi": "या कायद्याने कंपनीची बहुतांश व्यापार मक्तेदारी संपवली, पण भारतातील तिची राजकीय सत्ता कायम राहिली.",
+    "subject": "History",
+    "topic": "Charter Act 1813",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) The Revolt of 1857 had multiple political, military, social and economic causes.\n(B) The revolt was caused exclusively by the cartridge issue.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) १८५७ च्या उठावामागे राजकीय, लष्करी, सामाजिक आणि आर्थिक अशी अनेक कारणे होती.\n(B) उठावाचे एकमेव कारण काडतूस प्रकरण होते.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanationEnglish": "The cartridge issue acted as an immediate trigger in a wider context of accumulated grievances.",
+    "explanationMarathi": "काडतूस प्रकरण हे तात्कालिक कारण/ठिणगी होते; त्यामागे दीर्घकाळ साचलेल्या अनेक तक्रारी होत्या.",
+    "subject": "History",
+    "topic": "1857",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) The first session of the Indian National Congress was held in Bombay in 1885.\n(B) W.C. Bonnerjee presided over the first session.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) भारतीय राष्ट्रीय काँग्रेसचे पहिले अधिवेशन १८८५ मध्ये मुंबईत झाले.\n(B) पहिल्या अधिवेशनाचे अध्यक्ष डब्ल्यू. सी. बॅनर्जी होते.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanationEnglish": "The first INC session was held in Bombay in 1885 under the presidency of W.C. Bonnerjee.",
+    "explanationMarathi": "१८८५ मध्ये मुंबई येथे डब्ल्यू. सी. बॅनर्जी यांच्या अध्यक्षतेखाली काँग्रेसचे पहिले अधिवेशन झाले.",
+    "subject": "History",
+    "topic": "Indian National Congress",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) Early Moderates relied substantially on constitutional methods, petitions and public debate.\n(B) They rejected all forms of economic criticism of colonial rule.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) प्रारंभीच्या मवाळ राष्ट्रवाद्यांनी घटनात्मक मार्ग, याचिका आणि सार्वजनिक चर्चेवर मोठ्या प्रमाणात भर दिला.\n(B) त्यांनी वसाहतवादी राजवटीवरील सर्व आर्थिक टीका नाकारली.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanationEnglish": "Moderates used constitutional methods and also developed important economic critiques, including the drain argument.",
+    "explanationMarathi": "मवाळ नेत्यांनी घटनात्मक मार्ग वापरले आणि वसाहतवादी आर्थिक शोषणाची टीकाही केली; संपत्तीच्या निचऱ्याचा सिद्धांत याचे उदाहरण आहे.",
+    "subject": "History",
+    "topic": "Moderates",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) The Swadeshi movement encouraged boycott of foreign goods and promotion of indigenous production.\n(B) Swadeshi was confined entirely to military resistance.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) स्वदेशी चळवळीने परकीय वस्तूंच्या बहिष्काराला आणि स्वदेशी उत्पादनाला प्रोत्साहन दिले.\n(B) स्वदेशी चळवळ पूर्णपणे लष्करी प्रतिकारापुरती मर्यादित होती.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanationEnglish": "Swadeshi combined economic boycott, indigenous enterprise, education and political mobilisation rather than being solely military.",
+    "explanationMarathi": "स्वदेशीमध्ये आर्थिक बहिष्कार, स्वदेशी उद्योग, शिक्षण आणि राजकीय जनजागृती होती; ती केवळ लष्करी चळवळ नव्हती.",
+    "subject": "History",
+    "topic": "Swadeshi",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) The Non-Cooperation Movement was launched in 1920.\n(B) The Quit India Movement was launched in 1930.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) असहकार चळवळ १९२० मध्ये सुरू झाली.\n(B) भारत छोडो चळवळ १९३० मध्ये सुरू झाली.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanationEnglish": "Non-Cooperation began in 1920; Quit India was launched in 1942.",
+    "explanationMarathi": "असहकार चळवळ १९२० मध्ये सुरू झाली; भारत छोडो चळवळ १९४२ मध्ये सुरू झाली.",
+    "subject": "History",
+    "topic": "Gandhian Era",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) The Salt March challenged the colonial salt laws.\n(B) The Civil Disobedience Movement was based on complete withdrawal from all political activity.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) मिठाच्या सत्याग्रहाने वसाहतवादी मिठाच्या कायद्याला आव्हान दिले.\n(B) सविनय कायदेभंग चळवळ म्हणजे सर्व राजकीय क्रियाकलापांमधून पूर्ण माघार.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanationEnglish": "The movement deliberately violated selected colonial laws as a form of non-violent resistance.",
+    "explanationMarathi": "चळवळीने अहिंसक प्रतिकाराच्या स्वरूपात निवडक वसाहतवादी कायद्यांचे जाणीवपूर्वक उल्लंघन केले.",
+    "subject": "History",
+    "topic": "Civil Disobedience",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) The Government of India Act 1935 provided for provincial autonomy.\n(B) The federal scheme under the Act was fully implemented before 1939.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) भारत सरकार कायदा १९३५ मध्ये प्रांतिक स्वायत्ततेची तरतूद होती.\n(B) त्या कायद्यातील संघराज्यीय योजना १९३९ पूर्वी पूर्णपणे लागू झाली.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanationEnglish": "Provincial autonomy was introduced, but the proposed federation was never fully brought into operation.",
+    "explanationMarathi": "प्रांतिक स्वायत्तता लागू झाली; मात्र प्रस्तावित संघराज्य पूर्णपणे अस्तित्वात आले नाही.",
+    "subject": "History",
+    "topic": "Government of India Act 1935",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) Satyashodhak Samaj was founded by Jyotirao Phule.\n(B) Its central purpose was to strengthen hereditary caste privilege.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) सत्यशोधक समाजाची स्थापना ज्योतिराव फुले यांनी केली.\n(B) त्याचा मुख्य उद्देश वंशपरंपरागत जातीय विशेषाधिकार बळकट करणे हा होता.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanationEnglish": "The Satyashodhak Samaj challenged caste hierarchy and promoted social equality and education.",
+    "explanationMarathi": "सत्यशोधक समाजाने जातीय उतरंडीस आव्हान देऊन सामाजिक समता व शिक्षणाला प्रोत्साहन दिले.",
+    "subject": "History",
+    "topic": "Social Reform Maharashtra",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) Mahadev Govind Ranade was associated with social reform.\n(B) Ranade advocated the complete abolition of all education for women.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) महादेव गोविंद रानडे सामाजिक सुधारणांशी संबंधित होते.\n(B) रानडे यांनी स्त्रियांच्या शिक्षणाचा पूर्णपणे विरोध केला.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanationEnglish": "Ranade supported social reform and education; the second statement contradicts his reformist orientation.",
+    "explanationMarathi": "रानडे सामाजिक सुधारणा व शिक्षणाचे समर्थक होते; त्यामुळे दुसरे विधान त्यांच्या विचारांच्या विरोधात आहे.",
+    "subject": "History",
+    "topic": "Maharashtra Reform",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) The Poona Pact of 1932 concerned political representation of the Depressed Classes.\n(B) It was an agreement concerning the partition of India in 1947.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) १९३२ चा पुणे करार दलित वर्गाच्या राजकीय प्रतिनिधित्वाशी संबंधित होता.\n(B) तो १९४७ मधील भारताच्या फाळणीसंबंधी करार होता.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanationEnglish": "The Pact modified representation arrangements in the context of the separate-electorates controversy; it was decades before Partition.",
+    "explanationMarathi": "स्वतंत्र मतदारसंघाच्या वादाच्या पार्श्वभूमीवर पुणे कराराने प्रतिनिधित्वाची व्यवस्था बदलली; तो फाळणीपूर्व १९३२ मधील करार होता.",
+    "subject": "History",
+    "topic": "Poona Pact",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) The Quit India resolution was adopted in August 1942.\n(B) Its central demand was immediate British withdrawal from India.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) भारत छोडो ठराव ऑगस्ट १९४२ मध्ये स्वीकारला गेला.\n(B) त्याची मध्यवर्ती मागणी भारतातून ब्रिटिशांनी तात्काळ माघार घ्यावी ही होती.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanationEnglish": "The movement was launched in August 1942 with the demand for an end to British rule.",
+    "explanationMarathi": "ऑगस्ट १९४२ मध्ये ब्रिटिश राजवट समाप्त करून भारतातून माघार घेण्याची मागणी करत चळवळ सुरू झाली.",
+    "subject": "History",
+    "topic": "Quit India",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) Dadabhai Naoroji used the drain theory to critique colonial economic extraction.\n(B) The drain theory argued that all British investment in India necessarily benefited India equally.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) दादाभाई नौरोजींनी वसाहतवादी आर्थिक शोषणावर टीका करण्यासाठी संपत्तीच्या निचऱ्याचा सिद्धांत मांडला.\n(B) ब्रिटिशांची भारतातील सर्व गुंतवणूक भारताला समान लाभ देते असे निचरा सिद्धांताने मांडले.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanationEnglish": "The drain theory focused on unrequited transfers of resources from India to Britain rather than claiming equal benefit from colonial flows.",
+    "explanationMarathi": "निचरा सिद्धांताने भारतातून ब्रिटनकडे समतुल्य परतावा नसलेल्या संसाधन हस्तांतरणावर भर दिला; सर्व गुंतवणुकीला समान लाभदायक मानले नाही.",
+    "subject": "History",
+    "topic": "Economic Nationalism",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) In the series 5, 11, 23, 47, 95, the next term is 191.\n(B) The rule is previous term ×2 +1.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) ५, ११, २३, ४७, ९५ या मालिकेतील पुढील पद १९१ आहे.\n(B) नियम = मागील पद ×२ +१.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanationEnglish": "Each term is twice the previous term plus one: 5→11→23→47→95→191.",
+    "explanationMarathi": "प्रत्येक पद = मागील पद ×२ +१: ५→११→२३→४७→९५→१९१.",
+    "subject": "Reasoning",
+    "topic": "Number Series",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) Increasing a number by 30% and then decreasing it by 30% returns the original value.\n(B) The final value is 9% below the original.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) संख्या ३०% वाढवून नंतर ३०% घटवल्यास मूळ संख्या परत मिळते.\n(B) अंतिम संख्या मूळ संख्येपेक्षा ९% कमी असते.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "C",
+    "explanationEnglish": "Multiplying by 1.30 and then 0.70 gives 0.91, so the final value is 9% lower.",
+    "explanationMarathi": "१.३० × ०.७० = ०.९१. त्यामुळे अंतिम संख्या मूळ संख्येपेक्षा ९% कमी असते.",
+    "subject": "Reasoning",
+    "topic": "Percentages",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) If 12 workers finish a job in 15 days, the work equals 180 worker-days at constant efficiency.\n(B) 15 workers would necessarily need 18 days for the same job.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) १२ कामगार १५ दिवसांत काम पूर्ण करतात तर समान कार्यक्षमतेत काम = १८० कामगार-दिवस.\n(B) १५ कामगारांना त्याच कामासाठी निश्चितपणे १८ दिवस लागतील.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanationEnglish": "Total work is 12×15=180 worker-days; 180/15=12 days, not 18.",
+    "explanationMarathi": "एकूण काम = १२×१५=१८० कामगार-दिवस. १५ कामगारांसाठी वेळ = १८०/१५=१२ दिवस.",
+    "subject": "Reasoning",
+    "topic": "Work and Time",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) The probability of at least one head in two fair coin tosses is 3/4.\n(B) The probability of two tails is 1/2.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) दोन निष्पक्ष नाणेफेकीत किमान एक छापा येण्याची शक्यता ३/४ आहे.\n(B) दोन शेपटे येण्याची शक्यता १/२ आहे.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanationEnglish": "Only TT has no head, so at least one head = 1−1/4=3/4; TT itself has probability 1/4.",
+    "explanationMarathi": "किमान एक छापा न येण्याचा एकमेव परिणाम TT असून त्याची शक्यता १/४. म्हणून किमान एक छापा = ३/४; TT = १/४.",
+    "subject": "Reasoning",
+    "topic": "Probability",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) The average of 8, 12, 16 and 24 is 15.\n(B) If 10 is added to every observation, the average also increases by 10.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) ८, १२, १६ आणि २४ यांची सरासरी १५ आहे.\n(B) प्रत्येक निरीक्षणात १० वाढवल्यास सरासरी देखील १० ने वाढते.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanationEnglish": "Sum is 60, so average is 15. Adding a constant to every observation adds the same constant to the average.",
+    "explanationMarathi": "बेरीज ६० असल्याने सरासरी १५. प्रत्येक निरीक्षणात समान १० जोडल्यास सरासरीही १० ने वाढते.",
+    "subject": "Reasoning",
+    "topic": "Average",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) If A:B=3:5 and B:C=10:7, then A:C=3:3.5.\n(B) Therefore A:C=6:7.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) A:B=३:५ आणि B:C=१०:७ असल्यास A:C=३:३.५.\n(B) त्यामुळे A:C=६:७.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanationEnglish": "Make B common: 3:5 = 6:10, so A:B:C = 6:10:7 and A:C=6:7, which is also 3:3.5.",
+    "explanationMarathi": "B समान केल्यास ३:५ = ६:१०. त्यामुळे A:B:C=६:१०:७ आणि A:C=६:७; हे ३:३.५ याच्याशी समतुल्य आहे.",
+    "subject": "Reasoning",
+    "topic": "Ratio",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) Moving 4 km east and then 3 km north gives a displacement of 5 km.\n(B) The final direction from the start is north-east.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) ४ किमी पूर्व आणि नंतर ३ किमी उत्तर गेल्यास विस्थापन ५ किमी असते.\n(B) सुरुवातीच्या बिंदूपासून अंतिम दिशा ईशान्य असते.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanationEnglish": "The displacement is sqrt(4²+3²)=5 km and both east and north components are positive, so direction is north-east.",
+    "explanationMarathi": "विस्थापन = √(४²+३²)=५ किमी. पूर्व व उत्तर दोन्ही घटक असल्याने दिशा ईशान्य आहे.",
+    "subject": "Reasoning",
+    "topic": "Direction Sense",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) If every letter is shifted one place forward, CAT becomes DBU.\n(B) Under the same rule, DOG becomes EPH.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) प्रत्येक अक्षर एक स्थान पुढे सरकवल्यास CAT चे DBU होते.\n(B) त्याच नियमानुसार DOG चे EPH होते.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanationEnglish": "C→D, A→B, T→U and D→E, O→P, G→H, so both are correct.",
+    "explanationMarathi": "C→D, A→B, T→U आणि D→E, O→P, G→H; त्यामुळे दोन्ही विधाने बरोबर.",
+    "subject": "Reasoning",
+    "topic": "Coding",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) All pens are instruments and some instruments are expensive; therefore some pens are expensive.\n(B) From the premises alone, the conclusion necessarily follows.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) सर्व पेन ही साधने आहेत आणि काही साधने महाग आहेत; म्हणून काही पेन महाग आहेत.\n(B) केवळ दिलेल्या आधारावर निष्कर्ष निश्चितपणे निघतो.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "D",
+    "explanationEnglish": "The expensive instruments need not be pens, so the conclusion that some pens are expensive does not follow.",
+    "explanationMarathi": "महाग साधने पेनच असतील असे नाही. त्यामुळे काही पेन महाग आहेत हा निष्कर्ष निश्चितपणे निघत नाही.",
+    "subject": "Reasoning",
+    "topic": "Syllogism",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) If an article costs ₹800 and is sold at 15% profit, its selling price is ₹920.\n(B) A 15% profit means the selling price is ₹120 below cost.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) एखाद्या वस्तूची किंमत ₹८०० असून १५% नफ्याने विकल्यास विक्री किंमत ₹९२० असते.\n(B) १५% नफा म्हणजे विक्री किंमत खर्चापेक्षा ₹१२० कमी असते.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanationEnglish": "Profit = 15% of 800 = 120, so selling price = 920; it is ₹120 above cost.",
+    "explanationMarathi": "नफा = ८०० च्या १५% = ₹१२०. विक्री किंमत ₹९२०, म्हणजे खर्चापेक्षा ₹१२० जास्त.",
+    "subject": "Reasoning",
+    "topic": "Profit and Loss",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) The minute hand gains 360° in 60 minutes.\n(B) The hour hand gains 360° in 60 minutes.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) मिनिट काटा ६० मिनिटांत ३६०° फिरतो.\n(B) तास काटाही ६० मिनिटांत ३६०° फिरतो.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanationEnglish": "The minute hand completes one revolution per hour; the hour hand moves only 30° in one hour.",
+    "explanationMarathi": "मिनिट काटा एका तासात एक पूर्ण फेरी म्हणजे ३६०° फिरतो; तास काटा एका तासात फक्त ३०° फिरतो.",
+    "subject": "Reasoning",
+    "topic": "Clock",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) Knowing x+y=10 alone is sufficient to determine x.\n(B) Knowing x+y=10 and x−y=2 is sufficient to determine x.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) x+y=१० एवढी माहिती x निश्चित करण्यासाठी पुरेशी आहे.\n(B) x+y=१० आणि x−y=२ ही माहिती x निश्चित करण्यासाठी पुरेशी आहे.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "C",
+    "explanationEnglish": "The first equation has infinitely many pairs; together, adding the equations gives 2x=12, so x=6.",
+    "explanationMarathi": "पहिल्या समीकरणातून अनेक जोड्या शक्य आहेत. दोन्ही समीकरणे जोडल्यास २x=१२, म्हणून x=६ निश्चित होते.",
+    "subject": "Reasoning",
+    "topic": "Data Sufficiency",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) If x=−3, x²=9.\n(B) If x²=9, x must be 3.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) x=−३ असल्यास x²=९.\n(B) x²=९ असल्यास x निश्चितपणे ३ असतो.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanationEnglish": "(-3)²=9, but x²=9 has two real solutions, x=3 and x=−3.",
+    "explanationMarathi": "(−३)²=९; पण x²=९ ची दोन वास्तविक उत्तरे x=३ आणि x=−३ आहेत.",
+    "subject": "Reasoning",
+    "topic": "Algebra",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) Measuring service completion time is an outcome indicator.\n(B) Counting only the number of app downloads fully measures service quality.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) सेवा पूर्ण होण्यास लागणारा वेळ मोजणे हे परिणाम निर्देशक आहे.\n(B) फक्त अॅप डाउनलोडची संख्या मोजल्याने सेवेची गुणवत्ता पूर्णपणे मोजली जाते.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanationEnglish": "Completion time reflects actual delivery performance; downloads are an input/usage metric and do not by themselves establish service quality.",
+    "explanationMarathi": "सेवा पूर्ण होण्याचा वेळ प्रत्यक्ष सेवा-परिणाम दर्शवतो; डाउनलोडची संख्या वापर दर्शवते पण ती एकटी सेवा गुणवत्ता सिद्ध करत नाही.",
+    "subject": "Current Affairs",
+    "topic": "Digital Governance",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) Battery storage can help shift electricity availability from periods of surplus renewable generation to periods of lower generation.\n(B) Storage eliminates the variability of renewable resources at the source.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) बॅटरी साठवण नवीकरणीय ऊर्जेचे अतिरिक्त उत्पादन असलेल्या काळातून कमी उत्पादनाच्या काळात वीज उपलब्ध करून देण्यास मदत करू शकते.\n(B) साठवण नवीकरणीय ऊर्जेतील बदलशीलता स्त्रोतावरच पूर्णपणे नष्ट करते.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanationEnglish": "Storage manages system-level timing mismatch; it does not make wind or solar output itself constant.",
+    "explanationMarathi": "साठवण उत्पादनाच्या वेळेतील तफावत व्यवस्थापित करते; ती वारा किंवा सौर उत्पादन स्वतः स्थिर बनवत नाही.",
+    "subject": "Current Affairs",
+    "topic": "Climate Policy",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) Hazard mapping before a disaster is a preparedness measure.\n(B) Evacuation-route planning is useful only after a disaster has already occurred.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) आपत्तीपूर्व जोखीम नकाशीकरण हे पूर्वतयारीचे पाऊल आहे.\n(B) स्थलांतर मार्गांचे नियोजन फक्त आपत्ती घडल्यानंतरच उपयुक्त ठरते.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanationEnglish": "Risk mapping and evacuation planning are classic preparedness activities undertaken before emergencies.",
+    "explanationMarathi": "जोखीम नकाशीकरण आणि स्थलांतर मार्गांचे नियोजन ही आपत्तीपूर्व तयारीची महत्त्वाची कामे आहेत.",
+    "subject": "Current Affairs",
+    "topic": "Disaster Management",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) Removing direct identifiers from a dataset can reduce privacy risk.\n(B) De-identification guarantees that re-identification is mathematically impossible in every context.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) डेटासेटमधून थेट ओळख पटवणारी माहिती काढल्याने गोपनीयतेचा धोका कमी होऊ शकतो.\n(B) डी-आयडेंटिफिकेशनमुळे प्रत्येक परिस्थितीत पुन्हा ओळख पटवणे गणिती दृष्ट्या अशक्य होते.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanationEnglish": "Removing identifiers reduces direct exposure but linkage with other datasets can sometimes permit re-identification.",
+    "explanationMarathi": "ओळख पटवणारी माहिती काढल्याने थेट धोका कमी होतो; परंतु इतर डेटासेटशी जोडल्यास काही परिस्थितीत पुन्हा ओळख पटू शकते.",
+    "subject": "Current Affairs",
+    "topic": "Data Privacy",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) Grid flexibility becomes more important as the share of variable renewable generation rises.\n(B) A larger renewable share automatically makes grid balancing unnecessary.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) बदलत्या नवीकरणीय ऊर्जेचा वाटा वाढल्यास ग्रिड लवचिकतेचे महत्त्व वाढते.\n(B) नवीकरणीय ऊर्जेचा वाटा वाढला की ग्रिड संतुलनाची गरज आपोआप नाहीशी होते.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanationEnglish": "Variable generation increases the need for storage, flexible demand, transmission and other balancing mechanisms.",
+    "explanationMarathi": "बदलत्या उत्पादनामुळे साठवण, मागणी व्यवस्थापन, वहन आणि इतर संतुलन यंत्रणांची गरज वाढते.",
+    "subject": "Current Affairs",
+    "topic": "Energy Transition",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) Surveillance systems can help detect disease trends early.\n(B) Surveillance is synonymous with treating every individual patient.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) रोगनिगराणी प्रणाली रोगप्रवृत्ती लवकर ओळखण्यास मदत करू शकते.\n(B) रोगनिगराणी म्हणजे प्रत्येक रुग्णावर उपचार करणेच होय.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanationEnglish": "Surveillance is primarily systematic collection and analysis of health information for detection and response; treatment is a separate clinical activity.",
+    "explanationMarathi": "रोगनिगराणी म्हणजे आरोग्यविषयक माहितीचे पद्धतशीर संकलन व विश्लेषण; प्रत्येक रुग्णावर उपचार करणे ही स्वतंत्र वैद्यकीय क्रिया आहे.",
+    "subject": "Current Affairs",
+    "topic": "Public Health",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) A high benchmark score alone does not establish that an AI system is safe in every real-world context.\n(B) Real-world evaluation can include robustness, bias, privacy and misuse risks.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) उच्च बेंचमार्क गुण मिळाले म्हणून AI प्रणाली प्रत्येक वास्तविक परिस्थितीत सुरक्षित आहे असे सिद्ध होत नाही.\n(B) वास्तविक मूल्यांकनात robustness, bias, privacy आणि misuse धोके तपासता येतात.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanationEnglish": "Benchmarks measure selected capabilities; deployment evaluation should also consider robustness, fairness, privacy and misuse.",
+    "explanationMarathi": "बेंचमार्क काही निवडक क्षमता मोजतात; प्रत्यक्ष वापरात robustness, fairness, privacy आणि misuse यांसारखे धोकेही तपासणे आवश्यक असते.",
+    "subject": "Current Affairs",
+    "topic": "AI Governance",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) Public transport capacity can reduce dependence on private vehicles when it is reliable and accessible.\n(B) Adding road capacity always eliminates traffic congestion permanently.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) विश्वासार्ह व सुलभ सार्वजनिक वाहतूक उपलब्ध असल्यास खासगी वाहनांवरील अवलंबित्व कमी होऊ शकते.\n(B) रस्त्यांची क्षमता वाढवली की वाहतूक कोंडी कायमची नष्ट होते.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanationEnglish": "Travel behaviour and induced demand can offset capacity expansion; public transport can shift trips away from private vehicles.",
+    "explanationMarathi": "प्रवासाच्या वर्तनातील बदल व induced demand मुळे रस्ते विस्ताराचा परिणाम मर्यादित होऊ शकतो; सार्वजनिक वाहतूक खासगी वाहनांऐवजी प्रवास वळवू शकते.",
+    "subject": "Current Affairs",
+    "topic": "Urban Mobility",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) Water security depends on availability, quality, access and reliability, not only annual rainfall.\n(B) A district with high annual rainfall can never face seasonal water stress.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) जलसुरक्षा केवळ वार्षिक पावसावर नव्हे तर उपलब्धता, गुणवत्ता, प्रवेश आणि विश्वासार्हतेवर अवलंबून असते.\n(B) जास्त वार्षिक पाऊस असलेल्या जिल्ह्यात हंगामी पाणीटंचाई कधीही होऊ शकत नाही.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanationEnglish": "Seasonal concentration, storage, recharge, demand and distribution can create water stress even in high-rainfall regions.",
+    "explanationMarathi": "पावसाचे हंगामी केंद्रीकरण, साठवण, पुनर्भरण, मागणी आणि वितरण यामुळे जास्त पर्जन्यमानाच्या भागातही हंगामी टंचाई होऊ शकते.",
+    "subject": "Current Affairs",
+    "topic": "Water Security",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) Security of tenure for judges is one safeguard of judicial independence.\n(B) Judicial independence means judges are constitutionally required to follow the preferences of the executive.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) न्यायाधीशांच्या पदाची सुरक्षितता हा न्यायालयीन स्वातंत्र्याचा एक संरक्षक घटक आहे.\n(B) न्यायालयीन स्वातंत्र्य म्हणजे न्यायाधीशांनी कार्यपालिकेच्या पसंतीचे पालन करणे होय.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanationEnglish": "Security of tenure reduces arbitrary executive pressure; independence is inconsistent with mandatory executive preference.",
+    "explanationMarathi": "पदाची सुरक्षितता मनमानी कार्यकारी दबाव कमी करते; कार्यपालिकेच्या पसंतीचे बंधन हे न्यायालयीन स्वातंत्र्याच्या विरुद्ध आहे.",
+    "subject": "Polity",
+    "topic": "Judicial Independence",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) Parliamentary committees can scrutinise bills and government expenditure in greater detail.\n(B) A committee report automatically has the force of a judicial decree.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) संसदीय समित्या विधेयके व सरकारी खर्चाचे अधिक सखोल परीक्षण करू शकतात.\n(B) समितीच्या अहवालाला आपोआप न्यायालयीन आदेशाचे बल प्राप्त होते.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanationEnglish": "Committee reports aid parliamentary scrutiny but do not become judicial decrees merely by being presented.",
+    "explanationMarathi": "समिती अहवाल संसदीय परीक्षणास मदत करतात; ते सादर केल्यामुळे आपोआप न्यायालयीन आदेश बनत नाहीत.",
+    "subject": "Polity",
+    "topic": "Parliamentary Committees",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) A rain-shadow region is defined by reduced precipitation on the leeward side of a mountain barrier.\n(B) Rain-shadow regions must always be deserts.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) पर्वत अडथळ्याच्या पर्जन्यछायेच्या बाजूस कमी पाऊस मिळणारा प्रदेश म्हणजे rain-shadow region.\n(B) पर्जन्यछायेतील प्रदेश नेहमीच वाळवंट असतो.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanationEnglish": "Rain-shadow regions can be semi-arid or relatively dry without meeting the definition of a desert.",
+    "explanationMarathi": "पर्जन्यछायेतील प्रदेश अर्धशुष्क किंवा तुलनेने कोरडा असू शकतो; प्रत्येक असा प्रदेश वाळवंट असणे आवश्यक नाही.",
+    "subject": "Geography",
+    "topic": "Climate Classification",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) A dendritic drainage pattern commonly develops where underlying rock resistance is relatively uniform.\n(B) A dendritic pattern necessarily indicates a folded mountain structure.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) खडकांची प्रतिरोधकता तुलनेने समान असलेल्या प्रदेशात dendritic drainage pattern सामान्यतः विकसित होतो.\n(B) dendritic pattern म्हणजे आवश्यकतः घडीदार पर्वतरचना.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanationEnglish": "Dendritic drainage reflects relatively homogeneous substrate; folded structures can produce other characteristic patterns such as trellis drainage.",
+    "explanationMarathi": "Dendritic जलनिचरा तुलनेने समसमान खडकांशी संबंधित असतो; घडीदार रचनांमध्ये trellis सारखे नमुने दिसू शकतात.",
+    "subject": "Geography",
+    "topic": "Drainage",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) If nominal interest is 8% and inflation is approximately 5%, the ex-post real rate is roughly 3 percentage points.\n(B) The real rate must always equal nominal rate plus inflation.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) नाममात्र व्याजदर ८% आणि महागाई सुमारे ५% असल्यास ex-post वास्तविक दर साधारण ३ टक्के गुण असतो.\n(B) वास्तविक दर नेहमी नाममात्र दर + महागाई इतकाच असतो.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanationEnglish": "The approximate Fisher relation is real rate ≈ nominal rate − inflation; the exact ex-post relation is (1.08/1.05)-1.",
+    "explanationMarathi": "अंदाजे Fisher संबंधानुसार वास्तविक दर ≈ नाममात्र दर − महागाई; अचूक ex-post दर = १.०८/१.०५ − १.",
+    "subject": "Economics",
+    "topic": "Real Interest Rate",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) A sudden increase in energy prices can create cost-push inflation.\n(B) Cost-push inflation is defined as inflation caused only by excess aggregate demand.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) ऊर्जेच्या किंमतीत अचानक वाढ झाल्यास cost-push inflation निर्माण होऊ शकते.\n(B) cost-push inflation म्हणजे केवळ अतिरिक्त एकूण मागणीमुळे होणारी महागाई.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanationEnglish": "Higher input costs can shift aggregate supply adversely; excess demand describes demand-pull inflation instead.",
+    "explanationMarathi": "इनपुट खर्च वाढल्याने एकूण पुरवठ्यावर प्रतिकूल परिणाम होऊ शकतो; अतिरिक्त मागणीशी संबंधित महागाईला demand-pull inflation म्हणतात.",
+    "subject": "Economics",
+    "topic": "Supply Shock",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) A buffer solution resists large changes in pH when small amounts of acid or base are added.\n(B) A buffer necessarily keeps pH exactly constant after adding any quantity of acid.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) बफर द्रावणात थोड्या प्रमाणात आम्ल किंवा क्षार घातल्यावर pH मधील मोठा बदल रोखला जातो.\n(B) कोणतीही कितीही आम्लाची मात्रा घातली तरी बफर pH अगदी स्थिर ठेवतो.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanationEnglish": "Buffers have finite capacity; they resist pH change over a useful range but can be overwhelmed by sufficiently large additions.",
+    "explanationMarathi": "बफरची क्षमता मर्यादित असते. ते विशिष्ट मर्यादेत pH बदल रोखतात; मोठ्या प्रमाणातील आम्ल/क्षाराने त्यांची क्षमता संपुष्टात येऊ शकते.",
+    "subject": "General Science",
+    "topic": "Acid-Base",
+    "difficulty": "hard"
+  },
+  {
+    "questionEnglish": "Consider the following statements:\n(A) In uniform circular motion, speed may remain constant while velocity changes continuously.\n(B) Constant speed implies zero acceleration in circular motion.",
+    "questionMarathi": "खालील विधाने विचारात घ्या :\n(A) एकसमान वर्तुळाकार गतीत चाल स्थिर असू शकते पण वेगाचे दिशात्मक स्वरूप सतत बदलते.\n(B) स्थिर चाल म्हणजे वर्तुळाकार गतीत त्वरण शून्य असते.",
+    "options": [
+      {
+        "id": "A",
+        "english": "Both A and B are correct",
+        "marathi": "A आणि B दोन्ही बरोबर"
+      },
+      {
+        "id": "B",
+        "english": "A is correct but B is incorrect",
+        "marathi": "A बरोबर पण B चूक"
+      },
+      {
+        "id": "C",
+        "english": "A is incorrect but B is correct",
+        "marathi": "A चूक पण B बरोबर"
+      },
+      {
+        "id": "D",
+        "english": "Both A and B are incorrect",
+        "marathi": "A आणि B दोन्ही चूक"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanationEnglish": "Velocity changes because its direction changes, so centripetal acceleration exists even when speed is constant.",
+    "explanationMarathi": "वेगाची दिशा सतत बदलत असल्याने चाल स्थिर असली तरी केंद्राभिमुख त्वरण अस्तित्वात असते.",
+    "subject": "General Science",
+    "topic": "Mechanics",
+    "difficulty": "hard"
+  }
+]
+}
