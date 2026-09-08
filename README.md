@@ -1,7 +1,7 @@
 # MPSC Daily Challenge
 
 A mobile daily-test platform for MPSC Group C aspirants. Students complete a
-sequence of 10 exam-pattern tests every day, unlocking each test only after
+sequence of 3 exam-pattern tests every day, unlocking each test only after
 completing the one before it — building the daily discipline of real exam
 practice.
 
@@ -11,7 +11,7 @@ This repository contains four coordinated projects:
 mpsc-daily-challenge/
 ├── mobile/    React Native (Expo) app — the student-facing product
 ├── api/       Node.js + Express API — the source of truth for progression & scoring
-├── cron/      Node.js importer — publishes each day's 10 tests from JSON
+├── cron/      Node.js importer — publishes each day's 3 tests from JSON
 ├── shared/    Shared TypeScript types & constants used by all three
 ├── firebase/  Firestore security rules
 └── README.md  This file
@@ -26,11 +26,11 @@ mpsc-daily-challenge/
 ```
 Open app → Log in once (mobile number + OTP) → stay logged in until logout
   → Pick a day (Today / Yesterday / earlier)
-  → See 10 tests for that day
-  → Test 1 is unlocked, Tests 2–10 are locked
+  → See 3 tests for that day
+  → Test 1 is unlocked, Tests 2–3 are locked
   → Complete Test 1 (submit or 60-min timer expiry)
   → See result → Test 2 unlocks
-  → Repeat until Test 10
+  → Repeat until Test 3
   → Review any past test's score and answers, anytime
 ```
 
@@ -229,16 +229,16 @@ produced.
 
 ## 8. Cron Import Flow
 
-Each day's content is 10 JSON files (`test-1.json` … `test-10.json`), each
+Each day's content is 3 JSON files (`test-1.json` … `test-3.json`), each
 with exactly 100 bilingual MCQs:
 
 ```
-cron/data/2026-09-02/test-1.json … test-10.json
+cron/data/2026-09-02/test-1.json … test-3.json
 ```
 
 `cron/src/importer.ts`:
 
-1. Loads and **Zod-validates all 10 files before writing anything** —
+1. Loads and **Zod-validates all 3 files before writing anything** —
    exactly 100 questions per test, exactly 4 options per question, unique
    option ids, and a `correctOptionId` that actually matches one of them.
 2. Creates the day's batch as `DRAFT`.
@@ -252,7 +252,7 @@ cron/data/2026-09-02/test-1.json … test-10.json
    overwritten by setting `IMPORT_MODE=update`. An `ACTIVE` batch is never
    silently replaced.
 
-A ready-to-use sample dataset (10 tests × 100 questions, English + Marathi)
+A ready-to-use sample dataset (3 tests × 100 questions, English + Marathi)
 ships in `cron/data/2026-09-02/` so you can run the importer immediately.
 
 ---
@@ -276,7 +276,7 @@ All routes below (except `/health`) require `Authorization: Bearer <Firebase ID 
 | GET  | `/api/v1/users/me` | Get current profile |
 | GET  | `/api/v1/days` | List available days with per-user progress |
 | GET  | `/api/v1/days/:dayId` | Day detail |
-| GET  | `/api/v1/days/:dayId/tests` | 10 tests with locked/unlocked/completed state |
+| GET  | `/api/v1/days/:dayId/tests` | 3 tests with locked/unlocked/completed state |
 | GET  | `/api/v1/days/:dayId/tests/:testId` | Test metadata + masked question preview |
 | POST | `/api/v1/tests/:testId/start` | Body `{ dayId }`. Validates unlock, starts/resumes attempt |
 | POST | `/api/v1/attempts/:id/answers` | Save/update one answer |
