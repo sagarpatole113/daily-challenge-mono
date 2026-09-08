@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "सातत्य",
+    "slug": "saatatya",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "saatatya",
+    "userInterfaceStyle": "light",
+    "icon": "./assets/icon.png",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.saatatya.app"
+    },
+    "android": {
+      "package": "com.saatatya.app",
+      "adaptiveIcon": {
+        "backgroundColor": "#0F172A"
+      }
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "5ee005b6-6989-4573-ba79-6a15ae8a2aad"
+      }
+    }
+  }
+}

@@ -1,0 +1,110 @@
+rules_version = '2';
+
+// ============================================================================
+// MPSC Daily Challenge — Firestore Security Rules
+//
+// PRINCIPLE: The mobile app is READ-mostly against Firestore.
+// All WRITES that affect scoring, progression, or unlock state MUST go
+// through the Node.js API (which uses the Admin SDK and bypasses these
+// rules). These rules exist to:
+//   1. Let the client read its own profile / progress / non-sensitive data.
+//   2. Prevent the client from ever writing sensitive fields directly.
+//   3. Prevent the client from ever reading correctOptionId / explanations
+//      for a question while that user has an active (non-completed) attempt
+//      on a test containing that question.
+// ============================================================================
+
+function isSignedIn() {
+  return request.auth != null;
+}
+
+function isOwner(userId) {
+  return isSignedIn() && request.auth.uid == userId;
+}
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    // -------------------------------------------------------------------
+    // USERS
+    // -------------------------------------------------------------------
+    match /users/{userId} {
+      allow read: if isOwner(userId);
+
+      // Client may create/update only non-sensitive profile fields
+      // (name, lastActiveAt). All stats/progression fields are
+      // API-managed. Admin SDK writes bypass these rules entirely.
+      allow create: if isOwner(userId)
+        && request.resource.data.keys().hasOnly([
+            'id', 'name', 'username', 'createdAt', 'updatedAt',
+            'lastActiveAt', 'currentDayId', 'currentTestNumber',
+            'totalTestsCompleted', 'totalQuestionsAttempted',
+            'totalCorrectAnswers', 'totalWrongAnswers', 'totalScore'
+           ])
+        && request.resource.data.totalTestsCompleted == 0
+        && request.resource.data.totalScore == 0;
+
+      allow update: if isOwner(userId)
+        && request.resource.data.diff(resource.data).affectedKeys()
+             .hasOnly(['name', 'lastActiveAt', 'updatedAt']);
+
+      allow delete: if false;
+
+      // ---------------------------------------------------------------
+      // USER TEST ATTEMPTS — read-only for owner. All writes via API.
+      // ---------------------------------------------------------------
+      match /testAttempts/{attemptId} {
+        allow read: if isOwner(userId);
+        allow write: if false; // API (Admin SDK) only
+
+        match /answers/{questionId} {
+          allow read: if isOwner(userId);
+          allow write: if false; // API (Admin SDK) only
+        }
+      }
+
+      // ---------------------------------------------------------------
+      // DAILY PROGRESS — read-only for owner. All writes via API.
+      // ---------------------------------------------------------------
+      match /dailyProgress/{dayId} {
+        allow read: if isOwner(userId);
+        allow write: if false; // API (Admin SDK) only
+      }
+    }
+
+    // -------------------------------------------------------------------
+    // DAILY TEST BATCHES / TESTS — public read (for signed-in users) of
+    // metadata only. No question content lives here.
+    // -------------------------------------------------------------------
+    match /dailyTestBatches/{dayId} {
+      allow read: if isSignedIn() && resource.data.status == 'ACTIVE';
+      allow write: if false; // cron / API (Admin SDK) only
+
+      match /tests/{testId} {
+        allow read: if isSignedIn() && resource.data.status == 'ACTIVE';
+        allow write: if false; // cron / API (Admin SDK) only
+
+        // Question <-> test mapping. Does NOT contain answer content,
+        // safe to read, but the app should still fetch assembled
+        // questions through the API so correctOptionId can be stripped
+        // server-side for active attempts.
+        match /questions/{questionId} {
+          allow read: if isSignedIn();
+          allow write: if false; // cron / API (Admin SDK) only
+        }
+      }
+    }
+
+    // -------------------------------------------------------------------
+    // QUESTIONS — never directly readable by clients. correctOptionId /
+    // explanations must never leak before a test is completed. All
+    // question delivery (masked during test, full after completion)
+    // happens through the API, which uses the Admin SDK and therefore
+    // is not subject to these rules.
+    // -------------------------------------------------------------------
+    match /questions/{questionId} {
+      allow read: if false;
+      allow write: if false; // cron (Admin SDK) only
+    }
+  }
+}

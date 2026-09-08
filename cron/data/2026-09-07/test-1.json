@@ -1,0 +1,3205 @@
+{
+  "title": "MPSC Group C Daily Test 1",
+  "questions": [
+    {
+      "questionEnglish": "Who was the Governor-General of India during the 1857 Revolt who famously stated: 'If the Shinde and Nizam participate in the revolt, we would have to pack our bags and leave tomorrow'?",
+      "questionMarathi": "१८५७ च्या उठावाच्या वेळी भारताचे गव्हर्नर जनरल कोण होते ज्यांनी प्रसिद्धपणे म्हटले होते: 'जर शिंदे आणि निजाम उठावात सामील झाले, तर आपल्याला उद्याच आपला गाशा गुंडाळावा लागेल'?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Lord Dalhousie",
+          "marathi": "लॉर्ड डलहौसी"
+        },
+        {
+          "id": "B",
+          "english": "Lord Ripon",
+          "marathi": "लॉर्ड रिपन"
+        },
+        {
+          "id": "C",
+          "english": "Lord Mountbatten",
+          "marathi": "लॉर्ड माउंटबॅटन"
+        },
+        {
+          "id": "D",
+          "english": "Lord Canning",
+          "marathi": "लॉर्ड कॅनिंग"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanationEnglish": "Lord Canning, the Governor-General during the 1857 revolt, remarked that the loyalty of the Shinde (Scindias of Gwalior) and the Nizam of Hyderabad acted as breakwaters to the storm, and if they had joined the rebellion, the British rule would have collapsed immediately.",
+      "explanationMarathi": "१८५७ च्या उठावादरम्यानचे गव्हर्नर-जनरल लॉर्ड कॅनिंग यांनी नमूद केले होते की ग्वाल्हेरचे शिंदे आणि हैदराबादच्या निजामांची निष्ठा वादळासाठी 'ब्रेकवॉटर' (संरक्षक भिंत) म्हणून काम करत होती. जर ते उठावात सामील झाले असते, तर ब्रिटीश राजवट तात्काळ कोसळली असती.",
+      "subject": "History",
+      "topic": "1857 Revolt",
+      "difficulty": "medium"
+    },
+    {
+      "questionEnglish": "Which of the following personalities supported Narayan Meghaji Lokhande during the establishment of the 'Bombay Mill Hands Association' in 1884?",
+      "questionMarathi": "१८८४ मध्ये 'बॉम्बे मिल हँड्स असोसिएशन' या कामगार संघटनेची स्थापना करताना नारायण मेघाजी लोखंडे यांना खालीलपैकी कोणत्या व्यक्तींचे सहकार्य मिळाले होते?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Keshavrao Bagde and Keshavrao Bole",
+          "marathi": "केशवराव बागडे आणि केशवराव बोले"
+        },
+        {
+          "id": "B",
+          "english": "Raghu Bhikaji and Genu Babaji",
+          "marathi": "रघु भिकाजी आणि गेणू बाबाजी"
+        },
+        {
+          "id": "C",
+          "english": "Krishnaji Arjun Keluskar and Ramchandra Shinde",
+          "marathi": "कृष्णाजी अर्जुन केळूसकर आणि रामचंद्र शिंदे"
+        },
+        {
+          "id": "D",
+          "english": "Both B and C are correct, along with Narayan Surkaji",
+          "marathi": "रघु भिकाजी, गेणू बाबाजी, नारायण सुर्काजी आणि इतर सहकारी"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanationEnglish": "According to the sources, during the establishment of the Bombay Mill Hands Association, Narayan Meghaji Lokhande received crucial support from local labor leaders and activists including Raghu Bhikaji, Genu Babaji, Narayan Surkaji, Vitthalrao Korgaonkar, and others.",
+      "explanationMarathi": "स्त्रोतांनुसार, बॉम्बे मिल हँड्स असोसिएशनच्या स्थापनेदरम्यान नारायण मेघाजी लोखंडे यांना रघु भिकाजी, गेणू बाबाजी, नारायण सुर्काजी, विठ्ठलराव कोरगावकर आणि इतर स्थानिक कामगार नेत्यांचे महत्त्वपूर्ण सहकार्य लाभले होते.",
+      "subject": "History",
+      "topic": "Labour Movement",
+      "difficulty": "hard"
+    },
+    {
+      "questionEnglish": "Identify the social reformer associated with the following description: He was the first journalist in Marathi, the teacher of the Prince of Akkalkot, the founder of Marathi newspapers, and the director of the Colaba Weather Observatory.",
+      "questionMarathi": "खालील विवरणावरून समाजसुधारक ओळखा: ते मराठीतील पहिले पत्रकार होते, अक्कलकोटच्या युवराजांचे शिक्षक होते, मराठी वृत्तपत्रांचे जनक होते आणि कुलाबा वेधशाळेचे संचालक होते.",
+      "options": [
+        {
+          "id": "A",
+          "english": "Dadabhai Naoroji",
+          "marathi": "दादाभाई नौरोजी"
+        },
+        {
+          "id": "B",
+          "english": "Bhau Daji Lad",
+          "marathi": "भाऊ दाजी लाड"
+        },
+        {
+          "id": "C",
+          "english": "Balshastri Jambhekar",
+          "marathi": "बाळशास्त्री जांभेकर"
+        },
+        {
+          "id": "D",
+          "english": "Jagannath Shankar Sheth",
+          "marathi": "जगन्नाथ शंकर शेठ"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanationEnglish": "Balshastri Jambhekar (1812–1846) is revered as the Father of Marathi Journalism for starting 'Darpan' in 1832. He was also appointed as a tutor to the young Prince of Akkalkot and served as the director of the Colaba Observatory.",
+      "explanationMarathi": "बाळशास्त्री जांभेकर (१८१२-१८४६) यांनी १८३२ मध्ये 'दर्पण' सुरू केल्यामुळे त्यांना मराठी वृत्तपत्रसृष्टीचे जनक मानले जाते. अक्कलकोटच्या अल्पवयीन राजाचे शिक्षक आणि कुलाबा वेधशाळेचे संचालक म्हणूनही त्यांनी कार्य केले.",
+      "subject": "History",
+      "topic": "Social Reformers",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "Which first political organization was formed in Maharashtra (Bombay) in the year 1852?",
+      "questionMarathi": "इ.स. १८५२ मध्ये महाराष्ट्रात (मुंबई) स्थापन झालेली पहिली राजकीय संघटना कोणती होती?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Bombay Association",
+          "marathi": "बॉम्बे असोसिएशन"
+        },
+        {
+          "id": "B",
+          "english": "East India Association",
+          "marathi": "ईस्ट इंडिया असोसिएशन"
+        },
+        {
+          "id": "C",
+          "english": "Sarvajanik Sabha",
+          "marathi": "सार्वजनिक सभा"
+        },
+        {
+          "id": "D",
+          "english": "Bombay Presidency Association",
+          "marathi": "बॉम्बे प्रेसिडेन्सी असोसिएशन"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanationEnglish": "The Bombay Association was established on August 26, 1852, by Jagannath Shankar Sheth and Sir Jamshedji Jeejeebhoy, making it the first political organization in Maharashtra to represent public grievances to the British Government.",
+      "explanationMarathi": "बॉम्बे असोसिएशनची स्थापना २६ ऑगस्ट १८५२ रोजी जगन्नाथ शंकर शेठ आणि सर जमशेटजी जीजीभाई यांनी केली. ब्रिटीश सरकारकडे जनतेच्या तक्रारी मांडणारी ही महाराष्ट्रातील पहिली राजकीय संघटना ठरली.",
+      "subject": "History",
+      "topic": "Political Organizations",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "Match the following newspapers with their founders:\na. Rast Goftar\nb. Dnyan Sindhu\nc. Dnyan Prakash\nd. Native Opinion\n\nI. Tatya Chhatre\nII. Krishnaji Trimbak Ranade\nIII. Vishwanath Narayan Mandalik\nIV. Dadabhai Naoroji",
+      "questionMarathi": "खालील वृत्तपत्रे आणि त्यांच्या संस्थापकांच्या जोड्या जुळवा:\nअ. रास्त गोफ्तार\nब. ज्ञान सिंधू\nक. ज्ञान प्रकाश\nड. नेटिव्ह ओपिनियन\n\nI. तात्या छत्रे\nII. कृष्णाजी त्र्यंबक रानडे\nIII. विश्वनाथ नारायण मंडलीक\nIV. दादाभाई नौरोजी",
+      "options": [
+        {
+          "id": "A",
+          "english": "a-IV, b-I, c-II, d-III",
+          "marathi": "अ-IV, ब-I, क-II, ड-III"
+        },
+        {
+          "id": "B",
+          "english": "a-II, b-IV, c-III, d-I",
+          "marathi": "अ-II, ब-IV, क-III, ड-I"
+        },
+        {
+          "id": "C",
+          "english": "a-IV, b-III, c-I, d-II",
+          "marathi": "अ-IV, ब-III, क-I, ड-II"
+        },
+        {
+          "id": "D",
+          "english": "a-III, b-I, c-IV, d-II",
+          "marathi": "अ-III, ब-I, क-IV, ड-II"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanationEnglish": "Rast Goftar was started by Dadabhai Naoroji (1851); Dnyan Sindhu by Tatya Chhatre; Dnyan Prakash by Krishnaji Trimbak Ranade (1849); and Native Opinion by Vishwanath Narayan Mandalik (1864).",
+      "explanationMarathi": "रास्त गोफ्तारची सुरुवात दादाभाई नौरोजी (१८५१) यांनी केली; ज्ञान सिंधू तात्या छत्रे यांनी; ज्ञान प्रकाश कृष्णाजी त्र्यंबक रानडे (१८४९) यांनी; आणि नेटिव्ह ओपिनियनची सुरुवात विश्वनाथ नारायण मंडलीक (१८६४) यांनी केली.",
+      "subject": "History",
+      "topic": "Marathi Journalism",
+      "difficulty": "hard"
+    },
+    {
+      "questionEnglish": "Which designated post was created to run the Indian administration under the British Crown after the Revolt of 1857?",
+      "questionMarathi": "१८५७ च्या उठावानंतर ब्रिटीश क्राउनखाली भारताचा कारभार चालविण्यासाठी कोणत्या पदाची निर्मिती करण्यात आली?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Secretary of State for India",
+          "marathi": "सेक्रेटरी ऑफ स्टेट फॉर इंडिया (भारत मंत्री)"
+        },
+        {
+          "id": "B",
+          "english": "Lieutenant Governor",
+          "marathi": "लेफ्टिनेंट गव्हर्नर"
+        },
+        {
+          "id": "C",
+          "english": "Chief Commissioner",
+          "marathi": "चीफ कमिश्नर"
+        },
+        {
+          "id": "D",
+          "english": "External Affairs Minister",
+          "marathi": "परराष्ट्र मंत्री"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanationEnglish": "The Government of India Act 1858 abolished the East India Company and transferred powers to the British Crown. It created the post of the Secretary of State for India, a member of the British Cabinet, to oversee Indian administration.",
+      "explanationMarathi": "भारत सरकार कायदा १८५८ अन्वये ईस्ट इंडिया कंपनी बरखास्त करून सत्ता ब्रिटीश राजाकडे सुपूर्द करण्यात आली. भारताचा कारभार पाहण्यासाठी ब्रिटीश मंत्रिमंडळाचे सदस्य असलेल्या 'सेक्रेटरी ऑफ स्टेट फॉर इंडिया' (भारत मंत्री) या पदाची निर्मिती करण्यात आली.",
+      "subject": "History",
+      "topic": "Administrative Reforms",
+      "difficulty": "medium"
+    },
+    {
+      "questionEnglish": "Who among the following was involved in the historic Mulshi Satyagraha (1921-24) along with Pandurang (Senapati) Bapat?",
+      "questionMarathi": "पांडुरंग (सेनापती) बापट यांच्या समवेत ऐतिहासिक मुळशी सत्याग्रहात खालीलपैकी कोण सहभागी झाले होते?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Krushnarao Bhalekar",
+          "marathi": "कृष्णराव भालेकर"
+        },
+        {
+          "id": "B",
+          "english": "Dinkarrao Jawalkar",
+          "marathi": "दिनकरराव जवळकर"
+        },
+        {
+          "id": "C",
+          "english": "Tatyasaheb Karandikar",
+          "marathi": "तात्यासाहेब करंदीकर"
+        },
+        {
+          "id": "D",
+          "english": "Shripatrao Shinde",
+          "marathi": "श्रीपतराव शिंदे"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanationEnglish": "Tatyasaheb Karandikar, a prominent leader and associate of Lokmanya Tilak, actively participated and supported Senapati Bapat in the Mulshi Satyagraha, which was India's first anti-dam displacement movement.",
+      "explanationMarathi": "मुळशी सत्याग्रहामध्ये सेनापती बापट यांच्यासोबत तात्यासाहेब करंदीकर सहभागी झाले होते. मुळशी सत्याग्रह हे भारतातील धरणग्रस्तांचे पहिले विस्थापनविरोधी आंदोलन होते.",
+      "subject": "History",
+      "topic": "Satyagraha in Maharashtra",
+      "difficulty": "medium"
+    },
+    {
+      "questionEnglish": "In which city was the first girl's school established by Mahatma Jyotiba Phule in August 1848, with the assistance of Sadashiv Ballal Govande and Moro Vitthal Valvekar?",
+      "questionMarathi": "सदाशिव बल्लाळ गोवंडे आणि मोरो विठ्ठल वाळवेकर यांच्या सहकार्याने महात्मा ज्योतिबा फुले यांनी ऑगस्ट १८४८ मध्ये मुलींची पहिली शाळा कोणत्या शहरात सुरू केली?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Mumbai",
+          "marathi": "मुंबई"
+        },
+        {
+          "id": "B",
+          "english": "Satara",
+          "marathi": "सातारा"
+        },
+        {
+          "id": "C",
+          "english": "Pune (Budhwar Peth)",
+          "marathi": "पुणे (बुधवार पेठ)"
+        },
+        {
+          "id": "D",
+          "english": "Kolhapur",
+          "marathi": "कोल्हापूर"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanationEnglish": "Mahatma Jyotiba Phule started the first school for girls at Bhide Wada in Budhwar Peth, Pune, in August 1848. His close friends, including Sadashiv Ballal Govande and Moro Vitthal Valvekar, supported him in this revolutionary endeavor.",
+      "explanationMarathi": "महात्मा ज्योतिबा फुले यांनी ऑगस्ट १८४८ मध्ये पुण्याच्या बुधवार पेठेतील भिडे वाड्यात मुलींची पहिली शाळा सुरू केली. सदाशिव बल्लाळ गोवंडे आणि मोरो विठ्ठल वाळवेकर या त्यांच्या जवळच्या मित्रांनी या कार्यात त्यांना मोलाचे सहकार्य केले.",
+      "subject": "History",
+      "topic": "Social Reformers",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "Who was the leader of the Matang Samaj from Pathri in Marathwada who worked for social upliftment?",
+      "questionMarathi": "सामाजिक सुधारणांसाठी काम करणारे मराठवाड्यातील पाथ्री गावचे देवीदास कांबळे हे कोणत्या समाजाचे पुढारी होते?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Mahar Samaj",
+          "marathi": "महार समाज"
+        },
+        {
+          "id": "B",
+          "english": "Matang Samaj",
+          "marathi": "मातंग समाज"
+        },
+        {
+          "id": "C",
+          "english": "Mathadi Samaj",
+          "marathi": "माथडी समाज"
+        },
+        {
+          "id": "D",
+          "english": "Malkari Samaj",
+          "marathi": "माळकरी समाज"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanationEnglish": "Devidas Kamble was an influential leader belonging to the Matang Samaj, hailing from Pathri in Marathwada, who worked dedicatedly for the rights and upliftment of his community.",
+      "explanationMarathi": "मराठवाड्यातील पाथ्री येथील रहिवासी असलेले देवीदास कांबळे हे मातंग समाजाचे नेते होते, त्यांनी आपल्या समाजाच्या हक्कांसाठी आणि प्रगतीसाठी समर्पितपणे कार्य केले.",
+      "subject": "History",
+      "topic": "Dalit Movement",
+      "difficulty": "hard"
+    },
+    {
+      "questionEnglish": "Who established the 'Rashtriya Mill Mazdoor Sangh' (RMMS) in Mumbai to represent textile mill workers?",
+      "questionMarathi": "मुंबईमध्ये कापड गिरणी कामगारांचे प्रतिनिधित्व करण्यासाठी 'राष्ट्रीय मिल मजदूर संघाची' स्थापना कोणी केली?",
+      "options": [
+        {
+          "id": "A",
+          "english": "G.D. Ambedkar",
+          "marathi": "जी.डी. आंबेडकर"
+        },
+        {
+          "id": "B",
+          "english": "S.M. Joshi",
+          "marathi": "एस.एम. जोशी"
+        },
+        {
+          "id": "C",
+          "english": "N.M. Joshi",
+          "marathi": "एन.एम. जोशी"
+        },
+        {
+          "id": "D",
+          "english": "Datta Samant",
+          "marathi": "दत्ता सामंत"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanationEnglish": "The 'Rashtriya Mill Mazdoor Sangh' (RMMS) was established in Mumbai by G.D. Ambedkar to organize and represent textile mill workers under the banner of the Indian National Trade Union Congress (INTUC).",
+      "explanationMarathi": "मुंबईमध्ये 'राष्ट्रीय मिल मजदूर संघाची' (RMMS) स्थापना जी.डी. आंबेडकर यांनी केली, जेणेकरून गिरणी कामगारांना संघटित करून त्यांचे प्रश्न सोडवता येतील.",
+      "subject": "History",
+      "topic": "Labour Movement",
+      "difficulty": "medium"
+    },
+    {
+      "questionEnglish": "Who amongst the following attended the Delhi Durbar in 1877 dressed in pure hand-spun Khadi to advocate the message of Swadeshi?",
+      "questionMarathi": "खालीलपैकी कोणी स्वदेशीचा प्रचार करण्यासाठी स्वतः हाताने विणलेला खादीचा पोशाख परिधान करून १८७७ मधील दिल्ली दरबारात हजेरी लावली होती?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Ganesh Vasudev Joshi (Sarvajanik Kaka)",
+          "marathi": "गणेश वासुदेव जोशी (सार्वजनिक काका)"
+        },
+        {
+          "id": "B",
+          "english": "Sitaram Hari Chiplunkar",
+          "marathi": "सीताराम हरी चिपळूणकर"
+        },
+        {
+          "id": "C",
+          "english": "Justice K.T. Telang",
+          "marathi": "न्या. के. टी. तेलंग"
+        },
+        {
+          "id": "D",
+          "english": "Mahatma Jyotiba Phule",
+          "marathi": "महात्मा फुले"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanationEnglish": "Ganesh Vasudev Joshi, popularly known as 'Sarvajanik Kaka', attended the imperial Delhi Durbar in 1877 wearing pure hand-spun Khadi to present a petition to Queen Victoria and to advocate the message of Swadeshi self-reliance.",
+      "explanationMarathi": "गणेश वासुदेव जोशी, ज्यांना 'सार्वजनिक काका' म्हणून ओळखले जाते, यांनी १८७७ च्या दिल्ली दरबारात हाताने विणलेली शुद्ध खादी परिधान करून हजेरी लावली आणि राणी व्हिक्टोरियाला मानपत्र सादर केले.",
+      "subject": "History",
+      "topic": "Swadeshi Movement",
+      "difficulty": "medium"
+    },
+    {
+      "questionEnglish": "Match the following historical events/organizations with their locations or leaders:\na. Kolhapur 1857\nb. Jamkhandi 1857\nc. Nargund 1857\nd. Aurangabad 1857\n\nI. Appasaheb Patvardhan\nII. Chimasaheb\nIII. Babasaheb Bhave\nIV. Phida Ali",
+      "questionMarathi": "खालील ऐतिहासिक घटना/उठाव केंद्रे आणि त्यांच्या नेत्यांच्या जोड्या जुळवा:\nअ. कोल्हापूर १८५७\nब. जमखंडी १८५७\nक. नरगुंद १८५७\nड. औरंगाबाद १८५७\n\nI. आप्पासाहेब पटवर्धन\nII. चिमासाहेब\nIII. बाबासाहेब भावे\nIV. फिदा अली",
+      "options": [
+        {
+          "id": "A",
+          "english": "a-II, b-I, c-III, d-IV",
+          "marathi": "अ-II, ब-I, क-III, ड-IV"
+        },
+        {
+          "id": "B",
+          "english": "a-I, b-II, c-IV, d-III",
+          "marathi": "अ-I, ब-II, क-IV, ड-III"
+        },
+        {
+          "id": "C",
+          "english": "a-III, b-IV, c-I, d-II",
+          "marathi": "अ-III, ब-IV, क-I, ड-II"
+        },
+        {
+          "id": "D",
+          "english": "a-IV, b-III, c-II, d-I",
+          "marathi": "अ-IV, ब-III, क-II, ड-I"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanationEnglish": "During the 1857 Revolt in Maharashtra: Chimasaheb led the mutiny in Kolhapur; Appasaheb Patvardhan in Jamkhandi; Babasaheb Bhave in Nargund; and Phida Ali was associated with the revolt in Aurangabad.",
+      "explanationMarathi": "महाराष्ट्रातील १८५७ च्या उठावादरम्यान: कोल्हापूरचे नेतृत्व चिमासाहेब यांनी केले; जमखंडीचे आप्पासाहेब पटवर्धन; नरगुंदचे बाबासाहेब भावे; आणि औरंगाबाद येथे फिदा अली उठावात सामील होते.",
+      "subject": "History",
+      "topic": "1857 Revolt",
+      "difficulty": "hard"
+    },
+    {
+      "questionEnglish": "Which Act was described by Pandit Jawaharlal Nehru as 'a new charter of Slavery'?",
+      "questionMarathi": "पंडित जवाहरलाल नेहरूंनी कोणत्या कायद्याचे वर्णन 'गुलामगिरीची एक नवी सनद' असे केले होते?",
+      "options": [
+        {
+          "id": "A",
+          "english": "The Morley-Minto Reforms Act, 1909",
+          "marathi": "मोर्ले-मिंटो सुधारणा कायदा, १९०९"
+        },
+        {
+          "id": "B",
+          "english": "The Montagu-Chelmsford Reforms Act, 1919",
+          "marathi": "माँटेग्यु-चेम्सफर्ड सुधारणा कायदा, १९१९"
+        },
+        {
+          "id": "C",
+          "english": "The Government of India Act, 1935",
+          "marathi": "भारत सरकार कायदा, १९३५"
+        },
+        {
+          "id": "D",
+          "english": "Rowlatt Act, 1919",
+          "marathi": "रोलेट कायदा, १९१९"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanationEnglish": "Pandit Jawaharlal Nehru strongly criticized the Government of India Act, 1935, describing it as 'a new charter of slavery' because it retained ultimate power with the British Crown and the Governor-General while offering nominal provincial autonomy.",
+      "explanationMarathi": "पंडित जवाहरलाल नेहरूंनी भारत सरकार कायदा १९३५ वर कडाडून टीका केली आणि त्याचे वर्णन 'गुलामगिरीची नवी सनद' असे केले, कारण या कायद्याने वास्तविक सत्ता ब्रिटीश गव्हर्नर जनरलकडेच ठेवली होती.",
+      "subject": "History",
+      "topic": "Constitutional History",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "Who was the first Indian woman to go to America and receive a degree in Medical Science in 1886?",
+      "questionMarathi": "अमेरिकेत जाऊन वैद्यकीय शास्त्रातील (वैद्यकीय पदवी) पदवी मिळविणारी देशातील पहिली भारतीय महिला कोण?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Dr. Rakhmabai",
+          "marathi": "डॉ. रखमाबाई"
+        },
+        {
+          "id": "B",
+          "english": "Dr. Anandibai Joshi",
+          "marathi": "डॉ. आनंदीबाई जोशी"
+        },
+        {
+          "id": "C",
+          "english": "Ramabai Ranade",
+          "marathi": "रमाबाई रानडे"
+        },
+        {
+          "id": "D",
+          "english": "Anutai Wagh",
+          "marathi": "अनुताई वाघ"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanationEnglish": "Dr. Anandibai Joshi (1865–1887) was the first Indian female physician to obtain a degree in Western medicine from the Woman's Medical College of Pennsylvania, USA, in 1886.",
+      "explanationMarathi": "डॉ. आनंदीबाई जोशी (१८६५-१८८७) या १८८६ मध्ये अमेरिकेतील 'वुमन्स मेडिकल कॉलेज ऑफ पेनसिल्व्हेनिया' मधून पाश्चात्त्य वैद्यकीय शास्त्रातील पदवी मिळवणाऱ्या पहिल्या भारतीय महिला ठरल्या.",
+      "subject": "History",
+      "topic": "Social Reformers",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "Who amongst the following was the first President of the 'All India Trade Union Congress' (AITUC) established in October 1920?",
+      "questionMarathi": "ऑक्टोबर १९२० मध्ये स्थापन झालेल्या 'ऑल इंडिया ट्रेड युनियन काँग्रेसचे' (AITUC) पहिले अध्यक्ष खालीलपैकी कोण होते?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Lala Lajpat Rai",
+          "marathi": "लाला लजपत राय"
+        },
+        {
+          "id": "B",
+          "english": "Lokmanya Tilak",
+          "marathi": "लोकमान्य टिळक"
+        },
+        {
+          "id": "C",
+          "english": "Shripad Amrut Dange",
+          "marathi": "श्रीपाद अमृत डांगे"
+        },
+        {
+          "id": "D",
+          "english": "N.M. Joshi",
+          "marathi": "ना. म. जोशी"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanationEnglish": "Lala Lajpat Rai presided over the founding session of the All India Trade Union Congress (AITUC) on October 31, 1920, in Bombay, emphasizing the need for organized labor in India's struggle for independence.",
+      "explanationMarathi": "३१ ऑक्टोबर १९२० रोजी मुंबईत झालेल्या ऑल इंडिया ट्रेड युनियन काँग्रेसच्या (AITUC) पहिल्या अधिवेशनाचे अध्यक्षस्थान लाला लजपत राय यांनी भूषविले होते.",
+      "subject": "History",
+      "topic": "Labour Movement",
+      "difficulty": "medium"
+    },
+    {
+      "questionEnglish": "Which of the following represents the correct descending order of mountain peaks according to their heights in Maharashtra?",
+      "questionMarathi": "महाराष्ट्रातील पर्वत शिखरांच्या उंचीनुसार खालीलपैकी अचूक उतरता क्रम कोणता?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Kalsubai, Salher, Mahabaleshwar, Trimbakeshwar",
+          "marathi": "कळसूबाई, साल्हेर, महाबळेश्वर, त्र्यंबकेश्वर"
+        },
+        {
+          "id": "B",
+          "english": "Salher, Kalsubai, Mahabaleshwar, Trimbakeshwar",
+          "marathi": "साल्हेर, कळसूबाई, महाबळेश्वर, त्र्यंबकेश्वर"
+        },
+        {
+          "id": "C",
+          "english": "Kalsubai, Mahabaleshwar, Salher, Trimbakeshwar",
+          "marathi": "कळसूबाई, महाबळेश्वर, साल्हेर, त्र्यंबकेश्वर"
+        },
+        {
+          "id": "D",
+          "english": "Kalsubai, Mahabaleshwar, Trimbakeshwar, Salher",
+          "marathi": "कळसूबाई, महाबळेश्वर, त्र्यंबकेश्वर, साल्हेर"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanationEnglish": "The correct descending order of mountain peaks in Maharashtra according to their heights is: Kalsubai (1646 m) > Salher (1567 m) > Mahabaleshwar (1438 m) > Trimbakeshwar (1304 m).",
+      "explanationMarathi": "महाराष्ट्रातील प्रमुख पर्वत शिखरांचा उंचीनुसार अचूक उतरता क्रम पुढीलप्रमाणे आहे: कळसूबाई (१६४६ मी) > साल्हेर (१५६७ मी) > महाबळेश्वर (१४३८ मी) > त्र्यंबकेश्वर (१३०४ मी).",
+      "subject": "Geography",
+      "topic": "Mountain Peaks",
+      "difficulty": "medium"
+    },
+    {
+      "questionEnglish": "Identify the correct mountain ranges that separate the major river basins of Maharashtra:\na. Satmala-Ajintha ranges separate Tapi and Godavari basins.\nb. Harishchandra-Balaghat ranges separate Godavari and Bhima basins.",
+      "questionMarathi": "महाराष्ट्रातील प्रमुख नदी खोरी अलग करणाऱ्या अचूक डोंगररांगा ओळखा:\nअ. सातमाळा-अजिंठा डोंगररांगामुळे गोदावरी खोरे तापी खोऱ्यापासून अलग झाले आहे.\nब. हरिश्चंद्र-बालाघाट डोंगररांगामुळे गोदावरी खोरे भीमा नदीच्या खोऱ्यापासून अलग झाले आहे.",
+      "options": [
+        {
+          "id": "A",
+          "english": "Only statement a is correct",
+          "marathi": "फक्त विधान अ बरोबर आहे"
+        },
+        {
+          "id": "B",
+          "english": "Only statement b is correct",
+          "marathi": "फक्त विधान ब बरोबर आहे"
+        },
+        {
+          "id": "C",
+          "english": "Both statements a and b are correct",
+          "marathi": "विधान अ आणि ब दोन्ही बरोबर आहेत"
+        },
+        {
+          "id": "D",
+          "english": "Both statements a and b are incorrect",
+          "marathi": "विधान अ आणि ब दोन्ही चुकीचे आहेत"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanationEnglish": "Both statements are correct. The Satmala-Ajintha range separates the Tapi river basin to the north from the Godavari river basin to the south. The Harishchandra-Balaghat range separates the Godavari river basin to the north from the Bhima river basin to the south.",
+      "explanationMarathi": "दिलेली दोन्ही विधाने अगदी बरोबर आहेत. सातमाळा-अजिंठा रांग तापी आणि गोदावरी खोरे अलग करते, तर हरिश्चंद्र-बालाघाट रांग गोदावरी आणि भीमा खोऱ्यांचे विभाजन करते.",
+      "subject": "Geography",
+      "topic": "River Basins",
+      "difficulty": "hard"
+    },
+    {
+      "questionEnglish": "As per the 2011 Census of India, what is India's average population density (per sq. km) and average literacy rate?",
+      "questionMarathi": "भारताच्या २०११ च्या जनगणनेनुसार, भारताची सरासरी लोकसंख्या घनता (दर चौ. किमी) आणि साक्षरता दर किती आहे?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Density: 324 per sq. km, Literacy: 65%",
+          "marathi": "घनता: ३२४ प्रति चौ. किमी, साक्षरता: ६५%"
+        },
+        {
+          "id": "B",
+          "english": "Density: 382 per sq. km, Literacy: 73.0%",
+          "marathi": "घनता: ३८२ प्रति चौ. किमी, साक्षरता: ७३.०%"
+        },
+        {
+          "id": "C",
+          "english": "Density: 365 per sq. km, Literacy: 74.04%",
+          "marathi": "घनता: ३६५ प्रति चौ. किमी, साक्षरता: ७४.०४%"
+        },
+        {
+          "id": "D",
+          "english": "Density: 382 per sq. km, Literacy: 82%",
+          "marathi": "घनता: ३८२ प्रति चौ. किमी, साक्षरता: ८२%"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanationEnglish": "According to the official 2011 Census, India's population density increased to 382 per square kilometer (from 325 in 2001) and the average literacy rate of the country was recorded at 73.0%.",
+      "explanationMarathi": "२०११ च्या जनगणनेनुसार, भारताची सरासरी लोकसंख्येची घनता ३८२ व्यक्ती प्रति चौरस किलोमीटर आहे आणि देशातील सरासरी साक्षरता दर ७३.०% इतका आहे.",
+      "subject": "Geography",
+      "topic": "Census 2011",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "Match the following main rivers of Maharashtra with their correct tributaries:\na. Tapi\nb. Godavari\nc. Bhima\nd. Krishna\n\nI. Panzara\nII. Pravara\nIII. Indrayani\nIV. Panchganga",
+      "questionMarathi": "महाराष्ट्रातील मुख्य नद्या आणि त्यांच्या उपनद्या यांच्या अचूक जोड्या जुळवा:\nअ. तापी\nब. गोदावरी\nक. भीमा\nड. कृष्णा\n\nI. पांझरा\nII. प्रवरा\nIII. इंद्रायणी\nIV. पंचगंगा",
+      "options": [
+        {
+          "id": "A",
+          "english": "a-I, b-II, c-III, d-IV",
+          "marathi": "अ-I, ब-II, क-III, d-IV"
+        },
+        {
+          "id": "B",
+          "english": "a-III, b-IV, c-II, d-I",
+          "marathi": "अ-III, ब-IV, क-II, ड-I"
+        },
+        {
+          "id": "C",
+          "english": "a-I, b-IV, c-II, d-III",
+          "marathi": "अ-I, ब-IV, क-II, ड-III"
+        },
+        {
+          "id": "D",
+          "english": "a-II, b-I, c-IV, d-III",
+          "marathi": "अ-II, ब-I, क-IV, ड-III"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanationEnglish": "The Panzara is a major tributary of the Tapi river; the Pravara is a tributary of the Godavari river; the Indrayani is a tributary of the Bhima river; and the Panchganga is a tributary of the Krishna river.",
+      "explanationMarathi": "पांझरा ही तापी नदीची उपनदी आहे; प्रवरा ही गोदावरी नदीची उपनदी आहे; इंद्रायणी ही भीमा नदीची उपनदी आहे; आणि पंचगंगा ही कृष्णा नदीची प्रमुख उपनदी आहे.",
+      "subject": "Geography",
+      "topic": "River Systems",
+      "difficulty": "medium"
+    },
+    {
+      "questionEnglish": "Which of the following states is the leading state in wind power generation capacity in India?",
+      "questionMarathi": "पवन ऊर्जा निर्मिती क्षमतेमध्ये खालीलपैकी कोणते राज्य भारतात अग्रेसर आहे?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Maharashtra",
+          "marathi": "महाराष्ट्र"
+        },
+        {
+          "id": "B",
+          "english": "Kerala",
+          "marathi": "केरळ"
+        },
+        {
+          "id": "C",
+          "english": "Karnataka",
+          "marathi": "कर्नाटक"
+        },
+        {
+          "id": "D",
+          "english": "Tamil Nadu",
+          "marathi": "तामिळनाडू"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanationEnglish": "According to wind energy data and sources, Tamil Nadu is leading in wind power energy capacity, with massive wind farms located especially in areas like Muppandal.",
+      "explanationMarathi": "भारतामध्ये तामिळनाडू हे राज्य पवन ऊर्जा निर्मिती क्षमतेमध्ये सर्वात अग्रेसर आहे, येथील मुप्पंडल हे देशातील मोठे पवन ऊर्जा केंद्र आहे.",
+      "subject": "Geography",
+      "topic": "Energy Resources",
+      "difficulty": "medium"
+    },
+    {
+      "questionEnglish": "India's first hydroelectric power station, 'Shivanasamudra', is constructed on which of the following rivers?",
+      "questionMarathi": "भारतातील पहिले जलविद्युत केंद्र 'शिवसमुद्रम' खालीलपैकी कोणत्या नदीवर उभारण्यात आले आहे?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Kaveri",
+          "marathi": "कावेरी"
+        },
+        {
+          "id": "B",
+          "english": "Krishna",
+          "marathi": "कृष्णा"
+        },
+        {
+          "id": "C",
+          "english": "Tungabhadra",
+          "marathi": "तुंगभद्रा"
+        },
+        {
+          "id": "D",
+          "english": "Godavari",
+          "marathi": "गोदावरी"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanationEnglish": "The Shivanasamudra Hydroelectric Project was established in 1902 on the Kaveri River in Karnataka, making it the first major hydroelectric power station in India and Asia.",
+      "explanationMarathi": "भारतातील पहिले जलविद्युत केंद्र 'शिवसमुद्रम' हे १९०२ मध्ये कर्नाटक राज्यातील कावेरी नदीवर सुरू करण्यात आले होते.",
+      "subject": "Geography",
+      "topic": "Energy Resources",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "To the north of Maharashtra lies the ________ mountain range, and to its east are found the ________ hills.",
+      "questionMarathi": "महाराष्ट्राच्या उत्तरेस ________ पर्वतरांगा आणि त्याच्या पूर्वेस ________ टेकड्या आहेत.",
+      "options": [
+        {
+          "id": "A",
+          "english": "Sahyadri, Nandurbar",
+          "marathi": "सह्याद्री आणि नंदूरबार"
+        },
+        {
+          "id": "B",
+          "english": "Satpuda, Gavilgad",
+          "marathi": "सातपुडा आणि गावीळगड"
+        },
+        {
+          "id": "C",
+          "english": "Balaghat, Bhamragad",
+          "marathi": "बालाघाट आणि भामरागड"
+        },
+        {
+          "id": "D",
+          "english": "Gavilgad, Mahadeo",
+          "marathi": "गावीळगड आणि महादेव"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanationEnglish": "The Satpuda mountain range runs along the northern boundary of Maharashtra, and the Gavilgad hills are situated in the eastern part (Amravati district) of this system.",
+      "explanationMarathi": "महाराष्ट्राच्या उत्तर सीमेवर सातपुडा पर्वतरांग पसरलेली आहे, आणि अमरावती जिल्ह्याच्या पूर्व भागात गावीळगड टेकड्या आहेत.",
+      "subject": "Geography",
+      "topic": "Physiography of Maharashtra",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "The Hugli River, on which the Kolkata port is situated, is a major distributary of which river?",
+      "questionMarathi": "कोलकाता बंदर ज्या हुगळी नदीवर वसलेले आहे, ती कोणत्या नदीची वितरिका (Distributary) आहे?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Damodar",
+          "marathi": "दामोदर"
+        },
+        {
+          "id": "B",
+          "english": "Brahmaputra",
+          "marathi": "ब्रह्मपुत्रा"
+        },
+        {
+          "id": "C",
+          "english": "Ganga",
+          "marathi": "गंगा"
+        },
+        {
+          "id": "D",
+          "english": "Padma",
+          "marathi": "पद्मा"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanationEnglish": "The Hugli River (Bhagirathi-Hooghly) is a major distributary of the Ganga River, branching off near Farakka in West Bengal before emptying into the Bay of Bengal.",
+      "explanationMarathi": "हुगळी नदी ही गंगा नदीची एक प्रमुख वितरिका (फाटा) आहे. ती पश्चिम बंगालमध्ये गंगा नदीपासून विलग होऊन दक्षिणवाहिनी वाहते.",
+      "subject": "Geography",
+      "topic": "Indian Drainage System",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "Which type of soil covers the largest geographical area in India?",
+      "questionMarathi": "खालीलपैकी कोणत्या प्रकारच्या मृदेने (माती) भारतातील सर्वात जास्त भौगोलिक क्षेत्र व्यापले आहे?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Black Cotton Soil (Regur)",
+          "marathi": "काळी कापसाची मृदा (रेगूर)"
+        },
+        {
+          "id": "B",
+          "english": "Red Soil",
+          "marathi": "तांबडी मृदा"
+        },
+        {
+          "id": "C",
+          "english": "Alluvial Soil",
+          "marathi": "गाळाची मृदा"
+        },
+        {
+          "id": "D",
+          "english": "Laterite Soil",
+          "marathi": "जांभी मृदा"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanationEnglish": "Alluvial soil, formed by deposition of rivers, covers nearly 40-43% of India's total geographical area, primarily in the Northern Plains and river valleys.",
+      "explanationMarathi": "नद्यांच्या संचयनामुळे तयार झालेली गाळाची मृदा (Alluvial Soil) भारतातील सर्वाधिक (जवळपास ४०-४३%) क्षेत्र व्यापते. हे उत्तर भारताच्या विस्तीर्ण मैदानात आढळते.",
+      "subject": "Geography",
+      "topic": "Indian Soils",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "The Nannaj Sanctuary in Solapur district is dedicated to the conservation of which endangered bird?",
+      "questionMarathi": "सोलापूर जिल्ह्यातील नान्नज अभयारण्य कोणत्या अत्यंत दुर्मिळ व संकटग्रस्त पक्ष्यासाठी राखीव/प्रसिद्ध आहे?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Peacock",
+          "marathi": "मोर"
+        },
+        {
+          "id": "B",
+          "english": "Flamingo",
+          "marathi": "रोहीत (फ्लेमिंगो)"
+        },
+        {
+          "id": "C",
+          "english": "Great Indian Bustard (Maldhok)",
+          "marathi": "माळढोक (Great Indian Bustard)"
+        },
+        {
+          "id": "D",
+          "english": "Forest Owlet",
+          "marathi": "रानपिंगळा"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanationEnglish": "The Great Indian Bustard Sanctuary at Nannaj in Solapur district was established in 1979 specifically to protect the highly endangered bird, the Great Indian Bustard, locally known as Maldhok.",
+      "explanationMarathi": "सोलापूर जिल्ह्यातील नान्नज येथील माळढोक अभयारण्य हे अत्यंत दुर्मिळ आणि लुप्तप्राय होत चाललेल्या 'माळढोक' (Great Indian Bustard) पक्ष्यांच्या संवर्धनासाठी प्रसिद्ध आहे.",
+      "subject": "Geography",
+      "topic": "Sanctuaries in Maharashtra",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "In which year did the first electric train run in Maharashtra, and what was its route?",
+      "questionMarathi": "महाराष्ट्रात पहिली विजेवर चालणारी रेल्वे कोणत्या वर्षी आणि कोणत्या मार्गावर धावली?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Byculla to Thane in 1925",
+          "marathi": "भायखळा ते ठाणे, १९२५"
+        },
+        {
+          "id": "B",
+          "english": "Mumbai to Kurla in 1925",
+          "marathi": "मुंबई ते कुर्ला, १९२५"
+        },
+        {
+          "id": "C",
+          "english": "Dadar to Bandra in 1918",
+          "marathi": "दादर ते बांद्रा, १९१८"
+        },
+        {
+          "id": "D",
+          "english": "Dadar to Borivali in 1925",
+          "marathi": "दादर ते बोरीवली, १९२५"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanationEnglish": "The first electric train in India and Maharashtra ran on February 3, 1925, between Bombay VT (now Chhatrapati Shivaji Maharaj Terminus) and Kurla, on the Harbour Line.",
+      "explanationMarathi": "भारतातील आणि महाराष्ट्रातील पहिली विजेवर चालणारी रेल्वे ३ फेब्रुवारी १९२५ रोजी मुंबई व्ही.टी. ते कुर्ला या हार्बर मार्गावर धावली होती.",
+      "subject": "Geography",
+      "topic": "Transportation",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "According to Koppen's climate classification, what type of climate is found in the western coastal region of India (south of Mumbai)?",
+      "questionMarathi": "कोपेन यांनी केलेल्या हवामान वर्गीकरण विभागानुसार भारताच्या पश्चिम किनारी प्रदेशात (मुंबईच्या दक्षिणेकडे) कोणत्या प्रकारचे हवामान आढळते?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Aw (Tropical Savanna type)",
+          "marathi": "Aw (उष्णकटिबंधीय सव्हाना प्रकार)"
+        },
+        {
+          "id": "B",
+          "english": "As (Monsoon type with dry summer)",
+          "marathi": "As (कोरड्या उन्हाळ्यासह मान्सूनचा प्रकार)"
+        },
+        {
+          "id": "C",
+          "english": "Amw (Monsoon type with short dry winter)",
+          "marathi": "Amw (कमी कोरड्या हिवाळ्यासह मान्सून प्रकार)"
+        },
+        {
+          "id": "D",
+          "english": "BShw (Semi-arid Steppe type)",
+          "marathi": "BShw (अर्ध-शुष्क स्टेपी प्रकार)"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanationEnglish": "According to Koppen's scheme, the Western Coast of India (south of Mumbai) experiences an 'Amw' climate, which is a tropical wet monsoon climate characterized by heavy rain during summer and a very short, dry winter.",
+      "explanationMarathi": "कोपेनच्या हवामान वर्गीकरणानुसार, मुंबईच्या दक्षिणेकडील भारताच्या पश्चिम किनारपट्टीवर 'Amw' प्रकारचे हवामान आढळते, ज्याचा अर्थ मान्सून हवामान आणि अल्प काळ कोरडा असणारा हिवाळा असा होतो.",
+      "subject": "Geography",
+      "topic": "Climatology",
+      "difficulty": "hard"
+    },
+    {
+      "questionEnglish": "Where is the famous 'Noonmati' oil refinery located in India?",
+      "questionMarathi": "भारतातील प्रसिद्ध 'नूनमती' तेल शुद्धीकरण कारखाना खालीलपैकी कोणत्या राज्यात आहे?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Bihar",
+          "marathi": "बिहार"
+        },
+        {
+          "id": "B",
+          "english": "Gujarat",
+          "marathi": "गुजरात"
+        },
+        {
+          "id": "C",
+          "english": "Assam",
+          "marathi": "आसाम"
+        },
+        {
+          "id": "D",
+          "english": "None of the above",
+          "marathi": "वरीलपैकी कोणतेही नाही"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanationEnglish": "The Noonmati refinery, established in Guwahati, Assam in 1962, was the first public sector refinery in India under Indian Oil Corporation Limited (IOCL).",
+      "explanationMarathi": "नूनमती तेल शुद्धीकरण कारखाना आसाम राज्यातील गुवाहाटी येथे आहे. तो इंडियन ऑइल कॉर्पोरेशनचा (IOC) सार्वजनिक क्षेत्रातील पहिला कारखाना ठरला.",
+      "subject": "Geography",
+      "topic": "Mineral Resources",
+      "difficulty": "medium"
+    },
+    {
+      "questionEnglish": "Kattha (catechu), widely used in betel leaves and cosmetics, is obtained from the wood of which tree?",
+      "questionMarathi": "तांबूल (विडा) आणि औषधांमध्ये मोठ्या प्रमाणावर वापरला जाणारा 'काथ' कोणत्या झाडाच्या खोडापासून मिळवतात?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Khair",
+          "marathi": "खैर"
+        },
+        {
+          "id": "B",
+          "english": "Teak",
+          "marathi": "साग"
+        },
+        {
+          "id": "C",
+          "english": "Sundri",
+          "marathi": "सुंद्री"
+        },
+        {
+          "id": "D",
+          "english": "Acacia",
+          "marathi": "आकासीया / बाभूळ"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanationEnglish": "Kattha is extracted from the heartwood of the Khair (Acacia catechu) tree. The wood is boiled in water, and the residue is concentrated and cooled to form kattha.",
+      "explanationMarathi": "खैर (Khair) या झाडाच्या मध्यकाष्ठापासून काथ मिळवला जातो. या झाडाच्या लाकडाचे तुकडे करून ते उकळवले जातात आणि त्यातून काथ काढला जातो.",
+      "subject": "Geography",
+      "topic": "Forest Resources",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "How is 'Density of Population' calculated and represented mathematically?",
+      "questionMarathi": "लोकसंख्येची घनता कशाप्रकारे मोजली जाते?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Per Hectare",
+          "marathi": "दर हेक्टरी"
+        },
+        {
+          "id": "B",
+          "english": "Per Square Foot",
+          "marathi": "दर चौरस फूट"
+        },
+        {
+          "id": "C",
+          "english": "Per Square Kilometer",
+          "marathi": "दर चौरस किलोमीटर"
+        },
+        {
+          "id": "D",
+          "english": "None of the above",
+          "marathi": "वरीलपैकी कोणतेही नाही"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanationEnglish": "Density of population is measured as the number of persons living per unit of area, which is standardly expressed as persons per square kilometer (per sq. km).",
+      "explanationMarathi": "लोकसंख्येची घनता मोजताना प्रति एकक क्षेत्रफळात राहणाऱ्या लोकांची संख्या मोजली जाते. याचा जागतिक मानक दर चौरस किलोमीटर (Per Square Kilometer) असा आहे.",
+      "subject": "Geography",
+      "topic": "Census Concepts",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "According to Article 154 of the Constitution of India, the executive power of the State is vested in which of the following?",
+      "questionMarathi": "भारतीय संविधानाच्या कलम १५४ प्रमाणे राज्याची कार्यकारी सत्ता खालीलपैकी कोणाकडे सोपविण्यात आली आहे?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Chief Minister",
+          "marathi": "मुख्यमंत्री"
+        },
+        {
+          "id": "B",
+          "english": "Council of Ministers",
+          "marathi": "मंत्रिमंडळ"
+        },
+        {
+          "id": "C",
+          "english": "The Governor",
+          "marathi": "राज्यपाल"
+        },
+        {
+          "id": "D",
+          "english": "The Chief Secretary",
+          "marathi": "मुख्य सचिव"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanationEnglish": "Article 154(1) of the Indian Constitution states that the executive power of the State shall be vested in the Governor and shall be exercised by him either directly or through officers subordinate to him in accordance with the Constitution.",
+      "explanationMarathi": "भारतीय संविधानाच्या कलम १५४(१) नुसार, राज्याची कार्यकारी सत्ता राज्यपालांच्या स्वाधीन असेल आणि ते त्याचा वापर स्वतः थेट किंवा त्यांच्या अधीनस्थ अधिकाऱ्यांमार्फत संविधानानुसार करतील.",
+      "subject": "Polity",
+      "topic": "State Executive",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "According to Article 243E of the Constitution of India, every Gram Panchayat, unless dissolved earlier under any law, shall continue for five years from:",
+      "questionMarathi": "भारतीय राज्यघटनेच्या कलम २४३ E प्रमाणे प्रत्येक ग्रामपंचायत, ती तत्पूर्वीच विसर्जित झाली नसेल तर, पुढीलपैकी कोणत्या दिनांकापासून पाच वर्षांपर्यंत अस्तित्वात राहील?",
+      "options": [
+        {
+          "id": "A",
+          "english": "The date of declaration of election results",
+          "marathi": "निवडणूक निकाल जाहीर झाल्यापासूनच्या दिनांकापासून"
+        },
+        {
+          "id": "B",
+          "english": "The date of declaration of elections",
+          "marathi": "निवडणुका जाहीर झाल्याच्या दिनांकापासून"
+        },
+        {
+          "id": "C",
+          "english": "The date appointed for its first meeting after elections",
+          "marathi": "तिच्या निवडणुकीनंतरच्या पहिल्या बैठकीकरता नियत केलेल्या दिनांकापासून"
+        },
+        {
+          "id": "D",
+          "english": "The beginning of the first financial year after elections",
+          "marathi": "पंचायत निवडणुकांच्या नंतर सुरू होणाऱ्या पहिल्या आर्थिक वर्षापासून"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanationEnglish": "Article 243E(1) states that every Panchayat, unless sooner dissolved under any law for the time being in force, shall continue for five years from the date appointed for its first meeting and no longer.",
+      "explanationMarathi": "कलम २४३ E(१) नुसार, प्रत्येक ग्रामपंचायत तिची निवडणूक झाल्यानंतर पहिल्या बैठकीसाठी नियत केलेल्या तारखेपासून ५ वर्षांपर्यंत अस्तित्वात राहील.",
+      "subject": "Polity",
+      "topic": "Local Self Government",
+      "difficulty": "medium"
+    },
+    {
+      "questionEnglish": "By which Constitutional Amendment Act was the 11th Fundamental Duty (providing education opportunities to children aged 6-14) added to Article 51A of the Constitution of India?",
+      "questionMarathi": "कोणत्या घटनादुरुस्तीन्वये ११ वे मूलभूत कर्तव्य (६ ते १४ वयोगटातील पाल्यांना शिक्षणाची संधी उपलब्ध करून देणे) संविधानाच्या यादीत नंतर समाविष्ट केले गेले? (51A(k))",
+      "options": [
+        {
+          "id": "A",
+          "english": "42nd Amendment Act - 1976",
+          "marathi": "४२ वी घटनादुरुस्ती कायदा - १९७६"
+        },
+        {
+          "id": "B",
+          "english": "52nd Amendment Act - 1980",
+          "marathi": "५२ वी घटनादुरुस्ती कायदा - १९८०"
+        },
+        {
+          "id": "C",
+          "english": "62nd Amendment Act - 1992",
+          "marathi": "६२ वी घटनादुरुस्ती कायदा - १९९२"
+        },
+        {
+          "id": "D",
+          "english": "86th Amendment Act - 2002",
+          "marathi": "८६ वी घटनादुरुस्ती कायदा - २००२"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanationEnglish": "The 11th Fundamental Duty was added to Article 51A of the Indian Constitution by the 86th Constitutional Amendment Act, 2002. It makes it a duty of every parent or guardian to provide opportunities for education to his child between the age of 6 and 14 years.",
+      "explanationMarathi": "८६ व्या घटनादुरुस्ती कायदा २००२ द्वारे कलम ५१ अ मध्ये ११ व्या मूलभूत कर्तव्याचा (क) समावेश करण्यात आला. ६ ते १४ वर्षांपर्यंतच्या मुलांना शिक्षणाची संधी देणे पालकांचे कर्तव्य बनवले गेले.",
+      "subject": "Polity",
+      "topic": "Fundamental Duties",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "According to Dr. B.R. Ambedkar, which Article of the Constitution of India is considered its 'soul and heart'?",
+      "questionMarathi": "डॉ. बी.आर. आंबेडकरांनी संविधानाच्या कोणत्या कलमास 'भारतीय संविधानाचा आत्मा आणि हृदय' मानले आहे?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Article 19",
+          "marathi": "कलम १९"
+        },
+        {
+          "id": "B",
+          "english": "Article 21",
+          "marathi": "कलम २१"
+        },
+        {
+          "id": "C",
+          "english": "Article 51",
+          "marathi": "कलम ५१"
+        },
+        {
+          "id": "D",
+          "english": "Article 32",
+          "marathi": "कलम ३२"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanationEnglish": "Dr. B.R. Ambedkar called Article 32 (Right to Constitutional Remedies) the 'soul and heart' of the Indian Constitution because it empowers citizens to directly approach the Supreme Court for enforcement of their Fundamental Rights.",
+      "explanationMarathi": "डॉ. बी.आर. आंबेडकरांनी कलम ३२ ला (घटनात्मक उपायांचा अधिकार) संविधानाचा आत्मा आणि हृदय म्हटले आहे, कारण यामुळे नागरिकांना त्यांच्या मूलभूत हक्कांच्या संरक्षणासाठी थेट सर्वोच्च न्यायालयात जाता येते.",
+      "subject": "Polity",
+      "topic": "Fundamental Rights",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "Under which Article of the Indian Constitution are the Union and State Public Service Commissions established?",
+      "questionMarathi": "केंद्र व राज्य लोकसेवा आयोगाची स्थापना भारतीय राज्यघटनेतील कोणत्या कलमान्वये करण्यात आलेली आहे?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Article 325",
+          "marathi": "अनुच्छेद ३२५"
+        },
+        {
+          "id": "B",
+          "english": "Article 320",
+          "marathi": "अनुच्छेद ३२०"
+        },
+        {
+          "id": "C",
+          "english": "Article 318",
+          "marathi": "अनुच्छेद ३१८"
+        },
+        {
+          "id": "D",
+          "english": "Article 315",
+          "marathi": "अनुच्छेद ३१५"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanationEnglish": "Article 315 of the Constitution provides for the establishment of a Public Service Commission for the Union (UPSC) and a Public Service Commission for each State (SPSC).",
+      "explanationMarathi": "भारतीय राज्यघटनेच्या कलम ३१५ नुसार, केंद्रासाठी एक लोकसेवा आयोग (UPSC) आणि प्रत्येक राज्यासाठी एक राज्य लोकसेवा आयोग (SPSC) स्थापन करण्याची तरतूद आहे.",
+      "subject": "Polity",
+      "topic": "Constitutional Bodies",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "Which of the following statements regarding the State Election Commission is correct?",
+      "questionMarathi": "राज्य निवडणूक आयोगाबाबत खालीलपैकी कोणते विधान बरोबर आहे?",
+      "options": [
+        {
+          "id": "A",
+          "english": "The State Election Commissioner is appointed by the President.",
+          "marathi": "राज्य निवडणूक आयुक्तांची नियुक्ती राष्ट्रपतींद्वारे केली जाते."
+        },
+        {
+          "id": "B",
+          "english": "The State Election Commissioner can be removed from office by the Governor.",
+          "marathi": "राज्य निवडणूक आयुक्तांना राज्यपाल त्यांच्या पदावरून दूर करू शकतात."
+        },
+        {
+          "id": "C",
+          "english": "The State Election Commissioner can only be removed in like manner and on like grounds as a Judge of a High Court.",
+          "marathi": "राज्य निवडणूक आयुक्तांना उच्च न्यायालयाच्या न्यायाधीशाप्रमाणेच आणि त्याच कारणांवरून पदावरून दूर केले जाऊ शकते."
+        },
+        {
+          "id": "D",
+          "english": "It conducts elections to the State Legislative Assembly.",
+          "marathi": "हा आयोग राज्य विधानसभेच्या निवडणुका घेतो."
+        }
+      ],
+      "correctOptionId": "C",
+      "explanationEnglish": "The State Election Commissioner is appointed by the Governor but cannot be removed from office by him. The Commissioner can only be removed in like manner and on like grounds as a Judge of a High Court.",
+      "explanationMarathi": "राज्य निवडणूक आयुक्तांची नियुक्ती राज्यपाल करतात. मात्र, त्यांना पदावरून दूर करण्याचा अधिकार राज्यपालांना नाही. त्यांना उच्च न्यायालयाच्या न्यायाधीशाप्रमाणेच महाभियोग प्रक्रियेद्वारे दूर केले जाऊ शकते.",
+      "subject": "Polity",
+      "topic": "Constitutional Bodies",
+      "difficulty": "medium"
+    },
+    {
+      "questionEnglish": "To whom does the Advocate General of the State submit his resignation?",
+      "questionMarathi": "राज्याचा महाधिवक्ता (Advocate General) आपल्या पदाचा राजीनामा कोणाकडे सोपवितो?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Chief Justice of the High Court",
+          "marathi": "राज्याच्या उच्च न्यायालयाच्या मुख्य न्यायाधीशांकडे"
+        },
+        {
+          "id": "B",
+          "english": "Governor of the respective State",
+          "marathi": "संबंधित राज्याच्या राज्यपालांकडे"
+        },
+        {
+          "id": "C",
+          "english": "President of India",
+          "marathi": "भारताच्या राष्ट्रपतींकडे"
+        },
+        {
+          "id": "D",
+          "english": "Chief Minister of the respective State",
+          "marathi": "संबंधित राज्याच्या मुख्यमंत्र्यांकडे"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanationEnglish": "The Advocate General of a State is appointed by the Governor and holds office during the pleasure of the Governor. Thus, he submits his resignation to the Governor of the respective State.",
+      "explanationMarathi": "राज्याच्या महाधिवक्त्याची नियुक्ती राज्यपाल करतात आणि ते राज्यपालांची मर्जी असेपर्यंतच पदावर राहतात. त्यामुळे ते आपला राजीनामा राज्यपालांकडे सोपवतात.",
+      "subject": "Polity",
+      "topic": "State Executive",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "Which of the following writs is NOT specifically provided under Article 32 of the Constitution of India?",
+      "questionMarathi": "भारतीय राज्यघटनेच्या अनुच्छेद ३२ अन्वये खालीलपैकी कोणत्या प्रकारच्या आदेशाची (Writs) तरतूद सुस्पष्टपणे केलेली नाही?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Injunction",
+          "marathi": "निषेधाज्ञा (Injunction)"
+        },
+        {
+          "id": "B",
+          "english": "Prohibition",
+          "marathi": "प्रतिषेध (Prohibition)"
+        },
+        {
+          "id": "C",
+          "english": "Quo-warranto",
+          "marathi": "अधिकार-पृच्छा (Quo-warranto)"
+        },
+        {
+          "id": "D",
+          "english": "Certiorari",
+          "marathi": "उत्प्रेक्षण (Certiorari)"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanationEnglish": "Under Article 32, the Supreme Court is empowered to issue five specific writs: Habeas Corpus, Mandamus, Prohibition, Certiorari, and Quo-Warranto. 'Injunction' is not a writ specifically provided under Article 32.",
+      "explanationMarathi": "कलम ३२ अन्वये केवळ पाच प्रकारचे आदेश (Writs) जारी केले जातात: बंदी प्रत्यक्षीकरण, परमादेश, प्रतिषेध, उत्प्रेषण, आणि अधिकार-पृच्छा. 'निषेधाज्ञा' (Injunction) हा या पाच प्रकारांमध्ये समाविष्ट नाही.",
+      "subject": "Polity",
+      "topic": "Fundamental Rights",
+      "difficulty": "medium"
+    },
+    {
+      "questionEnglish": "According to Article 75 of the Indian Constitution, the Council of Ministers shall be collectively responsible to which organ?",
+      "questionMarathi": "भारतीय संविधानाच्या कोणत्या कलमानुसार मंत्री परिषद लोकसभेला सामूहिकरीत्या उत्तरदायी (जबाबदार) असते?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Article 75(3) - collective responsibility to the Lok Sabha",
+          "marathi": "कलम ७५(३) - लोकसभेला सामूहिक जबाबदारी"
+        },
+        {
+          "id": "B",
+          "english": "Article 74(1) - collective responsibility to the Parliament",
+          "marathi": "कलम ७४(१) - संसदेला सामूहिक जबाबदारी"
+        },
+        {
+          "id": "C",
+          "english": "Article 73 - collective responsibility to the President",
+          "marathi": "कलम ७३ - राष्ट्रपतींना सामूहिक जबाबदारी"
+        },
+        {
+          "id": "D",
+          "english": "Article 76 - collective responsibility to the Rajya Sabha",
+          "marathi": "कलम ७६ - राज्यसभेला सामूहिक जबाबदारी"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanationEnglish": "Article 75(3) of the Constitution of India explicitly states that the Council of Ministers shall be collectively responsible to the House of the People (Lok Sabha).",
+      "explanationMarathi": "कलम ७५(३) मध्ये स्पष्टपणे नमूद केले आहे की, मंत्री परिषद सामूहिकरीत्या लोकसभेला (House of the People) जबाबदार असेल.",
+      "subject": "Polity",
+      "topic": "Union Executive",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "Which of the following subjects and lists under the Constitution of India is NOT correctly matched?",
+      "questionMarathi": "भारताच्या संविधानाच्या अंतर्गत विषय आणि संबंधित सूची यांच्या जोड्यांपैकी कोणती जोडी अयोग्य आहे?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Forests -- Concurrent List",
+          "marathi": "जंगले - समवर्ती सूची"
+        },
+        {
+          "id": "B",
+          "english": "Stock Exchange -- Concurrent List",
+          "marathi": "स्टॉक एक्सचेंज - समवर्ती सूची"
+        },
+        {
+          "id": "C",
+          "english": "Post Office Savings Bank -- Union List",
+          "marathi": "पोस्ट ऑफिस बचत बँक - केंद्र सूची"
+        },
+        {
+          "id": "D",
+          "english": "Public Health -- State List",
+          "marathi": "सार्वजनिक आरोग्य - राज्य सूची"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanationEnglish": "Stock Exchanges and Futures Markets fall under Entry 90 of the Union List (List I), not the Concurrent List. Therefore, option B is incorrectly matched.",
+      "explanationMarathi": "स्टॉक एक्सचेंज (भागबाजार) आणि वायदे बाजार हा केंद्र सूचीतील (Union List) विषय आहे, समवर्ती सूचीतील नाही. त्यामुळे पर्याय ब चुकीचा जुळवला आहे.",
+      "subject": "Polity",
+      "topic": "7th Schedule",
+      "difficulty": "hard"
+    },
+    {
+      "questionEnglish": "The Fundamental Duties were incorporated into the Constitution of India on the recommendation of which of the following committees?",
+      "questionMarathi": "कोणत्या समितीच्या शिफारशीनुसार मूलभूत कर्तव्यांचा भारतीय राज्यघटनेत समावेश करण्यात आला?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Devraj Committee",
+          "marathi": "देवराज समिती"
+        },
+        {
+          "id": "B",
+          "english": "Karan Singh Committee",
+          "marathi": "करण सिंग समिती"
+        },
+        {
+          "id": "C",
+          "english": "Swaran Singh Committee",
+          "marathi": "स्वर्ण सिंग समिती"
+        },
+        {
+          "id": "D",
+          "english": "Kripalani Committee",
+          "marathi": "कृपलानी समिती"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanationEnglish": "The Swaran Singh Committee (appointed by the Congress Party in 1976) recommended the inclusion of Fundamental Duties, which resulted in the 42nd Amendment Act adding Part IV-A and Article 51A to the Constitution.",
+      "explanationMarathi": "१९७६ मध्ये स्थापन केलेल्या सरदार स्वर्ण सिंग समितीच्या शिफारशींवरून ४२ व्या घटनादुरुस्तीद्वारे राज्यघटनेत 'भाग ४-अ' आणि 'कलम ५१ अ' जोडून मूलभूत कर्तव्यांचा समावेश करण्यात आला.",
+      "subject": "Polity",
+      "topic": "Fundamental Duties",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "Which of the following are NOT considered Federal features of the Indian Constitution?\na. All India Services\nb. Single Judiciary\nc. Independent Judiciary\nd. Division of Powers",
+      "questionMarathi": "भारतीय राज्यघटनेच्या संघराज्यीय (Federal) वैशिष्ट्यांमध्ये खालीलपैकी कशाचा समावेश होत नाही?\nअ. अखिल भारतीय सेवा\nब. एकेरी न्यायव्यवस्था\nक. स्वतंत्र न्यायव्यवस्था\nड. अधिकारांची विभागणी",
+      "options": [
+        {
+          "id": "A",
+          "english": "Only a and b",
+          "marathi": "फक्त अ आणि ब"
+        },
+        {
+          "id": "B",
+          "english": "Only a and c",
+          "marathi": "फक्त अ आणि क"
+        },
+        {
+          "id": "C",
+          "english": "Only b and c",
+          "marathi": "फक्त ब आणि क"
+        },
+        {
+          "id": "D",
+          "english": "Only c and d",
+          "marathi": "फक्त क आणि ड"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanationEnglish": "Independent Judiciary and Division of Powers are classic Federal features. All India Services and Single Judiciary are Unitary (Non-Federal) features of the Indian Constitution.",
+      "explanationMarathi": "स्वतंत्र न्यायव्यवस्था आणि अधिकारांची विभागणी ही संघराज्याची वैशिष्ट्ये आहेत. याउलट, अखिल भारतीय सेवा आणि एकेरी न्यायव्यवस्था ही एकात्मिक (Unitary) वैशिष्ट्ये आहेत.",
+      "subject": "Polity",
+      "topic": "Federal Structure",
+      "difficulty": "hard"
+    },
+    {
+      "questionEnglish": "Which Article of the Indian Constitution makes provisions for the establishment of the Legislative Assembly (Vidhan Sabha) of a State?",
+      "questionMarathi": "भारतीय संविधानाच्या कोणत्या कलमात राज्याच्या विधानसभेची (Legislative Assembly) तरतूद आहे?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Article 170",
+          "marathi": "कलम १७०"
+        },
+        {
+          "id": "B",
+          "english": "Article 171",
+          "marathi": "कलम १७१"
+        },
+        {
+          "id": "C",
+          "english": "Article 172",
+          "marathi": "कलम १७२"
+        },
+        {
+          "id": "D",
+          "english": "Article 173",
+          "marathi": "कलम १७३"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanationEnglish": "Article 170 of the Indian Constitution deals with the composition of Legislative Assemblies (Vidhan Sabha) in States, specifying a maximum of 500 members and a minimum of 60 members.",
+      "explanationMarathi": "भारतीय राज्यघटनेच्या कलम १७० मध्ये राज्यांच्या विधानसभेच्या (Vidhan Sabha) रचनेची तरतूद आहे.",
+      "subject": "Polity",
+      "topic": "State Legislature",
+      "difficulty": "medium"
+    },
+    {
+      "questionEnglish": "With reference to Article 165 of the Indian Constitution, who is the legal adviser to the State Government?",
+      "questionMarathi": "भारतीय संविधानाच्या कलम १६५ च्या संदर्भात राज्य सरकारचा सर्वोच्च कायदेशीर सल्लागार कोण आहे?",
+      "options": [
+        {
+          "id": "A",
+          "english": "The Solicitor General",
+          "marathi": "सॉलीसिटर जनरल"
+        },
+        {
+          "id": "B",
+          "english": "Additional Government Pleader",
+          "marathi": "अतिरिक्त सरकारी वकील"
+        },
+        {
+          "id": "C",
+          "english": "The Advocate General",
+          "marathi": "महाधिवक्ता (Advocate General)"
+        },
+        {
+          "id": "D",
+          "english": "The High Court Judge",
+          "marathi": "उच्च न्यायालयाचे न्यायाधीश"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanationEnglish": "Article 165 provides for the Advocate General for the State, who acts as the primary legal adviser to the State Government on legal matters referred by the Governor.",
+      "explanationMarathi": "कलम १६५ नुसार, राज्याचा महाधिवक्ता (Advocate General) हा राज्य सरकारचा मुख्य कायदेशीर सल्लागार असतो, ज्याची नियुक्ती राज्यपाल करतात.",
+      "subject": "Polity",
+      "topic": "State Executive",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "Which constitutional amendments officially inserted Part 'IX' (Panchayati Raj) and Part 'IX-A' (Urban Local Bodies) into the Constitution of India?",
+      "questionMarathi": "कोणत्या घटना दुरुस्ती कायद्याद्वारे संविधानात अनुक्रमे भाग '९' (पंचायती राज) आणि भाग '९ अ' (शहरी स्थानिक स्वराज्य संस्था) समाविष्ट करण्यात आले?",
+      "options": [
+        {
+          "id": "A",
+          "english": "73rd and 74th Amendment Acts respectively",
+          "marathi": "७३ वी आणि ७४ वी घटनादुरुस्ती कायदा अनुक्रमे"
+        },
+        {
+          "id": "B",
+          "english": "42nd and 44th Amendment Acts respectively",
+          "marathi": "४२ वी आणि ४४ वी घटनादुरुस्ती कायदा अनुक्रमे"
+        },
+        {
+          "id": "C",
+          "english": "61st and 64th Amendment Acts respectively",
+          "marathi": "६१ वी आणि ६४ वी घटनादुरुस्ती कायदा अनुक्रमे"
+        },
+        {
+          "id": "D",
+          "english": "71st and 72nd Amendment Acts respectively",
+          "marathi": "७१ वी आणि ७२ वी घटनादुरुस्ती कायदा अनुक्रमे"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanationEnglish": "The 73rd Amendment Act of 1992 inserted Part IX (rural local self-government/Panchayati Raj) and the 74th Amendment Act inserted Part IX-A (municipalities/urban local bodies) into the Constitution.",
+      "explanationMarathi": "७३ व्या घटनादुरुस्ती कायद्याद्वारे संविधानात भाग '९' (ग्रामीण स्थानिक स्वराज्य संस्था) आणि ७४ व्या घटनादुरुस्ती कायद्याद्वारे भाग '९ अ' (शहरी स्थानिक संस्था) जोडण्यात आले.",
+      "subject": "Polity",
+      "topic": "Amendments",
+      "difficulty": "medium"
+    },
+    {
+      "questionEnglish": "The Second Five-Year Plan of India, which emphasized heavy industrialization and capital goods, was based on the model of which famous economist?",
+      "questionMarathi": "भांडवली वस्तू उद्योग आणि जड पायाभूत उद्योगांच्या विकासावर भर देणारी दुसरी पंचवार्षिक योजना कोणत्या प्रतिमानावर (Model) आधारित होती?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Harrod-Domar Model",
+          "marathi": "हॅरॉड-डोमार प्रतिमान"
+        },
+        {
+          "id": "B",
+          "english": "Chakravarthy Model",
+          "marathi": "चक्रवर्ती प्रतिमान"
+        },
+        {
+          "id": "C",
+          "english": "Kelkar Model",
+          "marathi": "केळकर प्रतिमान"
+        },
+        {
+          "id": "D",
+          "english": "Mahalanobis Model",
+          "marathi": "महालनोबिस प्रतिमान"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanationEnglish": "The Second Five-Year Plan (1956-61) was based on the Mahalanobis Model, named after Prasanta Chandra Mahalanobis. It prioritized rapid industrialization with a focus on heavy and basic industries.",
+      "explanationMarathi": "दुसरी पंचवार्षिक योजना (१९५६-६१) प्रसिद्ध सांख्यिकीशास्त्रज्ञ पी. सी. महालनोबिस यांच्या प्रतिमानावर आधारित होती. या योजनेत पायाभूत व जड उद्योगांना प्राधान्य दिले गेले.",
+      "subject": "Economics",
+      "topic": "Five Year Plans",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "Which expert committee was appointed by the Government of India in 2011-2012 to re-examine the methodology for estimation of poverty?",
+      "questionMarathi": "भारतातील दारिद्र्य मोजमापाच्या पद्धतीचे पुनर्परीक्षण करण्यासाठी २०११-२०१२ मध्ये कोणती समिती नेमण्यात आली होती?",
+      "options": [
+        {
+          "id": "A",
+          "english": "S. Chakravarty Committee",
+          "marathi": "एस. चक्रवर्ती समिती"
+        },
+        {
+          "id": "B",
+          "english": "D.T. Lakdawala Committee",
+          "marathi": "डी.टी. लकडावाला समिती"
+        },
+        {
+          "id": "C",
+          "english": "C. Rangarajan Committee",
+          "marathi": "सी. रंगराजन समिती"
+        },
+        {
+          "id": "D",
+          "english": "Tendulkar Committee",
+          "marathi": "तेंडुलकर समिती"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanationEnglish": "The C. Rangarajan Committee was appointed in June 2012 by the Planning Commission to review the Tendulkar Committee's poverty estimation methodology and suggest a new framework.",
+      "explanationMarathi": "२०११-१२ मध्ये नियोजन आयोगाने सुरेश तेंडुलकर समितीच्या पद्धतीचे पुनरावलोकन करण्यासाठी डॉ. सी. रंगराजन यांच्या अध्यक्षतेखाली समिती नेमली, जिने २०१४ मध्ये आपला अहवाल दिला.",
+      "subject": "Economics",
+      "topic": "Poverty Committees",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "Which of the following are primary instruments of Fiscal Policy (राजकोषीय धोरण) as opposed to Monetary Policy?",
+      "questionMarathi": "खालीलपैकी कोणती साधने मौद्रिक धोरणाऐवजी (Monetary Policy) प्रामुख्याने राजकोषीय धोरणाची (Fiscal Policy) साधने आहेत?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Bank Rate and Repo Rate",
+          "marathi": "बँक दर आणि रेपो दर"
+        },
+        {
+          "id": "B",
+          "english": "Taxes and Public Expenditure",
+          "marathi": "कर आणि सार्वजनिक खर्च"
+        },
+        {
+          "id": "C",
+          "english": "Foreign Direct Investment and CRR",
+          "marathi": "थेट परकीय गुंतवणूक आणि रोख राखीव प्रमाण"
+        },
+        {
+          "id": "D",
+          "english": "Open Market Operations and SLR",
+          "marathi": "खुल्या बाजारातील रोखे खरेदी-विक्री आणि वैधानिक रोखता प्रमाण"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanationEnglish": "Fiscal Policy is managed by the government and uses instruments like Taxation and Public Expenditure (government spending) to influence the economy. Bank rates, Repo rates, and CRR are monetary policy instruments managed by the Central Bank (RBI).",
+      "explanationMarathi": "राजकोषीय धोरण हे सरकारद्वारे चालवले जाते, ज्यामध्ये प्रामुख्याने 'कर' (Taxation) आणि 'सार्वजनिक खर्च' (Public Expenditure) यांचा समावेश होतो. बँक दर आणि रेपो दर मौद्रिक धोरणाचे भाग आहेत.",
+      "subject": "Economics",
+      "topic": "Fiscal Policy",
+      "difficulty": "medium"
+    },
+    {
+      "questionEnglish": "What is meant by 'Repo Rate' in the Indian banking system?",
+      "questionMarathi": "भारतीय बँकिंग प्रणालीतील 'रेपो दर' (Repo Rate) म्हणजे काय?",
+      "options": [
+        {
+          "id": "A",
+          "english": "The rate at which commercial banks lend to the public",
+          "marathi": "ज्या दराने व्यापारी बँका सामान्य लोकांना कर्जे देतात"
+        },
+        {
+          "id": "B",
+          "english": "The rate charged on savings deposits of public in commercial banks",
+          "marathi": "व्यापारी बँका बचत ठेवींवर जो व्याजदर आकारतात"
+        },
+        {
+          "id": "C",
+          "english": "The rate at which the Reserve Bank of India lends money to commercial banks",
+          "marathi": "ज्या दराने रिझर्व्ह बँक ऑफ इंडिया (RBI) व्यापारी बँकांना अल्पमुदतीचे कर्ज देते"
+        },
+        {
+          "id": "D",
+          "english": "The rate of return on government securities",
+          "marathi": "सरकारी रोख्यांवर मिळणारा परतावा दर"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanationEnglish": "Repo rate (Repurchase Option rate) is the policy rate at which the Reserve Bank of India (RBI) lends money to commercial banks in the event of any shortfall of funds against government securities.",
+      "explanationMarathi": "रेपो दर (Repo Rate) म्हणजे असा व्याजदर ज्या दराने रिझर्व्ह बँक ऑफ इंडिया (RBI) व्यापारी बँकांना त्यांच्या तात्पुरत्या निधीच्या कमतरतेसाठी अल्पमुदतीचे कर्ज देते.",
+      "subject": "Economics",
+      "topic": "Monetary Policy",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "In which month and year did the historic Fiscal Responsibility and Budget Management (FRBM) Act come into effect in India?",
+      "questionMarathi": "भारतामध्ये वित्तीय जबाबदारी आणि अंदाजपत्रक व्यवस्थापन कायदा (FRBM Act) कोणत्या महिन्यापासून आणि वर्षापासून लागू करण्यात आला?",
+      "options": [
+        {
+          "id": "A",
+          "english": "January 2000",
+          "marathi": "जानेवारी २०००"
+        },
+        {
+          "id": "B",
+          "english": "December 2003",
+          "marathi": "डिसेंबर २००३"
+        },
+        {
+          "id": "C",
+          "english": "June 2005",
+          "marathi": "जून २००५"
+        },
+        {
+          "id": "D",
+          "english": "July 2004",
+          "marathi": "जुलै २००४"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanationEnglish": "Although passed by Parliament in August 2003, the FRBM Act was officially brought into effect on July 5, 2004, under rules notified by the Union Government.",
+      "explanationMarathi": "FRBM कायदा संसदेने २००३ मध्ये संमत केला असला, तरी ५ जुलै २००४ पासून हा कायदा अधिकृतपणे लागू करण्यात आला.",
+      "subject": "Economics",
+      "topic": "Fiscal Reforms",
+      "difficulty": "hard"
+    },
+    {
+      "questionEnglish": "On July 19, 1969, how many commercial banks in India with deposit values exceeding a certain threshold were nationalized?",
+      "questionMarathi": "१९ जुलै १९६९ रोजी, भारतामध्ये किती ठेवी असणाऱ्या १४ प्रमुख व्यापारी बँकांचे राष्ट्रीयकरण करण्यात आले?",
+      "options": [
+        {
+          "id": "A",
+          "english": "14 banks with deposits of ₹50 crore or more",
+          "marathi": "५० कोटी किंवा त्यापेक्षा जास्त ठेवी असणाऱ्या १४ बँका"
+        },
+        {
+          "id": "B",
+          "english": "14 banks with deposits of ₹100 crore or more",
+          "marathi": "१०० कोटी किंवा त्यापेक्षा जास्त ठेवी असणाऱ्या १४ बँका"
+        },
+        {
+          "id": "C",
+          "english": "14 banks with deposits of ₹75 crore or more",
+          "marathi": "७५ कोटी किंवा त्यापेक्षा जास्त ठेवी असणाऱ्या १४ बँका"
+        },
+        {
+          "id": "D",
+          "english": "14 banks with deposits of ₹125 crore or more",
+          "marathi": "१२५ कोटी किंवा त्यापेक्षा जास्त ठेवी असणाऱ्या १४ बँका"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanationEnglish": "On July 19, 1969, the Government of India nationalized 14 major commercial banks which held deposits worth ₹50 crore or more, marking a major turning point in the banking sector.",
+      "explanationMarathi": "१९ जुलै १९६९ रोजी ५० कोटी रुपयांपेक्षा जास्त ठेवी असणाऱ्या देशातील १४ मोठ्या व्यापारी बँकांचे राष्ट्रीयकरण इंदिरा गांधी सरकारने केले.",
+      "subject": "Economics",
+      "topic": "Banking Nationalization",
+      "difficulty": "medium"
+    },
+    {
+      "questionEnglish": "The National Food Security Mission (NFSM) of India was formulated and launched during which Five-Year Plan?",
+      "questionMarathi": "राष्ट्रीय अन्न सुरक्षा अभियान (NFSM) ची आखणी कोणत्या पंचवार्षिक योजनेदरम्यान करण्यात आली होती?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Ninth Five-Year Plan",
+          "marathi": "नवव्या पंचवार्षिक योजनेत"
+        },
+        {
+          "id": "B",
+          "english": "Tenth Five-Year Plan",
+          "marathi": "दहाव्या पंचवार्षिक योजनेत"
+        },
+        {
+          "id": "C",
+          "english": "Eleventh Five-Year Plan",
+          "marathi": "अकरावा पंचवार्षिक योजनेत"
+        },
+        {
+          "id": "D",
+          "english": "Twelfth Five-Year Plan",
+          "marathi": "बाराव्या पंचवार्षिक योजनेत"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanationEnglish": "The National Food Security Mission (NFSM) was launched in 2007-08 (during the 11th Five-Year Plan) to increase the production of rice, wheat, and pulses through area expansion and productivity enhancement.",
+      "explanationMarathi": "राष्ट्रीय अन्न सुरक्षा अभियान (NFSM) ची सुरुवात २००७-०८ मध्ये म्हणजेच ११ व्या पंचवार्षिक योजनेदरम्यान झाली. भात, गहू आणि कडधान्यांचे उत्पादन वाढवणे हे त्याचे उद्दिष्ट होते.",
+      "subject": "Economics",
+      "topic": "Five Year Plans",
+      "difficulty": "medium"
+    },
+    {
+      "questionEnglish": "In 1955, the Planning Commission appointed which committee to look into development of village and small-scale industries?",
+      "questionMarathi": "१९५५ मध्ये नियोजन आयोगाने ग्रामीण आणि लघु उद्योगांच्या विकासासाठी कोणती समिती नियुक्त केली होती?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Karve Committee",
+          "marathi": "कर्वे समिती"
+        },
+        {
+          "id": "B",
+          "english": "Gadgil Committee",
+          "marathi": "गाडगीळ समिती"
+        },
+        {
+          "id": "C",
+          "english": "Kothari Committee",
+          "marathi": "कोठारी समिती"
+        },
+        {
+          "id": "D",
+          "english": "Raghavan Committee",
+          "marathi": "राघवन समिती"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanationEnglish": "The Village and Small Scale Industries Committee, appointed in 1955, is also famously called the Karve Committee, named after its chairman Dattatraya Gopal Karve.",
+      "explanationMarathi": "१९५५ मध्ये स्थापन झालेल्या ग्रामीण व लघु उद्योग समितीला 'कर्वे समिती' (Dattatraya Gopal Karve यांच्या नावावरून) म्हटले जाते.",
+      "subject": "Economics",
+      "topic": "Industrial Policy",
+      "difficulty": "medium"
+    },
+    {
+      "questionEnglish": "Which institution was historically the nodal agency in India for the estimation and mapping of poverty?",
+      "questionMarathi": "भारत सरकारची खालीलपैकी कोणती नोडल संस्था (Agency) दारिद्र्याचे मोजमाप आणि अंदाजांचे काम करत होती?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Planning Commission",
+          "marathi": "न नियोजन आयोग"
+        },
+        {
+          "id": "B",
+          "english": "National Sample Survey (NSS)",
+          "marathi": "राष्ट्रीय नमुना पाहणी (NSS)"
+        },
+        {
+          "id": "C",
+          "english": "Gadgil Committee",
+          "marathi": "गाडगीळ समिती"
+        },
+        {
+          "id": "D",
+          "english": "Kothari Commission",
+          "marathi": "कोठारी आयोग"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanationEnglish": "The Planning Commission was historically the nodal agency in India for estimating poverty, while the National Sample Survey Office (NSSO) conducted the large-scale household consumption expenditure surveys used by the Commission.",
+      "explanationMarathi": "भारतात अधिकृतपणे दारिद्र्य रेषा निश्चित करणे व मोजमाप करण्याची नोडल संस्था नियोजन आयोग (Planning Commission) होती, जी NSSO च्या आकडेवारीचा वापर करत असे.",
+      "subject": "Economics",
+      "topic": "Poverty Estimation",
+      "difficulty": "medium"
+    },
+    {
+      "questionEnglish": "In October 1976, which organization/post was set up in the Government of India to compile consolidated appropriation accounts and finance accounts?",
+      "questionMarathi": "ऑक्टोबर १९७६ मध्ये, केंद्र सरकारच्या विनियोग खाते आणि वित्तीय खाते यांची संक्षिप्त रचना तयार करण्यासाठी कोणत्या संस्थेची स्थापना झाली?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Comptroller and Auditor General",
+          "marathi": "नियंत्रक आणि महालेखापरीक्षक"
+        },
+        {
+          "id": "B",
+          "english": "Finance Commission",
+          "marathi": "वित्त आयोग"
+        },
+        {
+          "id": "C",
+          "english": "Controller General of Accounts (CGA)",
+          "marathi": "सामान्य लेखा खाते नियंत्रण (Controller General of Accounts)"
+        },
+        {
+          "id": "D",
+          "english": "Auditor General of State",
+          "marathi": "राज्य महालेखापाल"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanationEnglish": "The organization of the Controller General of Accounts (CGA) was set up in October 1976 after the departmentalization of Union Accounts to prepare and submit condensed accounts of the Union Government.",
+      "explanationMarathi": "लेखा आणि लेखापरीक्षण यांचे विभाजन झाल्यानंतर ऑक्टोबर १९७६ मध्ये 'कंट्रोलर जनरल ऑफ अकाऊंट्स' (CGA) या संस्थेची स्थापना करण्यात आली, जी केंद्र सरकारचे विनियोग व वित्त खाते तयार करते.",
+      "subject": "Economics",
+      "topic": "Public Finance",
+      "difficulty": "hard"
+    },
+    {
+      "questionEnglish": "Which of the following is NOT one of the standard methods of estimating national income?",
+      "questionMarathi": "खालीलपैकी कोणती राष्ट्रीय उत्पन्नाचा अंदाज मोजण्याची अधिकृत पद्धती नाही?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Product Method (Value Added)",
+          "marathi": "उत्पादन पद्धती"
+        },
+        {
+          "id": "B",
+          "english": "Export-Import Method",
+          "marathi": "आयात-निर्यात पद्धती"
+        },
+        {
+          "id": "C",
+          "english": "Income Method",
+          "marathi": "उत्पन्न पद्धती"
+        },
+        {
+          "id": "D",
+          "english": "Expenditure Method",
+          "marathi": "खर्च पद्धती"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanationEnglish": "The three standard methods to measure National Income are the Product Method, Income Method, and Expenditure Method. There is no separate 'Export-Import Method' (net exports are instead calculated under the expenditure method).",
+      "explanationMarathi": "राष्ट्रीय उत्पन्न मोजण्याच्या तीन मुख्य पद्धती आहेत: उत्पादन पद्धती, उत्पन्न पद्धती आणि खर्च पद्धती. आयात-निर्यात पद्धती ही राष्ट्रीय उत्पन्न मोजण्याची स्वतंत्र पद्धती नाही.",
+      "subject": "Economics",
+      "topic": "National Income",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "In which year was the Reserve Bank of India (RBI) established under the RBI Act?",
+      "questionMarathi": "रिझर्व्ह बँक ऑफ इंडियाची (RBI) स्थापना कोणत्या वर्षी करण्यात आली?",
+      "options": [
+        {
+          "id": "A",
+          "english": "1935",
+          "marathi": "१९३५"
+        },
+        {
+          "id": "B",
+          "english": "1947",
+          "marathi": "१९४७"
+        },
+        {
+          "id": "C",
+          "english": "1949",
+          "marathi": "१९४९"
+        },
+        {
+          "id": "D",
+          "english": "1951",
+          "marathi": "१९५१"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanationEnglish": "The Reserve Bank of India was established on April 1, 1935, in accordance with the provisions of the Reserve Bank of India Act, 1934.",
+      "explanationMarathi": "रिझर्व्ह बँक ऑफ इंडियाची (RBI) स्थापना रिझर्व्ह बँक ऑफ इंडिया कायदा १९३४ नुसार १ एप्रिल १९३५ रोजी करण्यात आली.",
+      "subject": "Economics",
+      "topic": "Monetary Institutions",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "Literacy and education levels are primarily indicators of development in which of the following areas?",
+      "questionMarathi": "साक्षरता (शिक्षण) हा प्रामुख्याने कोणत्या प्रकारच्या विकासाचा निर्देशांक आहे?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Human Resource Development",
+          "marathi": "मानवी साधनसंपत्ती विकास (Human Resource Development)"
+        },
+        {
+          "id": "B",
+          "english": "Geographical Development",
+          "marathi": "भौगोलिक विकास"
+        },
+        {
+          "id": "C",
+          "english": "Economic Development",
+          "marathi": "आर्थिक विकास"
+        },
+        {
+          "id": "D",
+          "english": "Political Development",
+          "marathi": "राजकीय विकास"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanationEnglish": "Literacy, education, and health are primary indicators of Human Resource Development (HRD), as they reflect the qualitative improvement of the population's capabilities.",
+      "explanationMarathi": "साक्षरता आणि शिक्षण ही मानवी साधनसंपत्तीच्या (Human Resource) गुणवत्तेमध्ये वाढ दर्शवतात. त्यामुळे हा मानवी साधनसंपत्ती विकासाचा मुख्य निर्देशांक आहे.",
+      "subject": "Economics",
+      "topic": "Human Development",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "Which economic problem is typically created in an economy due to excessive 'Deficit Finance' (तुटीचा अर्थसंकल्प)?",
+      "questionMarathi": "तुटीच्या अर्थसंकल्पामुळे (Deficit Finance) अर्थव्यवस्थेत प्रामुख्याने कोणती आर्थिक समस्या निर्माण होते?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Decrease in production",
+          "marathi": "उत्पादनात घट"
+        },
+        {
+          "id": "B",
+          "english": "Loss to commercial banks",
+          "marathi": "बँकांना तोटा होणे"
+        },
+        {
+          "id": "C",
+          "english": "Increase in general price level (Inflation)",
+          "marathi": "किंमत पातळीत वाढ (महागाई / भाववाढ)"
+        },
+        {
+          "id": "D",
+          "english": "None of the above",
+          "marathi": "वरीलपैकी कोणतेही नाही"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanationEnglish": "Deficit financing (printing more money or borrowing to cover budget deficits) increases the money supply in the economy, which can lead to demand-pull inflation and an increase in the general price level.",
+      "explanationMarathi": "तुटीचा अर्थभरणा केल्याने किंवा बाजारातून प्रचंड कर्ज काढल्याने अर्थव्यवस्थेत पैशांचा पुरवठा वाढतो, ज्यामुळे महागाई किंवा सर्वसाधारण किंमत पातळीत वाढ (Inflation) होते.",
+      "subject": "Economics",
+      "topic": "Inflation & Budget",
+      "difficulty": "medium"
+    },
+    {
+      "questionEnglish": "On which day did NITI Aayog officially replace the historic Planning Commission of India?",
+      "questionMarathi": "नियोजन आयोगाच्या जागी 'नीती आयोग' (NITI Aayog) अधिकृतपणे कोणत्या दिवशी स्थापन करण्यात आला?",
+      "options": [
+        {
+          "id": "A",
+          "english": "15th August 2014",
+          "marathi": "१५ ऑगस्ट २०१४"
+        },
+        {
+          "id": "B",
+          "english": "1st January 2015",
+          "marathi": "१ जानेवारी २०१५"
+        },
+        {
+          "id": "C",
+          "english": "26th January 2015",
+          "marathi": "२६ जानेवारी २०१५"
+        },
+        {
+          "id": "D",
+          "english": "1st April 2014",
+          "marathi": "१ एप्रिल २०१४"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanationEnglish": "The Union Government replaced the 65-year-old Planning Commission of India with NITI Aayog (National Institution for Transforming India) on January 1, 2015, through a cabinet resolution.",
+      "explanationMarathi": "केंद्र शासनाने १ जानेवारी २०१५ रोजी ६५ वर्षे जुन्या नियोजन आयोगाचे विसर्जन करून त्याच्या जागी थिंक-टँक म्हणून 'नीती आयोग' (NITI Aayog) ची स्थापना केली.",
+      "subject": "Economics",
+      "topic": "Economic Planning",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "If two resistances connected in series give an equivalent resistance of 45 ohms, and when connected in parallel give an equivalent resistance of 10 ohms, what are the individual values of these resistances?",
+      "questionMarathi": "जर दोन रोध एकसर जोडणीने (Series) जोडले, तर त्यांचा परिणामी रोध ४५ ओहम होतो आणि जर तेच रोध समांतर जोडणीने (Parallel) जोडले तर त्यांचा परिणामी रोध १० ओहम होतो, तर त्या रोधांच्या स्वतंत्र किंमती किती?",
+      "options": [
+        {
+          "id": "A",
+          "english": "10 ohms and 45 ohms",
+          "marathi": "१० ओहम आणि ४५ ओहम"
+        },
+        {
+          "id": "B",
+          "english": "10 ohms and 30 ohms",
+          "marathi": "१० ओहम आणि ३० ओहम"
+        },
+        {
+          "id": "C",
+          "english": "15 ohms and 30 ohms",
+          "marathi": "१५ ओहम आणि ३० ओहम"
+        },
+        {
+          "id": "D",
+          "english": "20 ohms and 25 ohms",
+          "marathi": "२० ओहम आणि २५ ओहम"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanationEnglish": "Let the two resistances be R1 and R2. In series: R1 + R2 = 45. In parallel: (R1 * R2) / (R1 + R2) = 10 -> (R1 * R2) / 45 = 10 -> R1 * R2 = 450. Testing values, 15 and 30 give 15 + 30 = 45 and 15 * 30 = 450. Therefore, the individual values are 15 ohms and 30 ohms.",
+      "explanationMarathi": "समजा दोन रोध R1 आणि R2 आहेत. एकसर जोडणीमध्ये: R1 + R2 = ४५. समांतर जोडणीमध्ये: (R1 * R2) / (R1 + R2) = १० -> (R1 * R2) / ४५ = १० -> R1 * R2 = ४५०. पर्याय क नुसार, १५ + ३० = ४५ आणि १५ * ३० = ४५०. म्हणून रोध १५ आणि ३० ओहम आहेत.",
+      "subject": "General Science",
+      "topic": "Physics - Electricity",
+      "difficulty": "medium"
+    },
+    {
+      "questionEnglish": "Brass is an alloy composed of which of the following elements?",
+      "questionMarathi": "पितळ (Brass) हा खालीलपैकी कोणत्या घटकांचा मिश्रधातू (Alloy) आहे?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Copper and Tin",
+          "marathi": "तांबे आणि कथील (Bronze)"
+        },
+        {
+          "id": "B",
+          "english": "Iron and Carbon",
+          "marathi": "लोह आणि कार्बन"
+        },
+        {
+          "id": "C",
+          "english": "Iron and Chromium",
+          "marathi": "लोह आणि क्रोमियम"
+        },
+        {
+          "id": "D",
+          "english": "Copper and Zinc",
+          "marathi": "तांबे आणि जस्त (Zinc)"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanationEnglish": "Brass is an alloy of copper and zinc, where copper is the major component (usually 60-70%) and zinc is added to improve strength and ductility. Bronze, on the other hand, is an alloy of copper and tin.",
+      "explanationMarathi": "पितळ (Brass) हा तांबे (Copper) आणि जस्त (Zinc) यांचा मिश्रधातू आहे. तांबे व कथील यांच्या मिश्रधातूपासून कास्य (Bronze) बनवले जाते.",
+      "subject": "General Science",
+      "topic": "Chemistry - Metallurgy",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "Match the excretory organs of the following organisms:\na. Cockroach -- Malpighian tubules\nb. Earthworm -- ?",
+      "questionMarathi": "खालील प्राण्यांच्या उत्सर्जन अवयवांची तुलना करून अचूक जोडी ओळखा:\nझुरळ : माल्पिघिअन नलिका :: गांडूळ : ?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Typhlosole",
+          "marathi": "आंत्रवलन (Typhlosole)"
+        },
+        {
+          "id": "B",
+          "english": "Clitellum",
+          "marathi": "प्रमेखला (Clitellum)"
+        },
+        {
+          "id": "C",
+          "english": "Kidney",
+          "marathi": "मूत्रपिंड (Kidney)"
+        },
+        {
+          "id": "D",
+          "english": "Nephridium",
+          "marathi": "वृक्कक (Nephridium)"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanationEnglish": "In insects like the cockroach, excretion occurs through Malpighian tubules. In annelids like the earthworm, excretion occurs through specialized tubule structures called Nephridia.",
+      "explanationMarathi": "झुरळासारख्या कीटकांमध्ये उत्सर्जनाचे काम 'माल्पिघिअन नलिका' करतात. गांडुळामध्ये (Annelida संघ) हे कार्य 'वृक्कक' (Nephridium) द्वारे केले जाते.",
+      "subject": "General Science",
+      "topic": "Biology - Animal Physiology",
+      "difficulty": "medium"
+    },
+    {
+      "questionEnglish": "Which hybridization is involved in the formation of the Phosphorus Pentachloride (PCl5) molecule?",
+      "questionMarathi": "फॉस्फरस पेंटाक्लोराईडचा (PCl5) रेणू कोणत्या प्रकारच्या संकरणाने (Hybridisation) तयार होतो?",
+      "options": [
+        {
+          "id": "A",
+          "english": "sp2d",
+          "marathi": "sp2d"
+        },
+        {
+          "id": "B",
+          "english": "sp2d2",
+          "marathi": "sp2d2"
+        },
+        {
+          "id": "C",
+          "english": "sp3d2",
+          "marathi": "sp3d2"
+        },
+        {
+          "id": "D",
+          "english": "sp3d",
+          "marathi": "sp3d"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanationEnglish": "In PCl5, the central Phosphorus atom forms 5 sigma bonds with chlorine atoms and has no lone pairs, corresponding to steric number 5. This requires sp3d hybridization, which gives the molecule a trigonal bipyramidal geometry.",
+      "explanationMarathi": "PCl5 मध्ये मध्यवर्ती फॉस्फरस अणूभोवती ५ सिग्मा बंध तयार होतात, ज्यासाठी sp3d संकरण (Hybridisation) घडून येते. याची रचना त्रिकोणीय द्विपिरॅमिडल असते.",
+      "subject": "General Science",
+      "topic": "Chemistry - Chemical Bonding",
+      "difficulty": "hard"
+    },
+    {
+      "questionEnglish": "What is the total number of sigma (σ) bonds involved in an Ethylene (C2H4) molecule?",
+      "questionMarathi": "इथिलिनच्या (Ethylene - C2H4) रेणूमध्ये एकूण किती सिग्मा (σ) बंध असतात?",
+      "options": [
+        {
+          "id": "A",
+          "english": "3",
+          "marathi": "३"
+        },
+        {
+          "id": "B",
+          "english": "5",
+          "marathi": "५"
+        },
+        {
+          "id": "C",
+          "english": "2",
+          "marathi": "२"
+        },
+        {
+          "id": "D",
+          "english": "1",
+          "marathi": "१"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanationEnglish": "In Ethylene (H2C=CH2), each carbon forms two single C-H sigma bonds (total 4 C-H sigma bonds). The double bond between the two carbon atoms consists of 1 carbon-carbon sigma bond and 1 pi bond. Thus, there are 4 + 1 = 5 sigma bonds in total.",
+      "explanationMarathi": "इथिलिनच्या रेणूमध्ये (C2H4) ४ कार्बन-हायड्रोजन (C-H) एकेरी बंध असतात (४ सिग्मा बंध) आणि २ कार्बन अणूंमध्ये एक दुहेरी बंध असतो ज्यामध्ये १ सिग्मा आणि १ पाय (pi) बंध असतो. एकूण सिग्मा बंधांची संख्या ५ असते.",
+      "subject": "General Science",
+      "topic": "Chemistry - Organic Chemistry",
+      "difficulty": "medium"
+    },
+    {
+      "questionEnglish": "In which of the following phyla of the animal kingdom is the organ-level of organization first observed?",
+      "questionMarathi": "प्राणी सृष्टीतील खालीलपैकी कोणत्या संघामध्ये (Phylum) अवयव पातळीचे (Organ level) संघटन आढळते?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Porifera",
+          "marathi": "पॉरीफेरा"
+        },
+        {
+          "id": "B",
+          "english": "Protozoa",
+          "marathi": "आदिजीव (प्रोटोझोआ)"
+        },
+        {
+          "id": "C",
+          "english": "Platyhelminthes",
+          "marathi": "चपटकृमी (प्लॅटीहेलमिंथिस)"
+        },
+        {
+          "id": "D",
+          "english": "Coelenterata",
+          "marathi": "सिलेंटराटा / निडारिया"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanationEnglish": "Organ-level of organization is first found in the Phylum Platyhelminthes (flatworms), where tissues are grouped together to form specialized organs, whereas Porifera has cellular level and Coelenterata has tissue level of organization.",
+      "explanationMarathi": "अवयव पातळीचे (Organ level of organization) संघटन सर्वप्रथम चपटकृमी (Platyhelminthes) संघात पाहायला मिळते. पॉरीफेरामध्ये पेशी स्तर तर सिलेंटराटामध्ये ऊती स्तराचे संघटन असते.",
+      "subject": "General Science",
+      "topic": "Biology - Animal Taxonomy",
+      "difficulty": "hard"
+    },
+    {
+      "questionEnglish": "The highly infectious plant disease, 'Bunchy Top', is most commonly seen in which of the following crops?",
+      "questionMarathi": "वनस्पती मधील 'बंचीटॉप' (Bunchy Top) हा संसर्गजन्य रोग प्रामुख्याने कोणत्या पिकामध्ये आढळतो?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Papaya",
+          "marathi": "पपई"
+        },
+        {
+          "id": "B",
+          "english": "Citrus",
+          "marathi": "लिंबू"
+        },
+        {
+          "id": "C",
+          "english": "Sugarcane",
+          "marathi": "ऊस"
+        },
+        {
+          "id": "D",
+          "english": "Banana",
+          "marathi": "केळी"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanationEnglish": "Banana bunchy top disease is a highly destructive viral disease affecting bananas, caused by the Banana Bunchy Top Virus (BBTV) and transmitted by aphids, resulting in bunched, narrow leaves.",
+      "explanationMarathi": "केळीवरील 'बंचीटॉप' (Bunchy Top) हा एक अत्यंत नुकसानकारक विषाणूजन्य रोग आहे, जो केळीच्या पानांची वाढ खुंटवतो आणि पाने गुच्छासारखी गोळा होतात.",
+      "subject": "General Science",
+      "topic": "Biology - Plant Diseases",
+      "difficulty": "medium"
+    },
+    {
+      "questionEnglish": "Which heavy metal element was responsible for the devastating Minamata epidemic caused in Japan due to industrial pollution?",
+      "questionMarathi": "औद्योगिक प्रदूषणामुळे जपानमध्ये झालेल्या भयंकर 'मिनामाता' साथीच्या रोगासाठी खालीलपैकी कोणते मूलद्रव्य कारणीभूत होते?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Gold (Au)",
+          "marathi": "सोने (Au)"
+        },
+        {
+          "id": "B",
+          "english": "Platinum (Pt)",
+          "marathi": "प्लॅटिनम (Pt)"
+        },
+        {
+          "id": "C",
+          "english": "Silver (Ag)",
+          "marathi": "चांदी (Ag)"
+        },
+        {
+          "id": "D",
+          "english": "Mercury (Hg)",
+          "marathi": "पारा (Hg)"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanationEnglish": "The Minamata disease was caused by severe methylmercury poisoning from wastewater discharged by chemical plants into Minamata Bay, Japan, which bioaccumulated in fish and shellfish eaten by the local population.",
+      "explanationMarathi": "जपानमधील मिनामाता उपसागरात औद्योगिक सांडपाण्यातून सोडल्या गेलेल्या मिथाईल मर्क्युरीमुळे (पारा - Hg) तेथील मासे व शंख शिंपल्यांमध्ये पाऱ्याचे प्रमाण वाढले, ते खाल्ल्याने लोकांना पाऱ्याची विषबाधा झाली.",
+      "subject": "General Science",
+      "topic": "General - Environmental Science",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "How does the hormone Insulin reduce glucose levels in human blood?",
+      "questionMarathi": "इन्सुलिन (Insulin) हे संप्रेरक मानवी रक्तातील ग्लुकोजचे प्रमाण कसे कमी करते?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Promoting cellular uptake of glucose",
+          "marathi": "पेशींद्वारे ग्लुकोज शोषून घेण्यास उत्तेजन देऊन"
+        },
+        {
+          "id": "B",
+          "english": "Glycogen formation in liver",
+          "marathi": "यकृतामध्ये ग्लायकोजेनच्या निर्मितीला चालना देऊन"
+        },
+        {
+          "id": "C",
+          "english": "Enhancing protein synthesis and fat storage",
+          "marathi": "प्रथिन संश्लेषण आणि मेद साठवणूक वाढवून"
+        },
+        {
+          "id": "D",
+          "english": "All of the above mechanisms are correct",
+          "marathi": "वरील सर्व क्रियांद्वारे (वरील सर्व योग्य)"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanationEnglish": "Insulin decreases blood glucose levels by: 1) promoting the uptake of glucose into muscle and fat cells, 2) stimulating glycogenesis (glycogen formation) in the liver and skeletal muscles, and 3) increasing protein and lipid (fat) synthesis.",
+      "explanationMarathi": "इन्सुलिन रक्तातील ग्लुकोजचे प्रमाण कमी करण्यासाठी: पेशींद्वारे ग्लुकोजचे शोषण वाढवणे, यकृतामध्ये ग्लुकोजचे रूपांतर ग्लायकोजेनमध्ये करणे (Glycogenesis) आणि मेद व प्रथिनांचे संश्लेषण वाढवणे या सर्व मार्गांचा अवलंब करते.",
+      "subject": "General Science",
+      "topic": "Biology - Human Physiology",
+      "difficulty": "medium"
+    },
+    {
+      "questionEnglish": "Which algal class plays a highly dominant role in nitrogen fixation in agricultural soil?",
+      "questionMarathi": "शेतातील मातीमध्ये नत्र स्थिरीकरणामध्ये (Nitrogen Fixation) शेवाळांचा कोणता वर्ग सर्वात प्रमुख भूमिका बजावतो?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Chlorophyceae",
+          "marathi": "क्लोरोफायसी"
+        },
+        {
+          "id": "B",
+          "english": "Myxophyceae (Blue-green algae)",
+          "marathi": "मायक्सोफायसी (नील-हरित शेवाळ)"
+        },
+        {
+          "id": "C",
+          "english": "Rhodophyceae",
+          "marathi": "ऱ्होडोफायसी"
+        },
+        {
+          "id": "D",
+          "english": "Phaeophyceae",
+          "marathi": "फीयोफायसी"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanationEnglish": "The class Myxophyceae (also known as Cyanophyceae or Blue-Green Algae, e.g., Anabaena, Nostoc) contains specialized cells called heterocysts which are highly efficient at fixing atmospheric nitrogen in agricultural soils.",
+      "explanationMarathi": "नत्र स्थिरीकरणामध्ये मायक्सोफायसी (Myxophyceae - नील-हरित शेवाळ) हा वर्ग अत्यंत महत्त्वाची भूमिका बजावतो. यांच्यामध्ये नत्र स्थिरीकरणासाठी 'हेटरोसिस्ट' पेशी असतात.",
+      "subject": "General Science",
+      "topic": "Biology - Botany",
+      "difficulty": "hard"
+    },
+    {
+      "questionEnglish": "Which of the following represents the correct sequential order of phases in Meiosis-I Prophase-I?",
+      "questionMarathi": "अर्धसुत्री विभाजनातील (Meiosis) पहिल्या पूर्व-अवस्थेचा (Prophase-I) योग्य टप्प्यांचा क्रम कोणता आहे?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Leptotene, Pachytene, Zygotene, Diplotene, Diakinesis",
+          "marathi": "लेप्टोटिन, पॅचीटिन, झायगोटिन, डिप्लोटिन, डायकायनेसिस"
+        },
+        {
+          "id": "B",
+          "english": "Leptotene, Zygotene, Pachytene, Diplotene, Diakinesis",
+          "marathi": "लेप्टोटिन, झायगोटिन, पॅचीटिन, डिप्लोटिन, डायकायनेसिस"
+        },
+        {
+          "id": "C",
+          "english": "Leptotene, Diakinesis, Pachytene, Diplotene, Zygotene",
+          "marathi": "लेप्टोटिन, डायकायनेसिस, पॅचीटिन, डिप्लोटिन, झायगोटिन"
+        },
+        {
+          "id": "D",
+          "english": "Diakinesis, Diplotene, Pachytene, Zygotene, Leptotene",
+          "marathi": "डायकायनेसिस, डिप्लोटिन, पॅचीटिन, झायगोटिन, लेप्टोटिन"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanationEnglish": "Prophase-I of Meiosis-I is divided into five distinct stages sequentially: Leptotene (chromosomes condense) -> Zygotene (synapsis/pairing occurs) -> Pachytene (crossing over occurs) -> Diplotene (chiasmata become visible) -> Diakinesis (nuclear envelope breaks down).",
+      "explanationMarathi": "अर्धसुत्री विभाजनातील प्रोफेज-१ चे पाच प्रमुख टप्पे क्रमाने पुढीलप्रमाणे आहेत: लेप्टोटिन (गुणसूत्रांचे संकुचन) -> झायगोटिन (जोड्या तयार होणे) -> पॅचीटिन (पारगती / Crossing over) -> डिप्लोटिन (कियास्मॅटा दिसणे) -> डायकायनेसिस.",
+      "subject": "General Science",
+      "topic": "Biology - Cell Division",
+      "difficulty": "hard"
+    },
+    {
+      "questionEnglish": "A plant that does not bear or produce any fruit under its natural life cycle is termed as:",
+      "questionMarathi": "ज्या वनस्पतीला नैसर्गिक जीवन चक्रामध्ये फळ येत नाही किंवा ती फळ निर्माण करत नाही, त्याला काय म्हणतात?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Acarpous",
+          "marathi": "अकार्पस (Acarpous)"
+        },
+        {
+          "id": "B",
+          "english": "Fertile",
+          "marathi": "सुपीक (Fertile)"
+        },
+        {
+          "id": "C",
+          "english": "Apocarpous",
+          "marathi": "अपोकार्पस (Apocarpus)"
+        },
+        {
+          "id": "D",
+          "english": "Parthenocarpous",
+          "marathi": "पार्थेनोकार्पस"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanationEnglish": "A plant that is barren or does not produce fruit is called 'acarpous' (from Greek prefix 'a-' meaning without and 'karpos' meaning fruit).",
+      "explanationMarathi": "ज्या वनस्पतींना फळे येत नाहीत, त्यांना 'अकार्पस' (Acarpous) म्हणतात. ग्रीक भाषेत 'a-' म्हणजे शिवाय आणि 'karpos' म्हणजे फळ असा याचा अर्थ होतो.",
+      "subject": "General Science",
+      "topic": "Biology - Botany",
+      "difficulty": "medium"
+    },
+    {
+      "questionEnglish": "In the process of heteronereis formation, the gonads develop in the posterior part of the Nereis body. What are these gonad-bearing segments called?",
+      "questionMarathi": "हेटरोनेरीसच्या (Heteronereis) प्रक्रियेमध्ये शरीराच्या मागील भागात जननग्रंथी विकसित होतात. या जननग्रंथी असणाऱ्या खंडांना काय म्हणतात?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Epitoke",
+          "marathi": "एपिटोक (Epitoke)"
+        },
+        {
+          "id": "B",
+          "english": "Atoke",
+          "marathi": "अटोक (Atoke)"
+        },
+        {
+          "id": "C",
+          "english": "Heterogany",
+          "marathi": "हेटरोगेनी"
+        },
+        {
+          "id": "D",
+          "english": "Metaboly",
+          "marathi": "मेटाबोली"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanationEnglish": "In Nereis, sexual reproduction leads to a transformation into a heteronereis form. The non-sexual anterior part of the body is called 'atoke', and the sexual posterior part containing gonads is called the 'epitoke'.",
+      "explanationMarathi": "नेरीसच्या लैगिक अवस्थेतील बदलात शरीराचा दोन भागात विभाग पडतो. पुढील गैर-लैंगिक भागाला 'अटोक' म्हणतात, आणि मागील लैंगिक अवयव असणाऱ्या खंडांना 'एपिटोक' (Epitoke) म्हणतात.",
+      "subject": "General Science",
+      "topic": "Biology - Zoology",
+      "difficulty": "hard"
+    },
+    {
+      "questionEnglish": "Which of the following fish species belongs to the class Osteichthyes (bony fishes)?",
+      "questionMarathi": "खालीलपैकी कोणता मासा ऑस्टीकथाईज (Osteichthyes - अस्थिमय मासे) वर्गातील आहे?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Shark",
+          "marathi": "शार्क"
+        },
+        {
+          "id": "B",
+          "english": "Sting Ray",
+          "marathi": "स्टिंग रे"
+        },
+        {
+          "id": "C",
+          "english": "Catla",
+          "marathi": "कटला (Catla)"
+        },
+        {
+          "id": "D",
+          "english": "Electric Ray",
+          "marathi": "इलेक्ट्रीक रे"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanationEnglish": "Sharks, Sting Rays, and Electric Rays are cartilaginous fishes belonging to the class Chondrichthyes. Catla (freshwater carp) has a bony skeleton and belongs to the class Osteichthyes.",
+      "explanationMarathi": "शार्क, स्टिंग रे आणि इलेक्ट्रिक रे हे कूर्चामय (कास्थिमय - Chondrichthyes) वर्गातील मासे आहेत. तर 'कटला' हा गोड्या पाण्यातील हाडांचा सापळा असणारा अस्थिमय (Osteichthyes) मासा आहे.",
+      "subject": "General Science",
+      "topic": "Biology - Zoology",
+      "difficulty": "medium"
+    },
+    {
+      "questionEnglish": "Which of the following electromagnetic or nuclear rays will NOT change direction in the presence of a magnetic field?",
+      "questionMarathi": "खालीलपैकी कोणते किरण चुंबकाच्या सान्निध्यात (Magnetic field) आपली दिशा बदलत नाहीत?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Alpha rays",
+          "marathi": "अल्फा किरण (Alpha)"
+        },
+        {
+          "id": "B",
+          "english": "Beta rays",
+          "marathi": "बीटा किरण (Beta)"
+        },
+        {
+          "id": "C",
+          "english": "Gamma rays",
+          "marathi": "गॅमा किरण (Gamma)"
+        },
+        {
+          "id": "D",
+          "english": "Cathode rays",
+          "marathi": "कॅथोडिक किरण"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanationEnglish": "Gamma rays are high-energy electromagnetic radiation with neutral charge. Since they have no electric charge, they are not deflected by electric or magnetic fields. Alpha (positive) and Beta (negative) rays are charged particles and will deflect.",
+      "explanationMarathi": "गॅमा किरण (Gamma rays) हे उदासीन (विद्युत प्रभार नसलेले) विद्युत चुंबकीय प्ररण असतात. प्रभार नसल्यामुळे ते चुंबकीय किंवा विद्युत क्षेत्रातून जाताना आपली दिशा बदलत नाहीत.",
+      "subject": "General Science",
+      "topic": "Physics - Nuclear Physics",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "What is the annual family income limit set for a female beneficiary to be eligible under the Chief Minister's 'Majhi-Ladki Bahin' Yojana in Maharashtra?",
+      "questionMarathi": "महाराष्ट्रातील 'मुख्यमंत्री माझी लाडकी बहीण' योजनेचा लाभ मिळवण्यासाठी महिला लाभार्थीच्या कुटुंबाची कमाल वार्षिक उत्पन्न मर्यादा किती निर्धारित केली आहे?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Less than ₹1.50 lakhs per annum",
+          "marathi": "१.५० लाख रुपयांपेक्षा कमी"
+        },
+        {
+          "id": "B",
+          "english": "Less than ₹2.50 lakhs per annum",
+          "marathi": "२.५० लाख रुपयांपेक्षा कमी"
+        },
+        {
+          "id": "C",
+          "english": "Less than ₹4.50 lakhs per annum",
+          "marathi": "४.५० लाख रुपयांपेक्षा कमी"
+        },
+        {
+          "id": "D",
+          "english": "Less than ₹8.50 lakhs per annum",
+          "marathi": "८.५० लाख रुपयांपेक्षा कमी"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanationEnglish": "Under the Majhi-Ladki Bahin Yojana, the eligible family's annual income must be less than or equal to ₹2.50 lakhs. Families possessing yellow or orange ration cards are exempted from the income certificate requirement.",
+      "explanationMarathi": "माझी लाडकी बहीण योजनेअंतर्गत लाभार्थी महिलेच्या कुटुंबाचे एकत्रित वार्षिक उत्पन्न २.५० लाख रुपयांपेक्षा कमी असणे बंधनकारक आहे. पिवळे किंवा केशरी शिधापत्रिका असणाऱ्या कुटुंबांना उत्पन्नाच्या दाखल्यातून सूट दिली आहे.",
+      "subject": "Current Affairs",
+      "topic": "Government Schemes",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "Which Gram Panchayat in Maharashtra was honored with the Gold Award for National E-Governance in 2025 for excellent digital administration?",
+      "questionMarathi": "डिजिटल आणि उत्कृष्ट प्रशासनासाठी महाराष्ट्रातील कोणत्या ग्रामपंचायतीला 'राष्ट्रीय ई-गव्हर्नन्स २०२५' चा सुवर्ण पुरस्कार (Gold Award) देऊन गौरवण्यात आले?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Gram Panchayat Hiware Bazar",
+          "marathi": "ग्रामपंचायत हिवरे बाजार"
+        },
+        {
+          "id": "B",
+          "english": "Gram Panchayat Kavathe Mahapir",
+          "marathi": "ग्रामपंचायत कवठे महांकाळ (कवठे महापिर)"
+        },
+        {
+          "id": "C",
+          "english": "Gram Panchayat Ralegan Siddhi",
+          "marathi": "ग्रामपंचायत राळेगण सिद्धी"
+        },
+        {
+          "id": "D",
+          "english": "Gram Panchayat Kothrud",
+          "marathi": "ग्रामपंचायत कोथरूड"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanationEnglish": "Gram Panchayat Kavathe Mahapir in Sangli district, Maharashtra, was awarded the Gold Award at the National Conference on e-Governance in 2025 for implementing advanced digital and smart governance at the grassroots level.",
+      "explanationMarathi": "सांगली जिल्ह्यातील 'कवठे महापिर' या ग्रामपंचायतीला ग्रामपातळीवर राबवलेल्या उत्कृष्ट डिजिटल व स्मार्ट कारभारासाठी 'राष्ट्रीय ई-गव्हर्नन्स २०२५' चा सुवर्ण पुरस्कार मिळाला.",
+      "subject": "Current Affairs",
+      "topic": "E-Governance",
+      "difficulty": "medium"
+    },
+    {
+      "questionEnglish": "Which credit scheme was launched by the Maharashtra Prison Department in 2022 as a pilot project specifically for the prisoners of Yerwada Central Jail in Pune?",
+      "questionMarathi": "येरवडा मध्यवर्ती कारागृहातील (पुणे) कैद्यांसाठी २०२२ मध्ये कोणती कर्ज (ऋण) योजना प्रायोगिक तत्त्वावर सुरू करण्यात आली?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Sahanubhuti Scheme",
+          "marathi": "सहानुभूती योजना"
+        },
+        {
+          "id": "B",
+          "english": "Aage Badho Scheme",
+          "marathi": "आगे बढो योजना"
+        },
+        {
+          "id": "C",
+          "english": "Bank for Prisoners",
+          "marathi": "बँक फॉर प्रिझनर्स"
+        },
+        {
+          "id": "D",
+          "english": "Jivhala Scheme",
+          "marathi": "जिव्हाळा योजना"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanationEnglish": "The Maharashtra State Cooperative Bank launched 'Jivhala', a unique credit scheme for inmates of Yerwada Central Jail, providing personal loans up to ₹50,000 to help support their families' livelihood and legal expenses.",
+      "explanationMarathi": "महाराष्ट्र राज्य सहकारी बँकेने येरवडा मध्यवर्ती कारागृहात 'जिव्हाळा' नावाची कर्ज योजना प्रायोगिक तत्त्वावर सुरू केली, ज्यामध्ये कैद्यांना त्यांच्या कुटुंबियांच्या उपजीविकेसाठी ५०,००० रुपयांपर्यंतचे वैयक्तिक कर्ज दिले जाते.",
+      "subject": "Current Affairs",
+      "topic": "Social Initiatives",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "The national initiative 'Amrit Sarovar Mission', launched in April 2022, is primarily associated with which of the following sectors?",
+      "questionMarathi": "एप्रिल २०२२ मध्ये सुरू करण्यात आलेली 'अमृत सरोवर मोहीम' (Amrit Sarovar Mission) प्रामुख्याने खालीलपैकी कशाशी संबंधित आहे?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Water Conservation (Rejuvenation of water bodies)",
+          "marathi": "जल संधारण (तलावांचे पुनरुज्जीवन)"
+        },
+        {
+          "id": "B",
+          "english": "Soil Conservation",
+          "marathi": "मृदा संधारण"
+        },
+        {
+          "id": "C",
+          "english": "Air Pollution Control",
+          "marathi": "वायू प्रदूषण नियंत्रण"
+        },
+        {
+          "id": "D",
+          "english": "Inland Fisheries",
+          "marathi": "मत्स्यपालन"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanationEnglish": "Mission Amrit Sarovar was launched by Prime Minister Narendra Modi on April 24, 2022, with the objective of developing and rejuvenating 75 water bodies in each district of the country as part of the celebration of Azadi ka Amrit Mahotsav.",
+      "explanationMarathi": "पंतप्रधान नरेंद्र मोदी यांनी २४ एप्रिल २०२२ रोजी 'अमृत सरोवर मोहीम' सुरू केली. देशातील प्रत्येक जिल्ह्यात ७५ अमृत सरोवर (तलाव) विकसित व पुनरुज्जीवित करणे हे याचे उद्दिष्ट आहे.",
+      "subject": "Current Affairs",
+      "topic": "Water Resources",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "Who was appointed as the new Vice-Chairman of NITI Aayog by the Appointments Committee of the Cabinet in May 2022?",
+      "questionMarathi": "मे २०२२ मध्ये केंद्र सरकारच्या कॅबिनेट नियुक्ती समितीने नीती आयोगाच्या (NITI Aayog) उपाध्यक्षपदी खालीलपैकी कोणाची नियुक्ती केली?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Rajiv Kumar",
+          "marathi": "राजीव कुमार"
+        },
+        {
+          "id": "B",
+          "english": "Ramesh Chand",
+          "marathi": "रमेश चंद"
+        },
+        {
+          "id": "C",
+          "english": "Jayati Ghosh",
+          "marathi": "जयती घोष"
+        },
+        {
+          "id": "D",
+          "english": "Suman K. Bery",
+          "marathi": "सुमन के. बेरी"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanationEnglish": "Suman K. Bery, a well-known economist, took charge as the Vice-Chairman of NITI Aayog on May 1, 2022, succeeding Dr. Rajiv Kumar who stepped down from the post.",
+      "explanationMarathi": "प्रसिद्ध अर्थतज्ज्ञ सुमन के. बेरी यांनी १ मे २०२२ रोजी नीती आयोगाचे नवीन उपाध्यक्ष म्हणून पदभार स्वीकारला. त्यांनी डॉ. राजीव कुमार यांची जागा घेतली.",
+      "subject": "Current Affairs",
+      "topic": "Appointments",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "Which scientific organization in India conducts the special 'Young Scientist Programme' (Yuva Vigyani Karyakram - YUVIKA) for school children?",
+      "questionMarathi": "खालीलपैकी कोणती संस्था शालेय मुलांसाठी 'यंग सायंटिस्ट प्रोग्राम' ('युवा विज्ञानी कार्यक्रम' / 'युविका - YUVIKA') नावाचा विशेष कार्यक्रम आयोजित करते?",
+      "options": [
+        {
+          "id": "A",
+          "english": "UNICEF India",
+          "marathi": "युनिसेफ - भारत"
+        },
+        {
+          "id": "B",
+          "english": "Bhabha Atomic Research Centre (BARC)",
+          "marathi": "भाभा अणुशक्ती संशोधन केंद्र (BARC)"
+        },
+        {
+          "id": "C",
+          "english": "Indian Space Research Organisation (ISRO)",
+          "marathi": "भारतीय अंतराळ संशोधन संघटना (ISRO)"
+        },
+        {
+          "id": "D",
+          "english": "Defence Research and Development Organisation (DRDO)",
+          "marathi": "संरक्षण संशोधन आणि विकास संघटना (DRDO)"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanationEnglish": "The Indian Space Research Organisation (ISRO) organizes 'YUVIKA' (Yuva Vigyani Karyakram) to impart basic knowledge on Space Technology, Space Science, and Space Applications to younger students, particularly those from rural areas.",
+      "explanationMarathi": "भारतीय अंतराळ संशोधन संस्था (ISRO) शालेय विद्यार्थ्यांमध्ये अंतराळ तंत्रज्ञान, विज्ञान आणि प्रयोगांविषयी रस निर्माण करण्यासाठी 'युविका' (YUVIKA) हा विशेष निवासी कार्यक्रम राबवते.",
+      "subject": "Current Affairs",
+      "topic": "Science & Tech",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "What was the official global theme for the 'Zero Discrimination Day' celebrated on 1st March?",
+      "questionMarathi": "१ मार्च रोजी साजऱ्या केल्या जाणाऱ्या 'शून्य भेदभाव दिवसाची' (Zero Discrimination Day) अधिकृत मुख्य थीम (Theme) काय होती?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Remove laws that harm, create laws that empower",
+          "marathi": "हानीकारक कायदे हटवा, सशक्त करणारे कायदे बनवा (Remove laws that harm, create laws that empower)"
+        },
+        {
+          "id": "B",
+          "english": "Zero Discrimination against Women and Girls",
+          "marathi": "महिला व मुलींवरील भेदभाव पूर्णतः थांबवा"
+        },
+        {
+          "id": "C",
+          "english": "End Inequalities, End AIDS",
+          "marathi": "विषमता संपवा, एड्स संपवा"
+        },
+        {
+          "id": "D",
+          "english": "Social Justice and Equality for All",
+          "marathi": "सर्वांसाठी सामाजिक न्याय आणि समानता"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanationEnglish": "The theme for Zero Discrimination Day on 1st March was 'Remove laws that harm, create laws that empower', emphasizing the urgent need to take action against discriminatory laws that infringe upon human rights.",
+      "explanationMarathi": "युनायटेड नेशन्सद्वारे साजऱ्या केल्या जाणाऱ्या शून्य भेदभाव दिनाची थीम 'Remove laws that harm, create laws that empower' (हानीकारक कायदे हटवा, सशक्त करणारे कायदे बनवा) ही होती.",
+      "subject": "Current Affairs",
+      "topic": "Important Days",
+      "difficulty": "medium"
+    },
+    {
+      "questionEnglish": "Who was appointed as the Chairman of the Indian Space Research Organisation (ISRO) in January 2022?",
+      "questionMarathi": "जानेवारी २०२२ मध्ये भारतीय अंतराळ संशोधन संस्थेचे (ISRO) नवीन अध्यक्ष म्हणून कोणाची नियुक्ती करण्यात आली?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Dr. K. Sivan",
+          "marathi": "डॉ. के. सिवन"
+        },
+        {
+          "id": "B",
+          "english": "Dr. S. Somnath",
+          "marathi": "डॉ. एस. सोमनाथ"
+        },
+        {
+          "id": "C",
+          "english": "Dr. K. Radhakrishnan",
+          "marathi": "डॉ. के. राधाकृष्णन"
+        },
+        {
+          "id": "D",
+          "english": "Prof. M.G.K. Menon",
+          "marathi": "प्रा. एम.जी.के. मेनन"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanationEnglish": "Dr. S. Somnath, an eminent rocket scientist, was appointed as the Chairman of ISRO and Secretary of the Department of Space in January 2022, succeeding Dr. K. Sivan.",
+      "explanationMarathi": "जानेवारी २०२२ मध्ये प्रसिद्ध रॉकेट शास्त्रज्ञ डॉ. एस. सोमनाथ यांची इस्रोचे (ISRO) १० वे अध्यक्ष म्हणून नियुक्ती करण्यात आली, त्यांनी डॉ. के. सिवन यांच्याकडून पदभार घेतला.",
+      "subject": "Current Affairs",
+      "topic": "Appointments",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "Which operation was launched by Punjab's Excise Department in 2020 to curb illicit liquor trading and excise-related crimes?",
+      "questionMarathi": "पंजाबच्या उत्पादन शुल्क (Excise) विभागाने २०२० मध्ये अवैध दारू व्यापाराशी संबंधित गुन्ह्यांना आळा घालण्यासाठी कोणती मोहीम/ऑपरेशन सुरू केले?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Operation Black Cobra",
+          "marathi": "ऑपरेशन ब्लॅक कोब्रा"
+        },
+        {
+          "id": "B",
+          "english": "Operation Red Rose",
+          "marathi": "ऑपरेशन रेड रोझ"
+        },
+        {
+          "id": "C",
+          "english": "Operation Black Bull",
+          "marathi": "ऑपरेशन ब्लॅक बुल"
+        },
+        {
+          "id": "D",
+          "english": "Operation Prahar",
+          "marathi": "ऑपरेशन प्रहार"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanationEnglish": "Operation Red Rose was launched by the Punjab Excise Department in 2020 to check illicit distillation, smuggling of liquor, and tax evasion, utilizing technology and coordinate action.",
+      "explanationMarathi": "पंजाबच्या उत्पादन शुल्क विभागाने २०२० मध्ये बेकायदेशीर दारू गाळणे, दारूची तस्करी आणि महसूल चोरी रोखण्यासाठी 'ऑपरेशन रेड रोझ' (Operation Red Rose) सुरू केले होते.",
+      "subject": "Current Affairs",
+      "topic": "State Security",
+      "difficulty": "medium"
+    },
+    {
+      "questionEnglish": "Which national health initiative, launched in India, is focused on ensuring full immunization/vaccination coverage for pregnant women and children under two years of age?",
+      "questionMarathi": "देशातील गर्भवती महिला आणि दोन वर्षांखालील बालकांच्या संपूर्ण लसीकरणाचे उद्दिष्ट ठेवणारी 'मिशन इंद्रधनुष्य' ही मोहीम कशाशी संबंधित आहे?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Vaccination / Immunization",
+          "marathi": "लसीकरण (Vaccination)"
+        },
+        {
+          "id": "B",
+          "english": "Water Conservation",
+          "marathi": "जल संवर्धन"
+        },
+        {
+          "id": "C",
+          "english": "Artificial Raining",
+          "marathi": "कृत्रिम पाऊस"
+        },
+        {
+          "id": "D",
+          "english": "Irrigation Projects",
+          "marathi": "जलसिंचन प्रकल्प"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanationEnglish": "Mission Indradhanush was launched by the Ministry of Health and Family Welfare in December 2014 to strengthen and expand immunization coverage to ensure full vaccination of all children under two years of age and pregnant women.",
+      "explanationMarathi": "भारत सरकारच्या आरोग्य व कुटुंब कल्याण मंत्रालयाने डिसेंबर २०१४ मध्ये 'मिशन इंद्रधनुष्य' सुरू केले, जे प्रामुख्याने लहान मुले व गरोदर माता यांच्या संपूर्ण लसीकरणाशी (Vaccination) संबंधित आहे.",
+      "subject": "Current Affairs",
+      "topic": "Health Schemes",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "Dr. Yeshi Dhonden, who was honored with the Padma Shri by the Government of India in 2018, was renowned for his significant contributions in which field?",
+      "questionMarathi": "डॉ. येशी धोंडेन यांना भारत सरकारने २०१८ मध्ये 'पद्मश्री' देऊन गौरविले. त्यांचे कोणत्या क्षेत्रातील योगदान मोठे होते?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Tibetan traditional medicine (Sowa-Rigpa)",
+          "marathi": "तिबेटीयन पारंपारिक वनौषधी (Sowa-Rigpa)"
+        },
+        {
+          "id": "B",
+          "english": "Neonatal diseases",
+          "marathi": "नवजात अर्भकांचे आजार"
+        },
+        {
+          "id": "C",
+          "english": "Treating venomous snake bites",
+          "marathi": "सर्पदंशावरील मोफत उपचार"
+        },
+        {
+          "id": "D",
+          "english": "Running hospitals in remote hilly terrains",
+          "marathi": "दुर्गम डोंगराळ भागात फिरते दवाखाने चालवणे"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanationEnglish": "Dr. Yeshi Dhonden was an eminent Tibetan traditional medicine practitioner and a personal physician to the Dalai Lama, honored with the Padma Shri in 2018 for popularizing Tibetan herbal medicine and helping cancer patients.",
+      "explanationMarathi": "डॉ. येशी धोंडेन हे तिबेटी पारंपारिक औषधोपचार पद्धतीचे (Sowa-Rigpa) तज्ज्ञ आणि दलाई लामा यांचे वैयक्तिक वैद्य होते. कर्करोगाच्या रुग्णांवर हर्बल उपचार व तिबेटी औषधांच्या प्रसारासाठी त्यांना २०१८ मध्ये पद्मश्री मिळाली.",
+      "subject": "Current Affairs",
+      "topic": "Awards",
+      "difficulty": "medium"
+    },
+    {
+      "questionEnglish": "The central government's welfare scheme 'SAUBHAGYA', launched in September 2017, is primarily concerned with:",
+      "questionMarathi": "केंद्र सरकारची सप्टेंबर २०१७ मध्ये सुरू झालेली 'सौभाग्य' (SAUBHAGYA) योजना खालीलपैकी कशाशी संबंधित आहे?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Electricity supply connection to every household",
+          "marathi": "प्रत्येक घरात वीज जोडणी (वीज पुरवठा)"
+        },
+        {
+          "id": "B",
+          "english": "Best transport systems in metro cities",
+          "marathi": "उत्कृष्ट वाहतूक व्यवस्था"
+        },
+        {
+          "id": "C",
+          "english": "Developing better rural roads",
+          "marathi": "ग्रामीण भागात अधिक चांगले रस्ते बांधणे"
+        },
+        {
+          "id": "D",
+          "english": "Banking sector and financial reforms",
+          "marathi": "बँकिंग क्षेत्रातील सुधारणा"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanationEnglish": "The Pradhan Mantri Sahaj Bijli Har Ghar Yojana - 'Saubhagya' was launched in September 2017 to achieve universal household electrification by providing electricity connections to all un-electrified households in rural and urban areas.",
+      "explanationMarathi": "'प्रधानमंत्री सहज बिजली हर घर योजना' म्हणजेच 'सौभाग्य' योजना देशातील ग्रामीण व शहरी भागातील गरीब कुटुंबांना मोफत वीज जोडणी देऊन प्रत्येक घरात वीज पोहोचवण्याशी संबंधित आहे.",
+      "subject": "Current Affairs",
+      "topic": "Government Schemes",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "What is the name of India's first cloned calf of the indigenous 'Gir' cow breed, born in early 2023?",
+      "questionMarathi": "२०२३ च्या सुरुवातीला भारतात प्रथमच 'गिर' या अस्सल भारतीय गाईच्या जातीच्या जन्माला आलेल्या पहिल्या क्लोन (कृतक) वासराचे नाव काय होते?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Kapila",
+          "marathi": "कपीला"
+        },
+        {
+          "id": "B",
+          "english": "Saraswati",
+          "marathi": "सरस्वती"
+        },
+        {
+          "id": "C",
+          "english": "Luni",
+          "marathi": "लूनी"
+        },
+        {
+          "id": "D",
+          "english": "Ganga",
+          "marathi": "गंगा"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanationEnglish": "Scientists at the National Dairy Research Institute (NDRI), Karnal, produced India's first cloned female calf of the indigenous Gir cow breed, named 'Ganga'.",
+      "explanationMarathi": "कर्नाल येथील राष्ट्रीय दुग्धव्यवसाय संशोधन संस्थेच्या (NDRI) शास्त्रज्ञांनी 'गिर' जातीच्या गाईचे 'गंगा' नावाचे पहिले क्लोन वासरू यशस्वीरित्या तयार केले.",
+      "subject": "Current Affairs",
+      "topic": "Science & Tech",
+      "difficulty": "medium"
+    },
+    {
+      "questionEnglish": "Who won the prestigious 72nd 'Miss World 2025' beauty pageant title held in Hyderabad, India?",
+      "questionMarathi": "भारतातील हैदराबाद येथे पार पडलेल्या ७२ व्या 'मिस वर्ल्ड २०२५' (Miss World 2025) स्पर्धेत मिस वर्ल्डचा किताब जिंकणारी ओपल सुचता चुआंगस्री कोणत्या देशाची आहे?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Malaysia",
+          "marathi": "मलेशिया"
+        },
+        {
+          "id": "B",
+          "english": "Indonesia",
+          "marathi": "इंडोनेशिया"
+        },
+        {
+          "id": "C",
+          "english": "Thailand",
+          "marathi": "थायलंड"
+        },
+        {
+          "id": "D",
+          "english": "Philippines",
+          "marathi": "फिलीपीन्स"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanationEnglish": "Opal Suchata Chuangsri of Thailand won the prestigious Miss World 2025 title at the 72nd edition of the beauty pageant held in Hyderabad, India.",
+      "explanationMarathi": "हैदराबाद येथे पार पडलेल्या ७२ व्या मिस वर्ल्ड २०२५ स्पर्धेत थायलंडच्या (Thailand) ओपल सुचता चुआंगस्री हिने मिस वर्ल्डचा मुकुट जिंकला.",
+      "subject": "Current Affairs",
+      "topic": "International Pageants",
+      "difficulty": "medium"
+    },
+    {
+      "questionEnglish": "In which village of Nagpur district did the Maharashtra government establish the country's first Artificial Intelligence (AI)-enabled smart Anganwadi?",
+      "questionMarathi": "नागपूर जिल्ह्यातील कोणत्या गावामध्ये महाराष्ट्र शासनाने देशातील पहिली कृत्रिम बुद्धिमत्ता (AI) तंत्रज्ञानावर आधारित स्मार्ट अंगणवाडी सुरू केली आहे?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Hingna",
+          "marathi": "हिंगणा"
+        },
+        {
+          "id": "B",
+          "english": "Kalmeshwar",
+          "marathi": "कळमेश्वर"
+        },
+        {
+          "id": "C",
+          "english": "Vaddhamana",
+          "marathi": "वद्धमना (Vaddhamana)"
+        },
+        {
+          "id": "D",
+          "english": "Beltarodi",
+          "marathi": "बेलतरोडी"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanationEnglish": "The Government launched India's first AI-technology-based smart Anganwadi in Vaddhamana village, Nagpur district, to track children's attendance, health status, and nutrition digitally.",
+      "explanationMarathi": "नागपूर जिल्ह्यातील 'वद्धमना' या गावात देशातील पहिली एआय-आधारित स्मार्ट अंगणवाडी सुरू करण्यात आली, ज्यामध्ये बालकांच्या हजेरी व पोषणावर डिजिटल पद्धतीने देखरेख ठेवली जाते.",
+      "subject": "Current Affairs",
+      "topic": "Social Initiatives",
+      "difficulty": "hard"
+    },
+    {
+      "questionEnglish": "If 10 people can do a piece of work in 5 days, working 2 hours a day, how long will 2 people take to do the same work, working 5 hours a day?",
+      "questionMarathi": "जर एक काम १० माणसे दर दिवशी २ तास याप्रमाणे ५ दिवसात पूर्ण करतात, तर तेच काम २ माणसे दिवसातून ५ तास याप्रमाणे करतील, तर त्यांना किती दिवस लागतील?",
+      "options": [
+        {
+          "id": "A",
+          "english": "8 days",
+          "marathi": "८ दिवस"
+        },
+        {
+          "id": "B",
+          "english": "5 days",
+          "marathi": "५ दिवस"
+        },
+        {
+          "id": "C",
+          "english": "10 days",
+          "marathi": "१० दिवस"
+        },
+        {
+          "id": "D",
+          "english": "12 days",
+          "marathi": "१२ दिवस"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanationEnglish": "We use the work formula: M1 * D1 * H1 = M2 * D2 * H2. Here, M1 = 10, D1 = 5, H1 = 2 and M2 = 2, H2 = 5. Therefore: 10 * 5 * 2 = 2 * D2 * 5 -> 100 = 10 * D2 -> D2 = 10 days.",
+      "explanationMarathi": "काम आणि माणसांचे सुत्र: M1 * D1 * H1 = M2 * D2 * H2. येथे, M1 = १०, D1 = ५, H1 = २ आणि M2 = २, H2 = ५. सुत्रानुसार: १० * ५ * २ = २ * D2 * ५ -> १०० = १० * D2 -> D2 = १० दिवस.",
+      "subject": "Mental Ability",
+      "topic": "Time and Work",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "The average age of three persons is 60 years. Their ages are in the ratio of 2:3:4. What is the difference between the ages of the youngest and the eldest person?",
+      "questionMarathi": "तीन व्यक्तींच्या वयाची सरासरी ६० वर्षे आहे. त्यांच्या वयाचे गुणोत्तर २:३:४ असे आहे. तर सर्वांत तरुण आणि सर्वांत वयस्कर व्यक्तींच्या वयातील फरक किती?",
+      "options": [
+        {
+          "id": "A",
+          "english": "25 years",
+          "marathi": "२५ वर्षे"
+        },
+        {
+          "id": "B",
+          "english": "30 years",
+          "marathi": "३० वर्षे"
+        },
+        {
+          "id": "C",
+          "english": "40 years",
+          "marathi": "४० वर्षे"
+        },
+        {
+          "id": "D",
+          "english": "45 years",
+          "marathi": "४५ वर्षे"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanationEnglish": "The sum of the ages of the three persons = Average * 3 = 60 * 3 = 180 years. Let their ages be 2x, 3x, and 4x. So, 2x + 3x + 4x = 180 -> 9x = 180 -> x = 20. The youngest is 2x = 20 * 2 = 40 years. The eldest is 4x = 20 * 4 = 80 years. Difference = 80 - 40 = 40 years.",
+      "explanationMarathi": "तीन व्यक्तींच्या वयाची एकूण बेरीज = ६० * ३ = १८० वर्षे. वयाचे गुणोत्तर २:३:४ आहे, म्हणून २x + ३x + ४x = १८० -> ९x = १८० -> x = २०. सर्वात तरुण वय २x = ४० वर्षे आणि सर्वात वयस्कर ४x = ८० वर्षे. दोघांमधील फरक = ८० - ४० = ४० वर्षे.",
+      "subject": "Mental Ability",
+      "topic": "Averages & Ages",
+      "difficulty": "medium"
+    },
+    {
+      "questionEnglish": "Soma moves 10 km to East and then turns to South and moves 2 km. He again turns East and walks 2 km. After this, he turns to North and walks 7 km. How far is he from his starting point?",
+      "questionMarathi": "सोमा पूर्वेकडे १० किमी चालत गेला. त्यानंतर वळून दक्षिणेकडे २ किमी गेला. तो पुन्हा वळून पूर्वेकडे २ किमी गेला. त्यानंतर तो वळून उत्तरेकडे ७ किमी गेला. तर तो त्याच्या सुरुवातीच्या स्थानापासून किती अंतरावर आहे?",
+      "options": [
+        {
+          "id": "A",
+          "english": "13 km",
+          "marathi": "१३ किमी"
+        },
+        {
+          "id": "B",
+          "english": "18 km",
+          "marathi": "१८ किमी"
+        },
+        {
+          "id": "C",
+          "english": "20 km",
+          "marathi": "२० किमी"
+        },
+        {
+          "id": "D",
+          "english": "Cannot be determined from the data",
+          "marathi": "दिलेल्या माहितीवरून काढता येणार नाही"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanationEnglish": "Horizontal distance = 10 km (East) + 2 km (East) = 12 km. Vertical distance = -2 km (South) + 7 km (North) = 5 km. Distance from starting point (using Pythagoras theorem) = sqrt(12^2 + 5^2) = sqrt(144 + 25) = sqrt(169) = 13 km.",
+      "explanationMarathi": "एकूण आडवे अंतर (पूर्व) = १० + २ = १२ किमी. एकूण उभे अंतर (उत्तर) = -२ + ७ = ५ किमी. पायथागोरसच्या सिद्धांतानुसार सुरुवातीच्या ठिकाणापासूनचे सरळ अंतर = sqrt(१२^२ + ५^२) = sqrt(१४४ + २५) = sqrt(१६९) = १३ किमी.",
+      "subject": "Mental Ability",
+      "topic": "Direction Sense",
+      "difficulty": "medium"
+    },
+    {
+      "questionEnglish": "The present ages of Swati and Priti are in the ratio 3:5. After 7 years, their ages will be in the ratio 11:16. What is the present age of Priti?",
+      "questionMarathi": "स्वाती आणि प्रिती यांच्या आजच्या वयाचे गुणोत्तर ३:५ आहे. ७ वर्षानंतर त्यांच्या वयाचे गुणोत्तर ११:१६ होईल. तर प्रितीचे आजचे वय किती?",
+      "options": [
+        {
+          "id": "A",
+          "english": "15 years",
+          "marathi": "१५ वर्षे"
+        },
+        {
+          "id": "B",
+          "english": "25 years",
+          "marathi": "२५ वर्षे"
+        },
+        {
+          "id": "C",
+          "english": "11 years",
+          "marathi": "११ वर्षे"
+        },
+        {
+          "id": "D",
+          "english": "40 years",
+          "marathi": "४० वर्षे"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanationEnglish": "Let Swati's age be 3x and Priti's age be 5x. After 7 years: (3x + 7) / (5x + 7) = 11 / 16 -> 16*(3x + 7) = 11*(5x + 7) -> 48x + 112 = 55x + 77 -> 7x = 35 -> x = 5. Priti's present age = 5x = 5 * 5 = 25 years.",
+      "explanationMarathi": "स्वातीचे वय ३x आणि प्रितीचे वय ५x मानू. ७ वर्षांनंतर: (३x + ७) / (५x + ७) = ११ / १६ -> १६ * (३x + ७) = ११ * (५x + ७) -> ४८x + ११२ = ५५x + ७७ -> ७x = ३५ -> x = ५. प्रितीचे आजचे वय ५x = ५ * ५ = २५ वर्षे.",
+      "subject": "Mental Ability",
+      "topic": "Ratio & Proportion",
+      "difficulty": "medium"
+    },
+    {
+      "questionEnglish": "A person standing on a railway bridge which is 180 m long notices that a train crosses him in 8 seconds and the entire bridge in 20 seconds. What is the speed and length of the train?",
+      "questionMarathi": "एक व्यक्ती रेल्वे पुलावर उभी असून त्या पुलाची लांबी १८० मीटर आहे. एक आगगाडी त्या व्यक्तीस ८ सेकंदात व संपूर्ण पुलाला २० सेकंदात ओलांडते, तर त्या आगगाडीचा वेग आणि लांबी शोधा.",
+      "options": [
+        {
+          "id": "A",
+          "english": "Speed: 15 m/s, Length: 115 m",
+          "marathi": "वेग: १५ मी/से, लांबी: ११५ मी"
+        },
+        {
+          "id": "B",
+          "english": "Speed: 10 m/s, Length: 120 m",
+          "marathi": "वेग: १० मी/से, लांबी: १२० मी"
+        },
+        {
+          "id": "C",
+          "english": "Speed: 15 m/s, Length: 120 m",
+          "marathi": "वेग: १५ मी/से, लांबी: १२० मी"
+        },
+        {
+          "id": "D",
+          "english": "Speed: 15 m/s, Length: 110 m",
+          "marathi": "वेग: १५ मी/से, लांबी: ११० मी"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanationEnglish": "Let the length of the train be L. Speed S = L / 8. To cross the bridge: Speed S = (L + 180) / 20. Equating both: L / 8 = (L + 180) / 20 -> 20L = 8L + 1440 -> 12L = 1440 -> L = 120 m. Speed S = 120 / 8 = 15 m/s.",
+      "explanationMarathi": "समजा गाडीची लांबी L आहे. वेग S = L / ८. पूल ओलांडताना: S = (L + १८०) / २०. दोन्ही समीकरणे जोडल्यास: L / ८ = (L + १८०) / २० -> २०L = ८L + १४४० -> १२L = १४४० -> L = १२० मीटर. वेग S = १२० / ८ = १५ मीटर/सेकंद.",
+      "subject": "Mental Ability",
+      "topic": "Speed, Time and Distance",
+      "difficulty": "hard"
+    },
+    {
+      "questionEnglish": "In a certain seminar, 32 persons drink tea, 35 persons drink coffee, and 22 persons drink both tea and coffee. What is the total number of persons gathered for the seminar?",
+      "questionMarathi": "एका परिसंवादासाठी जमलेल्या लोकांपैकी ३२ व्यक्ती चहा पितात, ३५ व्यक्ती कॉफी पितात आणि २२ व्यक्ती चहा व कॉफी दोन्ही पितात. तर परिसंवादासाठी जमलेल्या एकूण व्यक्तींची संख्या किती?",
+      "options": [
+        {
+          "id": "A",
+          "english": "44",
+          "marathi": "४४"
+        },
+        {
+          "id": "B",
+          "english": "41",
+          "marathi": "४१"
+        },
+        {
+          "id": "C",
+          "english": "45",
+          "marathi": "४५"
+        },
+        {
+          "id": "D",
+          "english": "55",
+          "marathi": "५५"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanationEnglish": "By the principle of set theory (Venn diagram): Total = n(Tea) + n(Coffee) - n(Tea and Coffee) = 32 + 35 - 22 = 67 - 22 = 45 persons.",
+      "explanationMarathi": "वेन आकृती किंवा संचाच्या नियमानुसार: एकूण व्यक्ती = n(चहा) + n(कॉफी) - n(दोन्ही) = ३२ + ३५ - २२ = ६७ - २२ = ४५ व्यक्ती.",
+      "subject": "Mental Ability",
+      "topic": "Venn Diagrams",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "If the International Yoga Day falls on a Tuesday in the year 2016, on which day will the National Science Day fall in the same year?",
+      "questionMarathi": "जर २०१६ या वर्षी आंतरराष्ट्रीय योग दिन मंगळवारी आला असेल, तर त्याच वर्षी राष्ट्रीय विज्ञान दिन कोणत्या वारी आला असेल?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Friday",
+          "marathi": "शुक्रवार"
+        },
+        {
+          "id": "B",
+          "english": "Saturday",
+          "marathi": "शनिवार"
+        },
+        {
+          "id": "C",
+          "english": "Sunday",
+          "marathi": "रविवार"
+        },
+        {
+          "id": "D",
+          "english": "Monday",
+          "marathi": "सोमवार"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanationEnglish": "2016 is a leap year (February has 29 days). National Science Day is on February 28. International Yoga Day is on June 21. Let's calculate the days from Feb 28 to June 21 in 2016: Remaining in Feb: 1 day. March: 31 days. April: 30 days. May: 31 days. June: 21 days. Total days = 1 + 31 + 30 + 31 + 21 = 114 days. 114 mod 7 = 2 odd days. Since June 21 is Tuesday, Feb 28 is Tuesday minus 2 days, which is Monday.",
+      "explanationMarathi": "२०१६ हे लीप वर्ष आहे (फेब्रुवारीत २९ दिवस). राष्ट्रीय विज्ञान दिन २८ फेब्रुवारीला असतो, तर योग दिन २१ जूनला. २८ फेब्रुवारी ते २१ जून मधील दिवस: फेब्रुवारीतील उर्वरित १ + मार्च ३१ + एप्रिल ३० + मे ३१ + जून २१ = एकूण ११४ दिवस. ११४ ला ७ ने भागल्यास २ बाकी उरते. २१ जून मंगळवार आहे, म्हणून २८ फेब्रुवारी हा मंगळवार वजा २ दिवस = सोमवार असेल.",
+      "subject": "Mental Ability",
+      "topic": "Calendar",
+      "difficulty": "hard"
+    },
+    {
+      "questionEnglish": "In a certain code language, if the word 'MARCH' is written as 'NZIXS', how will the word 'AUGUST' be written in that same code language?",
+      "questionMarathi": "एका सांकेतिक भाषेत जर 'MARCH' हा शब्द 'NZIXS' असा लिहिला जातो, तर त्याच सांकेतिक भाषेत 'AUGUST' हा शब्द कसा लिहिला जाईल?",
+      "options": [
+        {
+          "id": "A",
+          "english": "ZPXGHF",
+          "marathi": "ZPXGHF"
+        },
+        {
+          "id": "B",
+          "english": "ZFTFHG",
+          "marathi": "ZFTFHG"
+        },
+        {
+          "id": "C",
+          "english": "ZPZFGX",
+          "marathi": "ZPZFGX"
+        },
+        {
+          "id": "D",
+          "english": "ZPTFHG",
+          "marathi": "ZPTFHG"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanationEnglish": "The letters are coded with their alphabetically opposite/reverse positions (A <-> Z, B <-> Y, ..., M <-> N). Opposites are: A -> Z, U -> F, G -> T, U -> F, S -> H, T -> G. Hence, 'AUGUST' is coded as 'ZFTFHG'.",
+      "explanationMarathi": "या सांकेतिक भाषेत अक्षरे त्यांच्या इंग्रजी वर्णमालेतील विरुद्ध अक्षराने बदलली आहेत (उदा. A च्या जागी Z, B च्या जागी Y). या नियमानुसार: A -> Z, U -> F, G -> T, U -> F, S -> H, T -> G. म्हणून 'AUGUST' चे कोड 'ZFTFHG' होईल.",
+      "subject": "Mental Ability",
+      "topic": "Coding Decoding",
+      "difficulty": "medium"
+    },
+    {
+      "questionEnglish": "Variables x and y are inversely proportional to each other. When x = 3, then y = 4. What will be the value of y when x = 9?",
+      "questionMarathi": "चल चलनाच्या नियमानुसार x आणि y व्यस्त चलनात (Inversely proportional) आहेत. जेव्हा x = ३ तेव्हा y = ४ असतात. तर जेव्हा x = ९ असेल, तेव्हा y ची किंमत किती असेल?",
+      "options": [
+        {
+          "id": "A",
+          "english": "3/4",
+          "marathi": "३/४"
+        },
+        {
+          "id": "B",
+          "english": "4/3",
+          "marathi": "४/३"
+        },
+        {
+          "id": "C",
+          "english": "5/3",
+          "marathi": "५/३"
+        },
+        {
+          "id": "D",
+          "english": "3",
+          "marathi": "३"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanationEnglish": "In inverse proportion, the product of the variables remains constant: x * y = k. Here, 3 * 4 = 12, so k = 12. When x = 9: 9 * y = 12 -> y = 12/9 = 4/3.",
+      "explanationMarathi": "व्यस्त चलनात दोन चलांचा गुणाकार कायम स्थिर राहतो: x * y = k. येथे, ३ * ४ = १२, म्हणजे स्थिरांक k = १२ आहे. जेव्हा x = ९ असेल: ९ * y = १२ -> y = १२/९ = ४/३.",
+      "subject": "Mental Ability",
+      "topic": "Variation",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "The difference between simple interest and compound interest on a certain sum of money for 2 years at 4% per annum is ₹8. Find the principal sum.",
+      "questionMarathi": "एका विशिष्ट रकमेवर दोन वर्षांकरिता ४% दराने मिळालेल्या चक्रवाढ व्याज व सरळ व्याज यातील फरक ₹८ आहे. तर ती मुळ रक्कम (Principal) किती?",
+      "options": [
+        {
+          "id": "A",
+          "english": "₹3,000",
+          "marathi": "₹३,०००"
+        },
+        {
+          "id": "B",
+          "english": "₹4,000",
+          "marathi": "₹४,०००"
+        },
+        {
+          "id": "C",
+          "english": "₹5,000",
+          "marathi": "₹५,०००"
+        },
+        {
+          "id": "D",
+          "english": "₹6,000",
+          "marathi": "₹६,०००"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanationEnglish": "The formula for the difference between CI and SI for 2 years is: Diff = P * (R/100)^2. Here, Diff = 8 and R = 4. So, 8 = P * (4/100)^2 -> 8 = P * (1/25)^2 -> 8 = P / 625 -> P = 8 * 625 = ₹5,000.",
+      "explanationMarathi": "दोन वर्षांच्या चक्रवाढ आणि सरळ व्याजातील फरकाचे सूत्र: फरक = P * (R/१००)^२. येथे फरक = ८ आणि दर R = ४% आहे. ८ = P * (४/१००)^२ -> ८ = P * (१/२५)^२ -> ८ = P / ६२५ -> P = ८ * ६२५ = ₹५,०००.",
+      "subject": "Mental Ability",
+      "topic": "Simple & Compound Interest",
+      "difficulty": "medium"
+    }
+  ]
+}
