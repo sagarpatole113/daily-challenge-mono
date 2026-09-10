@@ -7,14 +7,17 @@ import {
   Linking,
   Image,
   Modal,
+  Animated,
+  Easing,
 } from "react-native";
 import { SafeAreaView } from "react-native-safe-area-context";
-import { useState } from "react";
+import { useRef, useState } from "react";
 import { colors, radius, spacing, shadow } from "../../src/theme/theme";
 
 const LINKS = {
   email: "mailto:sagarpatole113@gmail.com",
   telegram: "https://t.me/+k9PS6QEejuIxZDBl",
+  portfolio: "https://sagarpatole113.github.io/portfolio/",
 };
 
 function openLink(url: string) {
@@ -23,6 +26,47 @@ function openLink(url: string) {
 
 export default function AboutScreen() {
   const [showChaiQR, setShowChaiQR] = useState(false);
+  const [isCardFlipped, setIsCardFlipped] = useState(false);
+  const [isChaiAlternative, setIsChaiAlternative] = useState(false);
+  const flipProgress = useRef(new Animated.Value(0)).current;
+  const chaiFlipProgress = useRef(new Animated.Value(0)).current;
+
+  function flipCard() {
+    const nextFlipped = !isCardFlipped;
+    setIsCardFlipped(nextFlipped);
+    Animated.timing(flipProgress, {
+      toValue: nextFlipped ? 1 : 0,
+      duration: 450,
+      easing: Easing.inOut(Easing.ease),
+      useNativeDriver: true,
+    }).start();
+  }
+
+  function flipChaiContent() {
+    const nextAlternative = !isChaiAlternative;
+    setIsChaiAlternative(nextAlternative);
+    Animated.timing(chaiFlipProgress, {
+      toValue: nextAlternative ? 1 : 0,
+      duration: 450,
+      easing: Easing.inOut(Easing.ease),
+      useNativeDriver: true,
+    }).start();
+  }
+
+  function closeChaiQR() {
+    setShowChaiQR(false);
+    setIsChaiAlternative(false);
+    chaiFlipProgress.setValue(0);
+  }
+
+  const frontRotation = flipProgress.interpolate({
+    inputRange: [0, 1],
+    outputRange: ["0deg", "180deg"],
+  });
+  const backRotation = flipProgress.interpolate({
+    inputRange: [0, 1],
+    outputRange: ["180deg", "360deg"],
+  });
 
   return (
     <SafeAreaView style={styles.safe} edges={["top"]}>
@@ -37,19 +81,23 @@ export default function AboutScreen() {
         </View>
 
         {/* ABOUT */}
-        <View style={styles.card}>
-          <Text style={styles.sectionTitle}>ABOUT</Text>
+        <View style={styles.flipCard}>
+          <Animated.View style={[styles.card, styles.cardFace, { transform: [{ rotateY: frontRotation }] }]}>
+            <Pressable onPress={flipCard} accessibilityLabel="Flip about card">
+              <Text style={styles.sectionTitle}>ABOUT</Text>
 
-          <Text style={styles.bodyText}>
-            सातत्य का?
-            सध्या job शोधतोय, आणि वाटलं — React Native शिकायचं असेल तर काहीतरी खरंच build करूया. मग काय… vibe coding करून सातत्य build केलं. 😂
-            MPSC ची तयारी करणाऱ्या students ना free daily mock tests सहज मिळत नाहीत हे जाणवलं. माझा coaching class नाही, questions चा खजिना नाही… म्हणून AI ला कामाला लावलं 😄
-            App सध्या free-tier services वर चालतोय. त्यामुळे users अचानक वाढले तर सातत्यामध्ये सातत्य राहणार नाही. 💀😂
-            आणि हो, चहासाठी QR code पण दिलाय. ☕
-            कारण free app बनवणं सोपं आहे… free मध्ये जगणं थोडं कठीण आहे. 😂
-            पैसे देणं अजिबात compulsory नाही — पण QR code कडे बघून guilt trip घ्यायची की नाही, ते पूर्णपणे तुमच्यावर आहे. 😂
-            Bug, wrong question किंवा suggestion असेल तर email करा किंवा Telegram group मध्ये सांगा.
-          </Text>
+              <Text style={styles.bodyText}>
+                सातत्य का?
+                सध्या job शोधतोय, आणि वाटलं — React Native शिकायचं असेल तर काहीतरी खरंच build करूया. मग काय… vibe coding करून सातत्य build केलं. 😂
+                MPSC ची तयारी करणाऱ्या students ना free daily mock tests सहज मिळत नाहीत हे जाणवलं. माझा coaching class नाही, questions चा खजिना नाही… म्हणून AI ला कामाला लावलं 😄
+                App सध्या free-tier services वर चालतोय. त्यामुळे users अचानक वाढले तर सातत्यामध्ये सातत्य राहणार नाही. 💀😂
+                आणि हो, चहासाठी QR code पण दिलाय. ☕
+                कारण free app बनवणं सोपं आहे… free मध्ये जगणं थोडं कठीण आहे. 😂
+                पैसे देणं अजिबात compulsory नाही — पण QR code कडे बघून guilt trip घ्यायची की नाही, ते पूर्णपणे तुमच्यावर आहे. 😂
+                Bug, wrong question किंवा suggestion असेल तर email करा किंवा Telegram group मध्ये सांगा.
+              </Text>
+            </Pressable>
+          </Animated.View>
         </View>
         {/* BUY ME A CHAI CARD */}
         <View style={styles.chaiCard}>
@@ -62,9 +110,6 @@ export default function AboutScreen() {
             </View>
             <View style={styles.chaiContent}>
               <Text style={styles.chaiTitle}>Buy me a chai</Text>
-              <Text style={styles.chaiText}>
-                Support the free daily tests if you find them useful.
-              </Text>
             </View>
             <View style={styles.scanBadge}>
               <Text style={styles.scanBadgeText}>SCAN</Text>
@@ -85,13 +130,13 @@ export default function AboutScreen() {
         visible={showChaiQR}
         transparent
         animationType="fade"
-        onRequestClose={() => setShowChaiQR(false)}
+        onRequestClose={closeChaiQR}
       >
         <View style={styles.modalOverlay}>
           <View style={styles.qrModal}>
             <Pressable
               style={styles.closeButton}
-              onPress={() => setShowChaiQR(false)}
+              onPress={closeChaiQR}
               accessibilityLabel="Close QR code"
             >
               <Text style={styles.closeButtonText}>X</Text>
@@ -107,18 +152,81 @@ export default function AboutScreen() {
               </Text>
             </View>
 
-            <View style={styles.qrContainer}>
-              <Image
-                source={require("../../assets/chai-qr.jpeg")}
-                style={styles.qrImage}
-              />
-            </View>
+            <View style={styles.chaiFlipArea}>
+              <Animated.View
+                pointerEvents={isChaiAlternative ? "none" : "auto"}
+                style={[
+                  styles.chaiModalFace,
+                  {
+                    zIndex: isChaiAlternative ? 0 : 2,
+                    opacity: chaiFlipProgress.interpolate({
+                      inputRange: [0, 0.5, 1],
+                      outputRange: [1, 0, 0],
+                    }),
+                    transform: [{
+                      perspective: 1000,
+                    }, {
+                      rotateY: chaiFlipProgress.interpolate({
+                        inputRange: [0, 1],
+                        outputRange: ["0deg", "180deg"],
+                      }),
+                    }],
+                  },
+                ]}
+              >
+                <View style={styles.qrContainer}>
+                  <Image
+                    source={require("../../assets/chai-qr.jpeg")}
+                    style={styles.qrImage}
+                  />
+                </View>
 
-            <View style={styles.qrFooter}>
-              <Text style={styles.qrFooterText}>
-                Payment is completely optional. Thank you for supporting the
-                project.
-              </Text>
+                <Pressable
+                  style={styles.orButton}
+                  onPress={flipChaiContent}
+                  accessibilityLabel="Show alternate support option"
+                >
+                  <Text style={styles.orButtonText}>OR</Text>
+                </Pressable>
+              </Animated.View>
+
+              <Animated.View
+                pointerEvents={isChaiAlternative ? "auto" : "none"}
+                style={[
+                  styles.chaiModalFace,
+                  styles.chaiModalBack,
+                  {
+                    zIndex: isChaiAlternative ? 2 : 0,
+                    opacity: chaiFlipProgress.interpolate({
+                      inputRange: [0, 0.5, 1],
+                      outputRange: [0, 0, 1],
+                    }),
+                    transform: [{
+                      perspective: 1000,
+                    }, {
+                      rotateY: chaiFlipProgress.interpolate({
+                        inputRange: [0, 1],
+                        outputRange: ["180deg", "360deg"],
+                      }),
+                    }],
+                  },
+                ]}
+              >
+                <Text style={styles.chaiAlternativeText}>
+                  UPI scan नाही केलं? No issue! IT मध्ये तुमचा कोेणी friend असेल तर माझा resume forward करा 😂
+                </Text>
+
+                <Pressable
+                  style={styles.portfolioButton}
+                  onPress={() => openLink(LINKS.portfolio)}
+                >
+                  <Text style={styles.portfolioButtonText}>VIEW MY PORTFOLIO</Text>
+                </Pressable>
+
+                <Pressable onPress={flipChaiContent}>
+                  <Text style={styles.flipBackLink}>FLIP BACK TO QR</Text>
+                </Pressable>
+              </Animated.View>
             </View>
           </View>
         </View>
@@ -168,6 +276,73 @@ const styles = StyleSheet.create({
     ...shadow.card,
   },
 
+  flipCard: {
+    height: 420,
+    marginBottom: spacing.md,
+  },
+
+  cardFace: {
+    position: "absolute",
+    width: "100%",
+    height: "100%",
+    backfaceVisibility: "hidden",
+    marginBottom: 0,
+  },
+
+  cardBack: {
+    alignItems: "center",
+    justifyContent: "center",
+  },
+
+  flipButton: {
+    alignSelf: "flex-start",
+    backgroundColor: colors.surfaceAlt,
+    borderRadius: radius.sm,
+    borderWidth: 1,
+    borderColor: colors.primaryBorder,
+    paddingHorizontal: spacing.md,
+    paddingVertical: spacing.sm,
+    marginTop: spacing.lg,
+  },
+
+  flipButtonText: {
+    color: colors.primary,
+    fontSize: 11,
+    fontWeight: "800",
+    letterSpacing: 0.5,
+  },
+
+  creatorName: {
+    color: colors.text,
+    fontSize: 28,
+    fontWeight: "900",
+    marginBottom: spacing.xs,
+  },
+
+  portfolioButton: {
+    backgroundColor: colors.primary,
+    borderRadius: radius.md,
+    paddingHorizontal: spacing.lg,
+    paddingVertical: spacing.md,
+    marginTop: spacing.xl,
+    ...shadow.button,
+  },
+
+  portfolioButtonText: {
+    color: colors.onPrimary,
+    fontSize: 12,
+    fontWeight: "800",
+    letterSpacing: 0.4,
+  },
+
+  flipBackLink: {
+    color: colors.primary,
+    fontSize: 11,
+    fontWeight: "800",
+    letterSpacing: 0.8,
+    marginTop: spacing.lg,
+  },
+
   sectionTitle: {
     color: colors.primary,
     fontSize: 11,
@@ -214,6 +389,9 @@ const styles = StyleSheet.create({
 
   chaiContent: {
     flex: 1,
+    flexShrink: 1,
+    minWidth: 0,
+    marginRight: spacing.sm,
   },
 
   chaiTitle: {
@@ -230,6 +408,7 @@ const styles = StyleSheet.create({
   },
 
   scanBadge: {
+    flexShrink: 0,
     borderWidth: 1,
     borderColor: colors.primary,
     borderRadius: radius.sm,
@@ -335,6 +514,53 @@ const styles = StyleSheet.create({
     marginTop: 7,
     lineHeight: 19,
     paddingHorizontal: spacing.xl,
+  },
+
+  chaiFlipArea: {
+    height: 320,
+    marginTop: spacing.xl,
+    position: "relative",
+  },
+
+  chaiModalFace: {
+    position: "absolute",
+    width: "100%",
+    height: "100%",
+    alignItems: "center",
+    backfaceVisibility: "hidden",
+  },
+
+  chaiModalBack: {
+    justifyContent: "center",
+    paddingHorizontal: spacing.md,
+  },
+
+  chaiAlternativeText: {
+    color: colors.textDim,
+    textAlign: "center",
+    fontSize: 14,
+    lineHeight: 22,
+  },
+
+  orButton: {
+    marginTop: spacing.md,
+    minWidth: 88,
+    minHeight: 30,
+    borderRadius: radius.md,
+    zIndex: 5,
+    elevation: 5,
+    borderWidth: 1,
+    borderColor: colors.primary,
+    paddingHorizontal: spacing.lg,
+    paddingVertical: spacing.sm,
+    alignItems: "center",
+  },
+
+  orButtonText: {
+    color: colors.primary,
+    fontSize: 12,
+    fontWeight: "900",
+    letterSpacing: 1,
   },
 
   qrContainer: {

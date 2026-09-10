@@ -2,14 +2,13 @@
   "extends": "expo/tsconfig.base",
   "compilerOptions": {
     "strict": true,
-    "baseUrl": ".",
     "moduleResolution": "bundler",
     "customConditions": [
       "react-native"
     ],
     "paths": {
       "@/*": [
-        "src/*"
+        "./src/*"
       ],
       "@shared/*": [
         "../shared/src/*"

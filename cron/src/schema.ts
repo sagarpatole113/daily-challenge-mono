@@ -3,8 +3,14 @@ import { EXAM_CONFIG } from "@shared/index";
 
 const optionSchema = z.object({
   id: z.enum(["A", "B", "C", "D"]),
-  english: z.string().trim().min(1, "Option english text required"),
-  marathi: z.string().trim().min(1, "Option marathi text required"),
+  english: z
+    .union([z.string(), z.array(z.string()).min(1)])
+    .transform((value) => (Array.isArray(value) ? value[0] : value).trim())
+    .pipe(z.string().min(1, "Option english text required")),
+  marathi: z
+    .union([z.string(), z.array(z.string()).min(1)])
+    .transform((value) => (Array.isArray(value) ? value[1] ?? value[0] : value).trim())
+    .pipe(z.string().min(1, "Option marathi text required")),
 });
 
 const questionSchema = z
@@ -43,12 +49,7 @@ const questionSchema = z
 
 export const testFileSchema = z.object({
   title: z.string().trim().min(1),
-  questions: z
-    .array(questionSchema)
-    .length(
-      EXAM_CONFIG.QUESTIONS_PER_TEST,
-      `Each test must contain exactly ${EXAM_CONFIG.QUESTIONS_PER_TEST} questions`
-    ),
+  questions: z.array(questionSchema).min(1, "Each test must contain at least one question"),
 });
 
 export type TestFileInput = z.infer<typeof testFileSchema>;

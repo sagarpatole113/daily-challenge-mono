@@ -17,8 +17,8 @@ export interface ImportSummary {
 }
 
 /**
- * Imports exactly 10 test JSON files (test-1.json .. test-10.json) for a
- * given date into Firestore, publishing an ACTIVE dailyTestBatches/{dayId}.
+ * Imports every test-N.json file found for a given date into Firestore,
+ * publishing an ACTIVE dailyTestBatches/{dayId}.
  *
  * Idempotent: if an ACTIVE batch already exists for this dayId, the import
  * is skipped (IMPORT_MODE=skip, default) unless IMPORT_MODE=update, in
@@ -48,20 +48,35 @@ export async function importDay(dayId: string, dataDir: string): Promise<ImportS
     await clearDraftBatch(dayId);
   }
 
-  // ---- 1. Load + validate all 10 files BEFORE writing anything ----
+  // ---- 1. Load + validate all available files BEFORE writing anything ----
+  const testFiles = fs
+    .readdirSync(dayFolder)
+    .map((fileName) => {
+      const match = /^test-(\d+)\.json$/.exec(fileName);
+      return match ? { fileName, number: Number(match[1]) } : null;
+    })
+    .filter((file): file is { fileName: string; number: number } => file !== null)
+    .sort((a, b) => a.number - b.number);
+
+  if (testFiles.length === 0) {
+    throw new Error(`No test-N.json files found for day ${dayId}`);
+  }
+
+  const expectedNumbers = testFiles.map((file, index) => index + 1);
+  if (testFiles.some((file, index) => file.number !== expectedNumbers[index])) {
+    throw new Error(`Test files for ${dayId} must be numbered consecutively from test-1.json`);
+  }
+
   const parsedTests: TestFileInput[] = [];
-  for (let n = 1; n <= EXAM_CONFIG.TESTS_PER_DAY; n++) {
-    const filePath = path.join(dayFolder, `test-${n}.json`);
-    if (!fs.existsSync(filePath)) {
-      throw new Error(`Missing required file: test-${n}.json for day ${dayId}`);
-    }
+  for (const testFile of testFiles) {
+    const filePath = path.join(dayFolder, testFile.fileName);
     const raw = JSON.parse(fs.readFileSync(filePath, "utf-8"));
     const result = testFileSchema.safeParse(raw);
     if (!result.success) {
       const issues = result.error.issues
         .map((i) => `  - ${i.path.join(".")}: ${i.message}`)
         .join("\n");
-      throw new Error(`Validation failed for test-${n}.json (day ${dayId}):\n${issues}`);
+      throw new Error(`Validation failed for ${testFile.fileName} (day ${dayId}):\n${issues}`);
     }
     parsedTests.push(result.data);
   }
@@ -70,7 +85,7 @@ export async function importDay(dayId: string, dataDir: string): Promise<ImportS
   await batchRef.set({
     id: dayId,
     date: dayId,
-    totalTests: EXAM_CONFIG.TESTS_PER_DAY,
+    totalTests: parsedTests.length,
     status: "DRAFT",
     createdAt: existing.exists ? existing.data()!.createdAt : FieldValue.serverTimestamp(),
     publishedAt: null,
@@ -79,7 +94,7 @@ export async function importDay(dayId: string, dataDir: string): Promise<ImportS
   let questionsImported = 0;
 
   // ---- 3. Write each test + its questions + mapping ----
-  for (let n = 1; n <= EXAM_CONFIG.TESTS_PER_DAY; n++) {
+  for (let n = 1; n <= parsedTests.length; n++) {
     const testInput = parsedTests[n - 1];
     const testRef = batchRef.collection("tests").doc(`test-${n}`);
 
@@ -87,8 +102,8 @@ export async function importDay(dayId: string, dataDir: string): Promise<ImportS
       id: `test-${n}`,
       testNumber: n,
       title: testInput.title,
-      totalQuestions: EXAM_CONFIG.QUESTIONS_PER_TEST,
-      totalMarks: EXAM_CONFIG.TOTAL_MARKS,
+      totalQuestions: testInput.questions.length,
+      totalMarks: testInput.questions.length * EXAM_CONFIG.MARKS_PER_CORRECT,
       durationMinutes: EXAM_CONFIG.DURATION_MINUTES,
       negativeMarking: EXAM_CONFIG.NEGATIVE_MARKING,
       status: "DRAFT",
@@ -152,7 +167,7 @@ export async function importDay(dayId: string, dataDir: string): Promise<ImportS
   return {
     dayId,
     status: existing.exists ? "UPDATED" : "IMPORTED",
-    testsImported: EXAM_CONFIG.TESTS_PER_DAY,
+    testsImported: parsedTests.length,
     questionsImported,
   };
 }

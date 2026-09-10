@@ -59,7 +59,7 @@ export default function HomeScreen() {
   }
 
   const completed = todaySummary?.completedTests ?? 0;
-  const total = todaySummary?.totalTests ?? 3;
+  const total = todaySummary?.totalTests ?? todayTests?.length ?? 0;
 
   return (
     <SafeAreaView style={styles.safe} edges={["top"]}>

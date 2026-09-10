@@ -23,7 +23,7 @@ export async function listDays(userId: string): Promise<DayListItem[]> {
     results.push({
       dayId: doc.id,
       date: d.date,
-      totalTests: d.totalTests ?? 10,
+      totalTests: d.totalTests ?? 0,
       completedTests: progress.completedTests,
       currentUnlockedTest: progress.currentUnlockedTest,
       status: d.status,
@@ -40,7 +40,7 @@ export async function getDayDetail(userId: string, dayId: string) {
   return {
     dayId,
     date: d.date,
-    totalTests: d.totalTests ?? 10,
+    totalTests: d.totalTests ?? 0,
     status: d.status,
     completedTests: progress.completedTests,
     currentUnlockedTest: progress.currentUnlockedTest,

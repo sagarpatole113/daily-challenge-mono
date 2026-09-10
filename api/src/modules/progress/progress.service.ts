@@ -1,6 +1,5 @@
 import { db, FieldValue } from "../../config/firebase";
 import type { UserDailyProgress } from "@shared/index";
-import { EXAM_CONFIG } from "@shared/index";
 
 const progressCol = (userId: string) =>
   db.collection("users").doc(userId).collection("dailyProgress");
@@ -49,6 +48,8 @@ export async function markTestCompleted(
   testNumber: number
 ): Promise<UserDailyProgress> {
   const ref = progressCol(userId).doc(dayId);
+  const batchSnap = await db.collection("dailyTestBatches").doc(dayId).get();
+  const totalTests = batchSnap.data()?.totalTests ?? 0;
 
   return db.runTransaction(async (tx) => {
     const snap = await tx.get(ref);
@@ -73,9 +74,9 @@ export async function markTestCompleted(
     const completedTests = newCompletedIds.length;
     const currentUnlockedTest = Math.min(
       testNumber + 1,
-      EXAM_CONFIG.TESTS_PER_DAY
+      totalTests
     );
-    const dayCompleted = completedTests >= EXAM_CONFIG.TESTS_PER_DAY;
+    const dayCompleted = totalTests > 0 && completedTests >= totalTests;
 
     const data = {
       dayId,
