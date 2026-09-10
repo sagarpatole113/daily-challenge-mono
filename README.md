@@ -6,27 +6,13 @@ completing the one before it — building the daily discipline of real exam
 practice.
 
 ## 📱 Screenshots
-
-### Login
-
-![Login Screen](./images/login.jpeg)
-
-### Home
-
-![Home Screen](./images/home.jpeg)
-
-### Test List
-
-![Test List](./images/tests.jpeg)
-
-### Test Screen
-
-![Test Screen](./images/test-screen.jpeg)
-
-### Result
-
-![Result Screen](./images/result.jpeg)
-
+<p align="center">
+  <img src="./images/login.png" width="140" />
+  <img src="./images/home.png" width="140" />
+  <img src="./images/tests.png" width="140" />
+  <img src="./images/test-screen.png" width="140" />
+  <img src="./images/result.png" width="140" />
+</p>
 This repository contains four coordinated projects:
 
 ```
