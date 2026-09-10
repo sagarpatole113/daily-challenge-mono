@@ -1,0 +1,3301 @@
+{
+  "title": "MPSC Group C Daily Mock Test 2",
+  "questions": [
+    {
+      "questionEnglish": "Consider the following statements about the Western Ghats:\na. They run roughly parallel to the western coast of India.\nb. They influence rainfall distribution in Maharashtra.",
+      "questionMarathi": "पश्चिम घाटाबाबत खालील विधाने विचारात घ्या :\nअ. ते भारताच्या पश्चिम किनाऱ्याला साधारण समांतर आहेत.\nब. महाराष्ट्रातील पर्जन्य वितरणावर त्यांचा प्रभाव पडतो.",
+      "options": [
+        {
+          "id": "A",
+          "english": "Only A is correct",
+          "marathi": "फक्त अ बरोबर"
+        },
+        {
+          "id": "B",
+          "english": "Only B is correct",
+          "marathi": "फक्त ब बरोबर"
+        },
+        {
+          "id": "C",
+          "english": "Both A and B are correct",
+          "marathi": "अ आणि ब दोन्ही बरोबर"
+        },
+        {
+          "id": "D",
+          "english": "Both are incorrect",
+          "marathi": "दोन्ही चुकीची"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanationEnglish": "Both statements are correct. The Western Ghats form a major physiographic barrier affecting monsoon rainfall.",
+      "explanationMarathi": "दोन्ही विधाने बरोबर आहेत. पश्चिम घाट मान्सून पर्जन्यावर प्रभाव टाकणारा प्रमुख भौगोलिक अडथळा आहे.",
+      "subject": "Geography",
+      "topic": "Western Ghats",
+      "difficulty": "medium"
+    },
+    {
+      "questionEnglish": "Which of the following pairs is correctly matched?",
+      "questionMarathi": "खालीलपैकी कोणती जोडी योग्य जुळलेली आहे?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Tapi — Arabian Sea",
+          "marathi": "तापी — अरबी समुद्र"
+        },
+        {
+          "id": "B",
+          "english": "Godavari — Bay of Bengal",
+          "marathi": "गोदावरी — बंगालचा उपसागर"
+        },
+        {
+          "id": "C",
+          "english": "Both A and B",
+          "marathi": "अ आणि ब दोन्ही"
+        },
+        {
+          "id": "D",
+          "english": "Neither",
+          "marathi": "दोन्हीपैकी नाही"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanationEnglish": "Both Tapi and Godavari ultimately drain into the Arabian Sea and Bay of Bengal respectively.",
+      "explanationMarathi": "तापी नदी अरबी समुद्रात, तर गोदावरी बंगालच्या उपसागरात मिळते; त्यामुळे दोन्ही जोड्या योग्य आहेत.",
+      "subject": "Geography",
+      "topic": "Drainage",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "Which district of Maharashtra is famous for the Lonar crater lake?",
+      "questionMarathi": "महाराष्ट्रातील लोणार विवर सरोवर कोणत्या जिल्ह्यात आहे?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Buldhana",
+          "marathi": "बुलढाणा"
+        },
+        {
+          "id": "B",
+          "english": "Washim",
+          "marathi": "वाशिम"
+        },
+        {
+          "id": "C",
+          "english": "Akola",
+          "marathi": "अकोला"
+        },
+        {
+          "id": "D",
+          "english": "Jalna",
+          "marathi": "जालना"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanationEnglish": "Lonar crater lake is located in Buldhana district.",
+      "explanationMarathi": "लोणार विवर सरोवर बुलढाणा जिल्ह्यात आहे.",
+      "subject": "Geography",
+      "topic": "Lakes",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "Which mountain range forms a major part of the western edge of the Deccan Plateau?",
+      "questionMarathi": "दख्खन पठाराच्या पश्चिम कड्याचा प्रमुख भाग कोणती पर्वतरांग बनवते?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Aravalli",
+          "marathi": "अरावली"
+        },
+        {
+          "id": "B",
+          "english": "Western Ghats",
+          "marathi": "पश्चिम घाट"
+        },
+        {
+          "id": "C",
+          "english": "Himalaya",
+          "marathi": "हिमालय"
+        },
+        {
+          "id": "D",
+          "english": "Vindhya",
+          "marathi": "विंध्य"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanationEnglish": "The Western Ghats form the western margin of the Deccan Plateau.",
+      "explanationMarathi": "पश्चिम घाट दख्खन पठाराच्या पश्चिम सीमेला लागून आहेत.",
+      "subject": "Geography",
+      "topic": "Physiography",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "Which one of the following is a tributary of the Krishna River?",
+      "questionMarathi": "खालीलपैकी कोणती नदी कृष्णा नदीची उपनदी आहे?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Bhima",
+          "marathi": "भीमा"
+        },
+        {
+          "id": "B",
+          "english": "Wardha",
+          "marathi": "वर्धा"
+        },
+        {
+          "id": "C",
+          "english": "Purna",
+          "marathi": "पूर्णा"
+        },
+        {
+          "id": "D",
+          "english": "Penganga",
+          "marathi": "पैनगंगा"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanationEnglish": "Bhima is a major tributary of the Krishna River.",
+      "explanationMarathi": "भीमा ही कृष्णा नदीची प्रमुख उपनदी आहे.",
+      "subject": "Geography",
+      "topic": "Rivers",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "Match the cities with rivers:\na. Nashik — i. Godavari\nb. Kolhapur — ii. Panchganga\nc. Nanded — iii. Godavari",
+      "questionMarathi": "शहरे व नद्या यांच्या जोड्या जुळवा :\nअ. नाशिक — i. गोदावरी\nब. कोल्हापूर — ii. पंचगंगा\nक. नांदेड — iii. गोदावरी",
+      "options": [
+        {
+          "id": "A",
+          "english": "a-i, b-ii, c-iii",
+          "marathi": "अ-i, ब-ii, क-iii"
+        },
+        {
+          "id": "B",
+          "english": "a-ii, b-i, c-iii",
+          "marathi": "अ-ii, ब-i, क-iii"
+        },
+        {
+          "id": "C",
+          "english": "a-i, b-iii, c-ii",
+          "marathi": "अ-i, ब-iii, क-ii"
+        },
+        {
+          "id": "D",
+          "english": "a-iii, b-i, c-ii",
+          "marathi": "अ-iii, ब-i, क-ii"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanationEnglish": "All three city-river associations are correct.",
+      "explanationMarathi": "तीन्ही शहर-नदी जोड्या योग्य आहेत.",
+      "subject": "Geography",
+      "topic": "Cities and Rivers",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "Which region of Maharashtra receives the highest rainfall generally?",
+      "questionMarathi": "महाराष्ट्रातील कोणत्या प्रदेशात सामान्यतः सर्वाधिक पाऊस पडतो?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Western Konkan and windward Western Ghats",
+          "marathi": "पश्चिम कोकण व पश्चिम घाटाचा वाऱ्याच्या दिशेचा भाग"
+        },
+        {
+          "id": "B",
+          "english": "Marathwada",
+          "marathi": "मराठवाडा"
+        },
+        {
+          "id": "C",
+          "english": "Vidarbha interior",
+          "marathi": "विदर्भाचा अंतर्गत भाग"
+        },
+        {
+          "id": "D",
+          "english": "Solapur region",
+          "marathi": "सोलापूर प्रदेश"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanationEnglish": "The Konkan coast and windward slopes of the Western Ghats receive very heavy monsoon rainfall.",
+      "explanationMarathi": "कोकण किनारा आणि पश्चिम घाटाच्या वाऱ्याच्या दिशेच्या उतारांवर मान्सूनचा अतिवृष्टीचा प्रभाव असतो.",
+      "subject": "Geography",
+      "topic": "Rainfall",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "Which district is known for the Ajanta Caves?",
+      "questionMarathi": "अजिंठा लेणी कोणत्या जिल्ह्यात आहेत?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Aurangabad (Chhatrapati Sambhajinagar)",
+          "marathi": "औरंगाबाद (छत्रपती संभाजीनगर)"
+        },
+        {
+          "id": "B",
+          "english": "Nashik",
+          "marathi": "नाशिक"
+        },
+        {
+          "id": "C",
+          "english": "Pune",
+          "marathi": "पुणे"
+        },
+        {
+          "id": "D",
+          "english": "Satara",
+          "marathi": "सातारा"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanationEnglish": "The Ajanta Caves are located in the Chhatrapati Sambhajinagar region of Maharashtra.",
+      "explanationMarathi": "अजिंठा लेणी महाराष्ट्रातील छत्रपती संभाजीनगर परिसरात आहेत.",
+      "subject": "Geography",
+      "topic": "Tourism and Landforms",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "Which of the following is an important port on the Maharashtra coast?",
+      "questionMarathi": "खालीलपैकी महाराष्ट्राच्या किनाऱ्यावरील महत्त्वाचे बंदर कोणते?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Jalgaon",
+          "marathi": "जळगाव"
+        },
+        {
+          "id": "B",
+          "english": "Jawaharlal Nehru Port",
+          "marathi": "जवाहरलाल नेहरू बंदर"
+        },
+        {
+          "id": "C",
+          "english": "Nagpur",
+          "marathi": "नागपूर"
+        },
+        {
+          "id": "D",
+          "english": "Solapur",
+          "marathi": "सोलापूर"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanationEnglish": "Jawaharlal Nehru Port is a major port near Navi Mumbai.",
+      "explanationMarathi": "जवाहरलाल नेहरू बंदर हे नवी मुंबईजवळील प्रमुख बंदर आहे.",
+      "subject": "Geography",
+      "topic": "Transport",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "Which of the following is not a district of the Konkan division?",
+      "questionMarathi": "खालीलपैकी कोणता जिल्हा कोकण विभागात नाही?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Raigad",
+          "marathi": "रायगड"
+        },
+        {
+          "id": "B",
+          "english": "Sindhudurg",
+          "marathi": "सिंधुदुर्ग"
+        },
+        {
+          "id": "C",
+          "english": "Ratnagiri",
+          "marathi": "रत्नागिरी"
+        },
+        {
+          "id": "D",
+          "english": "Satara",
+          "marathi": "सातारा"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanationEnglish": "Satara belongs to the Pune division, not the Konkan division.",
+      "explanationMarathi": "सातारा जिल्हा पुणे विभागात येतो; तो कोकण विभागात नाही.",
+      "subject": "Geography",
+      "topic": "Administrative Geography",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "Which of the following is an instrument of monetary policy?",
+      "questionMarathi": "खालीलपैकी कोणते चलनविषयक धोरणाचे साधन आहे?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Public expenditure",
+          "marathi": "सार्वजनिक खर्च"
+        },
+        {
+          "id": "B",
+          "english": "Bank Rate",
+          "marathi": "बँक दर"
+        },
+        {
+          "id": "C",
+          "english": "Income tax",
+          "marathi": "आयकर"
+        },
+        {
+          "id": "D",
+          "english": "Government borrowing only",
+          "marathi": "फक्त सरकारी कर्ज"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanationEnglish": "Bank Rate is a monetary policy instrument used by the central bank.",
+      "explanationMarathi": "बँक दर हे मध्यवर्ती बँकेचे चलनविषयक धोरणाचे साधन आहे.",
+      "subject": "Economics",
+      "topic": "Monetary Policy",
+      "difficulty": "medium"
+    },
+    {
+      "questionEnglish": "Consider the following statements:\na. RBI is the main agency for implementing monetary policy.\nb. Bank Rate is an instrument of monetary policy.\nc. Monetary policy can influence credit conditions.",
+      "questionMarathi": "खालील विधाने विचारात घ्या :\nअ. चलनविषयक धोरण राबविणारी प्रमुख संस्था RBI आहे.\nब. बँक दर हे चलनविषयक धोरणाचे साधन आहे.\nक. चलनविषयक धोरण पतस्थितीवर परिणाम करू शकते.",
+      "options": [
+        {
+          "id": "A",
+          "english": "a and b only",
+          "marathi": "फक्त अ आणि ब"
+        },
+        {
+          "id": "B",
+          "english": "b and c only",
+          "marathi": "फक्त ब आणि क"
+        },
+        {
+          "id": "C",
+          "english": "a and c only",
+          "marathi": "फक्त अ आणि क"
+        },
+        {
+          "id": "D",
+          "english": "All of the above",
+          "marathi": "वरील सर्व"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanationEnglish": "All three statements are correct.",
+      "explanationMarathi": "तीन्ही विधाने बरोबर आहेत.",
+      "subject": "Economics",
+      "topic": "Monetary Policy",
+      "difficulty": "medium"
+    },
+    {
+      "questionEnglish": "Which of the following is a direct tax?",
+      "questionMarathi": "खालीलपैकी कोणता प्रत्यक्ष कर आहे?",
+      "options": [
+        {
+          "id": "A",
+          "english": "GST",
+          "marathi": "GST"
+        },
+        {
+          "id": "B",
+          "english": "Customs duty",
+          "marathi": "सीमाशुल्क"
+        },
+        {
+          "id": "C",
+          "english": "Income tax",
+          "marathi": "आयकर"
+        },
+        {
+          "id": "D",
+          "english": "Excise duty",
+          "marathi": "उत्पादन शुल्क"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanationEnglish": "Income tax is imposed directly on the income of the taxpayer.",
+      "explanationMarathi": "आयकर करदात्याच्या उत्पन्नावर थेट आकारला जातो.",
+      "subject": "Economics",
+      "topic": "Taxation",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "Which method is used for estimating national income?",
+      "questionMarathi": "राष्ट्रीय उत्पन्न मोजण्यासाठी खालीलपैकी कोणती पद्धत वापरली जाते?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Product method",
+          "marathi": "उत्पादन पद्धत"
+        },
+        {
+          "id": "B",
+          "english": "Income method",
+          "marathi": "उत्पन्न पद्धत"
+        },
+        {
+          "id": "C",
+          "english": "Expenditure method",
+          "marathi": "खर्च पद्धत"
+        },
+        {
+          "id": "D",
+          "english": "All of the above",
+          "marathi": "वरील सर्व"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanationEnglish": "National income can be estimated through product, income and expenditure approaches.",
+      "explanationMarathi": "राष्ट्रीय उत्पन्न उत्पादन, उत्पन्न आणि खर्च या तिन्ही दृष्टिकोनांतून मोजता येते.",
+      "subject": "Economics",
+      "topic": "National Income",
+      "difficulty": "medium"
+    },
+    {
+      "questionEnglish": "Which of the following is a component of fiscal policy?",
+      "questionMarathi": "खालीलपैकी कोणता राजकोषीय धोरणाचा घटक आहे?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Bank Rate only",
+          "marathi": "फक्त बँक दर"
+        },
+        {
+          "id": "B",
+          "english": "Taxes and public expenditure",
+          "marathi": "कर आणि सार्वजनिक खर्च"
+        },
+        {
+          "id": "C",
+          "english": "Open market operations only",
+          "marathi": "फक्त खुल्या बाजारातील व्यवहार"
+        },
+        {
+          "id": "D",
+          "english": "CRR only",
+          "marathi": "फक्त CRR"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanationEnglish": "Fiscal policy mainly uses government taxation, expenditure and borrowing.",
+      "explanationMarathi": "राजकोषीय धोरणात मुख्यतः सरकारी कर, खर्च आणि कर्ज यांचा वापर केला जातो.",
+      "subject": "Economics",
+      "topic": "Fiscal Policy",
+      "difficulty": "medium"
+    },
+    {
+      "questionEnglish": "A deficit budget means:",
+      "questionMarathi": "तुटीचा अर्थसंकल्प म्हणजे :",
+      "options": [
+        {
+          "id": "A",
+          "english": "Revenue exceeds expenditure",
+          "marathi": "महसूल खर्चापेक्षा जास्त असतो"
+        },
+        {
+          "id": "B",
+          "english": "Expenditure exceeds receipts",
+          "marathi": "खर्च प्राप्तीपेक्षा जास्त असतो"
+        },
+        {
+          "id": "C",
+          "english": "Exports exceed imports",
+          "marathi": "निर्यात आयातीपेक्षा जास्त असते"
+        },
+        {
+          "id": "D",
+          "english": "Taxes exceed expenditure",
+          "marathi": "कर खर्चापेक्षा जास्त असतात"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanationEnglish": "A deficit occurs when government expenditure exceeds the relevant receipts.",
+      "explanationMarathi": "सरकारी खर्च संबंधित प्राप्तीपेक्षा जास्त झाल्यास तूट निर्माण होते.",
+      "subject": "Economics",
+      "topic": "Budget",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "Which institution replaced the Planning Commission?",
+      "questionMarathi": "नियोजन आयोगाची जागा कोणत्या संस्थेने घेतली?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Finance Commission",
+          "marathi": "वित्त आयोग"
+        },
+        {
+          "id": "B",
+          "english": "NITI Aayog",
+          "marathi": "नीती आयोग"
+        },
+        {
+          "id": "C",
+          "english": "GST Council",
+          "marathi": "GST परिषद"
+        },
+        {
+          "id": "D",
+          "english": "RBI",
+          "marathi": "RBI"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanationEnglish": "NITI Aayog replaced the Planning Commission in 2015.",
+      "explanationMarathi": "२०१५ मध्ये नीती आयोगाने नियोजन आयोगाची जागा घेतली.",
+      "subject": "Economics",
+      "topic": "Planning",
+      "difficulty": "medium"
+    },
+    {
+      "questionEnglish": "The Second Five Year Plan was mainly based on which model?",
+      "questionMarathi": "दुसरी पंचवार्षिक योजना मुख्यतः कोणत्या मॉडेलवर आधारित होती?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Mahalanobis Model",
+          "marathi": "महालनोबिस मॉडेल"
+        },
+        {
+          "id": "B",
+          "english": "Gadgil Model",
+          "marathi": "गाडगीळ मॉडेल"
+        },
+        {
+          "id": "C",
+          "english": "Harrod-Domar Model",
+          "marathi": "हॅरॉड-डोमर मॉडेल"
+        },
+        {
+          "id": "D",
+          "english": "Lewis Model",
+          "marathi": "लुईस मॉडेल"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanationEnglish": "The Second Five Year Plan emphasized heavy and basic industries under the Mahalanobis strategy.",
+      "explanationMarathi": "दुसऱ्या पंचवार्षिक योजनेत महालनोबिस धोरणानुसार जड व मूलभूत उद्योगांवर भर देण्यात आला.",
+      "subject": "Economics",
+      "topic": "Five Year Plans",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "Consider the following statements about inflation:\na. Inflation means a sustained rise in the general price level.\nb. It reduces the purchasing power of money.\nc. It always benefits fixed-income earners.",
+      "questionMarathi": "महागाईबाबत खालील विधाने विचारात घ्या :\nअ. महागाई म्हणजे सर्वसाधारण किंमत पातळीत सातत्याने वाढ.\nब. महागाईमुळे पैशाची क्रयशक्ती कमी होते.\nक. महागाईचा निश्चित उत्पन्न गटाला नेहमी फायदा होतो.",
+      "options": [
+        {
+          "id": "A",
+          "english": "a and b only",
+          "marathi": "फक्त अ आणि ब"
+        },
+        {
+          "id": "B",
+          "english": "a and c only",
+          "marathi": "फक्त अ आणि क"
+        },
+        {
+          "id": "C",
+          "english": "b and c only",
+          "marathi": "फक्त ब आणि क"
+        },
+        {
+          "id": "D",
+          "english": "All are correct",
+          "marathi": "सर्व बरोबर"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanationEnglish": "Statements a and b are correct. Inflation generally hurts people whose nominal incomes do not adjust with prices.",
+      "explanationMarathi": "अ आणि ब बरोबर आहेत. किंमती वाढताना उत्पन्न त्यानुसार न वाढल्यास निश्चित उत्पन्न गटावर महागाईचा विपरीत परिणाम होतो.",
+      "subject": "Economics",
+      "topic": "Inflation",
+      "difficulty": "medium"
+    },
+    {
+      "questionEnglish": "Which of the following is included in the primary sector?",
+      "questionMarathi": "खालीलपैकी कोणता प्राथमिक क्षेत्रात समाविष्ट होतो?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Banking",
+          "marathi": "बँकिंग"
+        },
+        {
+          "id": "B",
+          "english": "Agriculture",
+          "marathi": "कृषी"
+        },
+        {
+          "id": "C",
+          "english": "Software services",
+          "marathi": "सॉफ्टवेअर सेवा"
+        },
+        {
+          "id": "D",
+          "english": "Insurance",
+          "marathi": "विमा"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanationEnglish": "Agriculture is a primary-sector activity because it directly uses natural resources.",
+      "explanationMarathi": "कृषी ही नैसर्गिक संसाधनांचा थेट वापर करणारी प्राथमिक क्षेत्रातील क्रिया आहे.",
+      "subject": "Economics",
+      "topic": "Sectors",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "Which organisation is responsible for conducting the Consumer Price Index for Industrial Workers?",
+      "questionMarathi": "औद्योगिक कामगारांसाठी ग्राहक किंमत निर्देशांक तयार करण्याचे काम कोणत्या संस्थेशी संबंधित आहे?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Labour Bureau",
+          "marathi": "कामगार ब्युरो"
+        },
+        {
+          "id": "B",
+          "english": "RBI",
+          "marathi": "RBI"
+        },
+        {
+          "id": "C",
+          "english": "SEBI",
+          "marathi": "SEBI"
+        },
+        {
+          "id": "D",
+          "english": "NITI Aayog",
+          "marathi": "नीती आयोग"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanationEnglish": "The Labour Bureau has traditionally been responsible for CPI-IW compilation.",
+      "explanationMarathi": "कामगार ब्युरोचा ग्राहक किंमत निर्देशांक-औद्योगिक कामगार या मालिकेशी संबंध आहे.",
+      "subject": "Economics",
+      "topic": "Price Index",
+      "difficulty": "medium"
+    },
+    {
+      "questionEnglish": "What is meant by per capita income?",
+      "questionMarathi": "दरडोई उत्पन्न म्हणजे काय?",
+      "options": [
+        {
+          "id": "A",
+          "english": "National income divided by population",
+          "marathi": "राष्ट्रीय उत्पन्न भागिले लोकसंख्या"
+        },
+        {
+          "id": "B",
+          "english": "Tax revenue divided by population",
+          "marathi": "कर महसूल भागिले लोकसंख्या"
+        },
+        {
+          "id": "C",
+          "english": "Exports divided by imports",
+          "marathi": "निर्यात भागिले आयात"
+        },
+        {
+          "id": "D",
+          "english": "GDP divided by area",
+          "marathi": "GDP भागिले क्षेत्रफळ"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanationEnglish": "Per capita income is obtained by dividing aggregate income by population.",
+      "explanationMarathi": "एकूण उत्पन्नाला लोकसंख्येने भागल्यास दरडोई उत्पन्न मिळते.",
+      "subject": "Economics",
+      "topic": "National Income",
+      "difficulty": "medium"
+    },
+    {
+      "questionEnglish": "Which of the following is not a function of money?",
+      "questionMarathi": "खालीलपैकी कोणते पैशाचे कार्य नाही?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Medium of exchange",
+          "marathi": "विनिमयाचे माध्यम"
+        },
+        {
+          "id": "B",
+          "english": "Measure of value",
+          "marathi": "मूल्य मापन"
+        },
+        {
+          "id": "C",
+          "english": "Store of value",
+          "marathi": "मूल्य साठवण"
+        },
+        {
+          "id": "D",
+          "english": "Production of goods",
+          "marathi": "वस्तूंचे उत्पादन"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanationEnglish": "Money performs exchange, value measurement and value-storage functions; it does not itself constitute production.",
+      "explanationMarathi": "पैशाची विनिमय माध्यम, मूल्य मापन व मूल्य साठवण ही कार्ये आहेत; वस्तूंचे उत्पादन हे पैशाचे कार्य नाही.",
+      "subject": "Economics",
+      "topic": "Money",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "Yellow-green algae are known as:",
+      "questionMarathi": "पिवळसर-हिरव्या शैवालांना काय म्हणतात?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Chlorophyceae",
+          "marathi": "क्लोरोफायसी"
+        },
+        {
+          "id": "B",
+          "english": "Cyanophyceae",
+          "marathi": "सायनोफायसी"
+        },
+        {
+          "id": "C",
+          "english": "Phaeophyceae",
+          "marathi": "फिओफायसी"
+        },
+        {
+          "id": "D",
+          "english": "Xanthophyceae",
+          "marathi": "झॅन्थोफायसी"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanationEnglish": "Xanthophyceae are commonly called yellow-green algae.",
+      "explanationMarathi": "झॅन्थोफायसीला पिवळसर-हिरवे शैवाल म्हणतात.",
+      "subject": "General Science",
+      "topic": "Biology",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "Bunchy top disease is most commonly associated with which crop?",
+      "questionMarathi": "'बंची टॉप' रोग प्रामुख्याने कोणत्या पिकात आढळतो?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Papaya",
+          "marathi": "पपई"
+        },
+        {
+          "id": "B",
+          "english": "Citrus",
+          "marathi": "लिंबूवर्गीय"
+        },
+        {
+          "id": "C",
+          "english": "Sugarcane",
+          "marathi": "ऊस"
+        },
+        {
+          "id": "D",
+          "english": "Banana",
+          "marathi": "केळी"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanationEnglish": "Bunchy top is a well-known viral disease of banana.",
+      "explanationMarathi": "बंची टॉप हा केळी पिकातील प्रसिद्ध विषाणूजन्य रोग आहे.",
+      "subject": "General Science",
+      "topic": "Plant Diseases",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "UIP launched in India in 1985 stands for:",
+      "questionMarathi": "भारतामध्ये १९८५ मध्ये सुरू झालेल्या UIP चा पूर्ण अर्थ काय?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Universal Immunization Programme",
+          "marathi": "सार्वत्रिक लसीकरण कार्यक्रम"
+        },
+        {
+          "id": "B",
+          "english": "Unique Identification Programme",
+          "marathi": "युनिक आयडेंटिफिकेशन प्रोग्राम"
+        },
+        {
+          "id": "C",
+          "english": "United Indian Policy",
+          "marathi": "युनायटेड इंडियन पॉलिसी"
+        },
+        {
+          "id": "D",
+          "english": "Universal Insurance Programme",
+          "marathi": "सार्वत्रिक विमा कार्यक्रम"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanationEnglish": "UIP stands for Universal Immunization Programme.",
+      "explanationMarathi": "UIP म्हणजे Universal Immunization Programme अर्थात सार्वत्रिक लसीकरण कार्यक्रम.",
+      "subject": "General Science",
+      "topic": "Public Health",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "If two resistances of 10 ohm and 20 ohm are connected in series, their equivalent resistance is:",
+      "questionMarathi": "१० ओहम आणि २० ओहम प्रतिरोधक श्रेणीक्रमात जोडल्यास समतुल्य प्रतिरोध किती असेल?",
+      "options": [
+        {
+          "id": "A",
+          "english": "5 ohm",
+          "marathi": "५ ओहम"
+        },
+        {
+          "id": "B",
+          "english": "10 ohm",
+          "marathi": "१० ओहम"
+        },
+        {
+          "id": "C",
+          "english": "20 ohm",
+          "marathi": "२० ओहम"
+        },
+        {
+          "id": "D",
+          "english": "30 ohm",
+          "marathi": "३० ओहम"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanationEnglish": "In series, resistances are added: 10 + 20 = 30 ohms.",
+      "explanationMarathi": "श्रेणीक्रमात प्रतिरोधांची बेरीज होते : १० + २० = ३० ओहम.",
+      "subject": "General Science",
+      "topic": "Electricity",
+      "difficulty": "hard"
+    },
+    {
+      "questionEnglish": "When white light passes through a prism and separates into constituent colours, the phenomenon is called:",
+      "questionMarathi": "पांढरा प्रकाश प्रिझममधून जाताना त्याच्या घटक रंगांमध्ये विभक्त होण्याच्या घटनेला काय म्हणतात?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Reflection",
+          "marathi": "परावर्तन"
+        },
+        {
+          "id": "B",
+          "english": "Refraction",
+          "marathi": "अपवर्तन"
+        },
+        {
+          "id": "C",
+          "english": "Dispersion",
+          "marathi": "वर्णविक्षेपण"
+        },
+        {
+          "id": "D",
+          "english": "Diffraction",
+          "marathi": "विवर्तन"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanationEnglish": "Separation of white light into its constituent colours is dispersion.",
+      "explanationMarathi": "पांढऱ्या प्रकाशाचे घटक रंगांमध्ये विभाजन होणे म्हणजे वर्णविक्षेपण.",
+      "subject": "General Science",
+      "topic": "Optics",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "If a current of 0.2 A passes through a resistance of 100 ohm for 60 seconds, the heat produced is:",
+      "questionMarathi": "१०० ओहम प्रतिरोधातून ०.२ A विद्युतप्रवाह ६० सेकंद वाहिल्यास निर्माण होणारी उष्णता किती?",
+      "options": [
+        {
+          "id": "A",
+          "english": "24 J",
+          "marathi": "२४ जूल"
+        },
+        {
+          "id": "B",
+          "english": "120 J",
+          "marathi": "१२० जूल"
+        },
+        {
+          "id": "C",
+          "english": "240 J",
+          "marathi": "२४० जूल"
+        },
+        {
+          "id": "D",
+          "english": "2400 J",
+          "marathi": "२४०० जूल"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanationEnglish": "Using H = I²Rt: (0.2)² × 100 × 60 = 240 J.",
+      "explanationMarathi": "H = I²Rt नुसार (०.२)² × १०० × ६० = २४० जूल.",
+      "subject": "General Science",
+      "topic": "Heat and Electricity",
+      "difficulty": "hard"
+    },
+    {
+      "questionEnglish": "Which blood cells are mainly responsible for immunity?",
+      "questionMarathi": "प्रतिकारशक्तीसाठी मुख्यतः कोणत्या रक्तपेशी जबाबदार असतात?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Red blood cells",
+          "marathi": "लाल रक्तपेशी"
+        },
+        {
+          "id": "B",
+          "english": "White blood cells",
+          "marathi": "पांढऱ्या रक्तपेशी"
+        },
+        {
+          "id": "C",
+          "english": "Platelets",
+          "marathi": "प्लेटलेट्स"
+        },
+        {
+          "id": "D",
+          "english": "Plasma cells only",
+          "marathi": "फक्त प्लाझ्मा पेशी"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanationEnglish": "White blood cells play major roles in immune defense.",
+      "explanationMarathi": "पांढऱ्या रक्तपेशी शरीराच्या रोगप्रतिकारक संरक्षणात महत्त्वाची भूमिका बजावतात.",
+      "subject": "General Science",
+      "topic": "Human Biology",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "Which vitamin is mainly produced in the skin on exposure to sunlight?",
+      "questionMarathi": "सूर्यप्रकाशाच्या संपर्कात त्वचेत मुख्यतः कोणते जीवनसत्त्व तयार होते?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Vitamin A",
+          "marathi": "जीवनसत्त्व A"
+        },
+        {
+          "id": "B",
+          "english": "Vitamin B12",
+          "marathi": "जीवनसत्त्व B12"
+        },
+        {
+          "id": "C",
+          "english": "Vitamin C",
+          "marathi": "जीवनसत्त्व C"
+        },
+        {
+          "id": "D",
+          "english": "Vitamin D",
+          "marathi": "जीवनसत्त्व D"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanationEnglish": "Sunlight enables the skin to synthesize vitamin D.",
+      "explanationMarathi": "सूर्यप्रकाशाच्या मदतीने त्वचेत जीवनसत्त्व D तयार होते.",
+      "subject": "General Science",
+      "topic": "Nutrition",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "Which gas is essential for aerobic respiration?",
+      "questionMarathi": "वायूश्वसनासाठी कोणता वायू आवश्यक आहे?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Nitrogen",
+          "marathi": "नायट्रोजन"
+        },
+        {
+          "id": "B",
+          "english": "Oxygen",
+          "marathi": "ऑक्सिजन"
+        },
+        {
+          "id": "C",
+          "english": "Carbon dioxide",
+          "marathi": "कार्बन डायऑक्साइड"
+        },
+        {
+          "id": "D",
+          "english": "Hydrogen",
+          "marathi": "हायड्रोजन"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanationEnglish": "Oxygen is required for aerobic cellular respiration.",
+      "explanationMarathi": "वायूश्वसनामध्ये ऑक्सिजन आवश्यक असतो.",
+      "subject": "General Science",
+      "topic": "Respiration",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "The SI unit of electric power is:",
+      "questionMarathi": "विद्युत शक्तीचे SI एकक कोणते?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Joule",
+          "marathi": "जूल"
+        },
+        {
+          "id": "B",
+          "english": "Watt",
+          "marathi": "वॅट"
+        },
+        {
+          "id": "C",
+          "english": "Volt",
+          "marathi": "व्होल्ट"
+        },
+        {
+          "id": "D",
+          "english": "Ampere",
+          "marathi": "अँपिअर"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanationEnglish": "The SI unit of power is watt.",
+      "explanationMarathi": "शक्तीचे SI एकक वॅट आहे.",
+      "subject": "General Science",
+      "topic": "Physics",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "Which organ filters waste products from blood and forms urine?",
+      "questionMarathi": "रक्तातील अपायकारक पदार्थ गाळून मूत्र तयार करणारा अवयव कोणता?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Liver",
+          "marathi": "यकृत"
+        },
+        {
+          "id": "B",
+          "english": "Heart",
+          "marathi": "हृदय"
+        },
+        {
+          "id": "C",
+          "english": "Kidney",
+          "marathi": "मूत्रपिंड"
+        },
+        {
+          "id": "D",
+          "english": "Lung",
+          "marathi": "फुफ्फुस"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanationEnglish": "Kidneys filter blood and form urine.",
+      "explanationMarathi": "मूत्रपिंड रक्त गाळून मूत्र तयार करतात.",
+      "subject": "General Science",
+      "topic": "Human Physiology",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "The pH value of a neutral solution at room temperature is approximately:",
+      "questionMarathi": "खोलीच्या तापमानाला उदासीन द्रावणाचे pH मूल्य साधारण किती असते?",
+      "options": [
+        {
+          "id": "A",
+          "english": "2",
+          "marathi": "२"
+        },
+        {
+          "id": "B",
+          "english": "5",
+          "marathi": "५"
+        },
+        {
+          "id": "C",
+          "english": "7",
+          "marathi": "७"
+        },
+        {
+          "id": "D",
+          "english": "10",
+          "marathi": "१०"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanationEnglish": "A neutral aqueous solution has a pH of approximately 7.",
+      "explanationMarathi": "उदासीन जलीय द्रावणाचा pH साधारण ७ असतो.",
+      "subject": "General Science",
+      "topic": "Chemistry",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "Which microorganism is used in the preparation of bread?",
+      "questionMarathi": "ब्रेड तयार करण्यासाठी कोणता सूक्ष्मजीव वापरला जातो?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Yeast",
+          "marathi": "यीस्ट"
+        },
+        {
+          "id": "B",
+          "english": "Virus",
+          "marathi": "विषाणू"
+        },
+        {
+          "id": "C",
+          "english": "Algae",
+          "marathi": "शैवाल"
+        },
+        {
+          "id": "D",
+          "english": "Protozoa",
+          "marathi": "प्रोटोझोआ"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanationEnglish": "Yeast ferments sugars and produces carbon dioxide, helping bread dough rise.",
+      "explanationMarathi": "यीस्ट साखरेचे किण्वन करून कार्बन डायऑक्साइड तयार करते, ज्यामुळे ब्रेडचे पीठ फुगते.",
+      "subject": "General Science",
+      "topic": "Microbiology",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "Which metal is liquid at room temperature?",
+      "questionMarathi": "खोलीच्या तापमानाला द्रव अवस्थेत असणारा धातू कोणता?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Iron",
+          "marathi": "लोह"
+        },
+        {
+          "id": "B",
+          "english": "Mercury",
+          "marathi": "पारा"
+        },
+        {
+          "id": "C",
+          "english": "Copper",
+          "marathi": "तांबे"
+        },
+        {
+          "id": "D",
+          "english": "Aluminium",
+          "marathi": "अॅल्युमिनियम"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanationEnglish": "Mercury is a metal that is liquid at ordinary room temperature.",
+      "explanationMarathi": "पारा हा सामान्य खोलीच्या तापमानाला द्रव अवस्थेत असणारा धातू आहे.",
+      "subject": "General Science",
+      "topic": "Chemistry",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "Who became the Chairman of ISRO in January 2022?",
+      "questionMarathi": "जानेवारी २०२२ मध्ये ISRO चे अध्यक्ष म्हणून कोणाची नियुक्ती झाली?",
+      "options": [
+        {
+          "id": "A",
+          "english": "K. Sivan",
+          "marathi": "के. सिवन"
+        },
+        {
+          "id": "B",
+          "english": "S. Somnath",
+          "marathi": "एस. सोमनाथ"
+        },
+        {
+          "id": "C",
+          "english": "K. Radhakrishnan",
+          "marathi": "के. राधाकृष्णन"
+        },
+        {
+          "id": "D",
+          "english": "G. Madhavan Nair",
+          "marathi": "जी. माधवन नायर"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanationEnglish": "S. Somnath took charge as ISRO Chairman in January 2022.",
+      "explanationMarathi": "एस. सोमनाथ यांनी जानेवारी २०२२ मध्ये ISRO अध्यक्षपदाची जबाबदारी स्वीकारली.",
+      "subject": "Current Affairs",
+      "topic": "Space",
+      "difficulty": "medium"
+    },
+    {
+      "questionEnglish": "Who was the first Indian woman to win two medals at the Tokyo 2020 Paralympic Games?",
+      "questionMarathi": "टोकियो २०२० पॅरालिम्पिकमध्ये दोन पदके जिंकणारी पहिली भारतीय महिला कोण?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Avani Lekhara",
+          "marathi": "अवनी लेखरा"
+        },
+        {
+          "id": "B",
+          "english": "Bhavina Patel",
+          "marathi": "भाविना पटेल"
+        },
+        {
+          "id": "C",
+          "english": "Ekta Bhyan",
+          "marathi": "एकता भ्यान"
+        },
+        {
+          "id": "D",
+          "english": "Kashish Lakra",
+          "marathi": "कशिश लाकरा"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanationEnglish": "Avani Lekhara won two medals at the Tokyo 2020 Paralympics.",
+      "explanationMarathi": "अवनी लेखरा यांनी टोकियो २०२० पॅरालिम्पिकमध्ये दोन पदके जिंकली.",
+      "subject": "Current Affairs",
+      "topic": "Sports",
+      "difficulty": "medium"
+    },
+    {
+      "questionEnglish": "Which credit scheme was launched as a pilot for prisoners of Yerwada Central Jail in 2022?",
+      "questionMarathi": "येरवडा मध्यवर्ती कारागृहातील कैद्यांसाठी २०२२ मध्ये प्रायोगिक तत्त्वावर कोणती कर्ज योजना सुरू करण्यात आली?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Sahanubhuti Scheme",
+          "marathi": "सहानुभूती योजना"
+        },
+        {
+          "id": "B",
+          "english": "Aage Badho Scheme",
+          "marathi": "आगे बढो योजना"
+        },
+        {
+          "id": "C",
+          "english": "Bank for Prisoners",
+          "marathi": "बँक फॉर प्रिझनर्स"
+        },
+        {
+          "id": "D",
+          "english": "Jivhala Scheme",
+          "marathi": "जिव्हाळा योजना"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanationEnglish": "Jivhala was launched as a credit scheme for inmates of Yerwada Central Jail.",
+      "explanationMarathi": "जिव्हाळा ही येरवडा मध्यवर्ती कारागृहातील कैद्यांसाठी सुरू केलेली कर्ज योजना होती.",
+      "subject": "Current Affairs",
+      "topic": "Maharashtra Schemes",
+      "difficulty": "medium"
+    },
+    {
+      "questionEnglish": "Who received the Boltzmann Medal for 2022 as the first Indian physicist to receive it?",
+      "questionMarathi": "२०२२ चे बोल्ट्झमन पदक मिळवणारे पहिले भारतीय भौतिकशास्त्रज्ञ कोण?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Deepak Dhar",
+          "marathi": "दीपक धर"
+        },
+        {
+          "id": "B",
+          "english": "Ashok Kumar Barua",
+          "marathi": "अशोक कुमार बरुआ"
+        },
+        {
+          "id": "C",
+          "english": "Bimla Buti",
+          "marathi": "बिमला बुटी"
+        },
+        {
+          "id": "D",
+          "english": "D.D. Bhawalkar",
+          "marathi": "डी. डी. भवाळकर"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanationEnglish": "Professor Deepak Dhar was reported as the first Indian physicist to receive the Boltzmann Medal.",
+      "explanationMarathi": "प्रोफेसर दीपक धर हे बोल्ट्झमन पदक मिळवणारे पहिले भारतीय भौतिकशास्त्रज्ञ म्हणून नमूद केले गेले.",
+      "subject": "Current Affairs",
+      "topic": "Awards",
+      "difficulty": "medium"
+    },
+    {
+      "questionEnglish": "Which country hosted the G20 Summit in 2023?",
+      "questionMarathi": "२०२३ मध्ये G20 शिखर परिषद कोणत्या देशाने आयोजित केली?",
+      "options": [
+        {
+          "id": "A",
+          "english": "India",
+          "marathi": "भारत"
+        },
+        {
+          "id": "B",
+          "english": "Indonesia",
+          "marathi": "इंडोनेशिया"
+        },
+        {
+          "id": "C",
+          "english": "Brazil",
+          "marathi": "ब्राझील"
+        },
+        {
+          "id": "D",
+          "english": "Italy",
+          "marathi": "इटली"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanationEnglish": "India hosted the G20 Leaders' Summit in New Delhi in 2023.",
+      "explanationMarathi": "भारताने २०२३ मध्ये नवी दिल्ली येथे G20 नेत्यांची शिखर परिषद आयोजित केली.",
+      "subject": "Current Affairs",
+      "topic": "International Events",
+      "difficulty": "medium"
+    },
+    {
+      "questionEnglish": "Which mission successfully demonstrated India's soft-landing capability on the Moon in 2023?",
+      "questionMarathi": "२०२३ मध्ये चंद्रावर सॉफ्ट लँडिंगची भारताची क्षमता सिद्ध करणारे मिशन कोणते?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Chandrayaan-1",
+          "marathi": "चांद्रयान-१"
+        },
+        {
+          "id": "B",
+          "english": "Chandrayaan-2",
+          "marathi": "चांद्रयान-२"
+        },
+        {
+          "id": "C",
+          "english": "Chandrayaan-3",
+          "marathi": "चांद्रयान-३"
+        },
+        {
+          "id": "D",
+          "english": "Mangalyaan",
+          "marathi": "मंगळयान"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanationEnglish": "Chandrayaan-3 achieved a successful soft landing on the Moon in August 2023.",
+      "explanationMarathi": "चांद्रयान-३ ने ऑगस्ट २०२३ मध्ये चंद्रावर यशस्वी सॉफ्ट लँडिंग केले.",
+      "subject": "Current Affairs",
+      "topic": "Space",
+      "difficulty": "medium"
+    },
+    {
+      "questionEnglish": "Which Indian city hosted the 2023 National Games?",
+      "questionMarathi": "२०२३ च्या राष्ट्रीय क्रीडा स्पर्धांचे आयोजन कोणत्या राज्यात झाले?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Goa",
+          "marathi": "गोवा"
+        },
+        {
+          "id": "B",
+          "english": "Gujarat",
+          "marathi": "गुजरात"
+        },
+        {
+          "id": "C",
+          "english": "Maharashtra",
+          "marathi": "महाराष्ट्र"
+        },
+        {
+          "id": "D",
+          "english": "Kerala",
+          "marathi": "केरळ"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanationEnglish": "The 37th National Games were held in Goa in 2023.",
+      "explanationMarathi": "३७ व्या राष्ट्रीय क्रीडा स्पर्धा २०२३ मध्ये गोव्यात झाल्या.",
+      "subject": "Current Affairs",
+      "topic": "Sports",
+      "difficulty": "medium"
+    },
+    {
+      "questionEnglish": "Which award is associated with India's highest civilian honour?",
+      "questionMarathi": "भारताचा सर्वोच्च नागरी सन्मान कोणता आहे?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Padma Shri",
+          "marathi": "पद्मश्री"
+        },
+        {
+          "id": "B",
+          "english": "Padma Bhushan",
+          "marathi": "पद्मभूषण"
+        },
+        {
+          "id": "C",
+          "english": "Padma Vibhushan",
+          "marathi": "पद्मविभूषण"
+        },
+        {
+          "id": "D",
+          "english": "Bharat Ratna",
+          "marathi": "भारतरत्न"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanationEnglish": "Bharat Ratna is India's highest civilian award.",
+      "explanationMarathi": "भारतरत्न हा भारताचा सर्वोच्च नागरी सन्मान आहे.",
+      "subject": "Current Affairs",
+      "topic": "Awards",
+      "difficulty": "medium"
+    },
+    {
+      "questionEnglish": "Which number will replace the question mark in the series?\n18, 34, 54, 78, ?",
+      "questionMarathi": "खालील संख्या मालिकेत प्रश्नचिन्हाच्या जागी कोणती संख्या येईल?\n१८, ३४, ५४, ७८, ?",
+      "options": [
+        {
+          "id": "A",
+          "english": "104",
+          "marathi": "१०४"
+        },
+        {
+          "id": "B",
+          "english": "106",
+          "marathi": "१०६"
+        },
+        {
+          "id": "C",
+          "english": "108",
+          "marathi": "१०८"
+        },
+        {
+          "id": "D",
+          "english": "110",
+          "marathi": "११०"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanationEnglish": "The differences are 16, 20, 24, so the next difference is 28. Therefore 78 + 28 = 106.",
+      "explanationMarathi": "फरक १६, २०, २४ असे वाढत आहेत; पुढील फरक २८. त्यामुळे ७८ + २८ = १०६.",
+      "subject": "Reasoning",
+      "topic": "Number Series",
+      "difficulty": "hard"
+    },
+    {
+      "questionEnglish": "If CAT = 24 and DOG = 26 according to a certain rule, then BAT = ?",
+      "questionMarathi": "एका विशिष्ट नियमानुसार CAT = 24 आणि DOG = 26 असल्यास BAT = ?",
+      "options": [
+        {
+          "id": "A",
+          "english": "21",
+          "marathi": "२१"
+        },
+        {
+          "id": "B",
+          "english": "23",
+          "marathi": "२३"
+        },
+        {
+          "id": "C",
+          "english": "25",
+          "marathi": "२५"
+        },
+        {
+          "id": "D",
+          "english": "27",
+          "marathi": "२७"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanationEnglish": "Using alphabetical positions and adding the letters: B(2)+A(1)+T(20)=23.",
+      "explanationMarathi": "अक्षरांची वर्णमाला क्रमांक बेरीज केल्यास B(2)+A(1)+T(20)=23.",
+      "subject": "Reasoning",
+      "topic": "Coding",
+      "difficulty": "medium"
+    },
+    {
+      "questionEnglish": "A person walks 10 m north, then 10 m east, then 10 m south. In which direction is the person from the starting point?",
+      "questionMarathi": "एक व्यक्ती १० मीटर उत्तरेस, नंतर १० मीटर पूर्वेस आणि नंतर १० मीटर दक्षिणेस जाते. सुरुवातीच्या ठिकाणाच्या तुलनेत ती कोणत्या दिशेला आहे?",
+      "options": [
+        {
+          "id": "A",
+          "english": "North",
+          "marathi": "उत्तर"
+        },
+        {
+          "id": "B",
+          "english": "South",
+          "marathi": "दक्षिण"
+        },
+        {
+          "id": "C",
+          "english": "East",
+          "marathi": "पूर्व"
+        },
+        {
+          "id": "D",
+          "english": "West",
+          "marathi": "पश्चिम"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanationEnglish": "The north and south movements cancel, leaving the person 10 m east of the starting point.",
+      "explanationMarathi": "उत्तर व दक्षिण दिशेची हालचाल परस्पर रद्द होते; व्यक्ती सुरुवातीच्या ठिकाणापासून १० मीटर पूर्वेला राहते.",
+      "subject": "Reasoning",
+      "topic": "Direction Sense",
+      "difficulty": "hard"
+    },
+    {
+      "questionEnglish": "A train crosses a pole in 12 seconds at 54 km/h. What is the length of the train?",
+      "questionMarathi": "५४ किमी/ता वेगाने धावणारी रेल्वे एका खांबाला १२ सेकंदांत ओलांडते. रेल्वेची लांबी किती?",
+      "options": [
+        {
+          "id": "A",
+          "english": "150 m",
+          "marathi": "१५० मी."
+        },
+        {
+          "id": "B",
+          "english": "180 m",
+          "marathi": "१८० मी."
+        },
+        {
+          "id": "C",
+          "english": "200 m",
+          "marathi": "२०० मी."
+        },
+        {
+          "id": "D",
+          "english": "220 m",
+          "marathi": "२२० मी."
+        }
+      ],
+      "correctOptionId": "B",
+      "explanationEnglish": "54 km/h = 15 m/s. Length = 15 × 12 = 180 m.",
+      "explanationMarathi": "५४ किमी/ता = १५ मी./से. लांबी = १५ × १२ = १८० मीटर.",
+      "subject": "Reasoning",
+      "topic": "Trains",
+      "difficulty": "hard"
+    },
+    {
+      "questionEnglish": "A tap fills a tank in 6 hours. A leak alone empties the full tank in 12 hours. If both operate together, the tank will be filled in:",
+      "questionMarathi": "एक नळ टाकी ६ तासांत भरतो. गळतीमुळे पूर्ण टाकी १२ तासांत रिकामी होते. दोन्ही एकत्र सुरू असल्यास टाकी किती वेळात भरेल?",
+      "options": [
+        {
+          "id": "A",
+          "english": "8 hours",
+          "marathi": "८ तास"
+        },
+        {
+          "id": "B",
+          "english": "10 hours",
+          "marathi": "१० तास"
+        },
+        {
+          "id": "C",
+          "english": "12 hours",
+          "marathi": "१२ तास"
+        },
+        {
+          "id": "D",
+          "english": "18 hours",
+          "marathi": "१८ तास"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanationEnglish": "Net rate = 1/6 - 1/12 = 1/12 tank per hour, so filling time is 12 hours.",
+      "explanationMarathi": "निव्वळ दर = १/६ - १/१२ = १/१२ टाकी प्रति तास; त्यामुळे वेळ १२ तास.",
+      "subject": "Reasoning",
+      "topic": "Pipes and Cisterns",
+      "difficulty": "medium"
+    },
+    {
+      "questionEnglish": "60% of 1500 is equal to 75% of x. Find x.",
+      "questionMarathi": "१५०० च्या ६०% इतके  x च्या ७५% बरोबर आहे. x चे मूल्य शोधा.",
+      "options": [
+        {
+          "id": "A",
+          "english": "1000",
+          "marathi": "१०००"
+        },
+        {
+          "id": "B",
+          "english": "1200",
+          "marathi": "१२००"
+        },
+        {
+          "id": "C",
+          "english": "1250",
+          "marathi": "१२५०"
+        },
+        {
+          "id": "D",
+          "english": "1400",
+          "marathi": "१४००"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanationEnglish": "0.60 × 1500 = 900. Therefore 0.75x = 900 and x = 1200.",
+      "explanationMarathi": "०.६० × १५०० = ९००. म्हणून ०.७५x = ९०० आणि x = १२००.",
+      "subject": "Reasoning",
+      "topic": "Percentage",
+      "difficulty": "medium"
+    },
+    {
+      "questionEnglish": "If all roses are flowers and some flowers are red, which conclusion is definitely true?",
+      "questionMarathi": "सर्व गुलाब फुले आहेत आणि काही फुले लाल आहेत. खालीलपैकी निश्चित निष्कर्ष कोणता?",
+      "options": [
+        {
+          "id": "A",
+          "english": "All roses are red",
+          "marathi": "सर्व गुलाब लाल आहेत"
+        },
+        {
+          "id": "B",
+          "english": "Some roses are red",
+          "marathi": "काही गुलाब लाल आहेत"
+        },
+        {
+          "id": "C",
+          "english": "All roses are flowers",
+          "marathi": "सर्व गुलाब फुले आहेत"
+        },
+        {
+          "id": "D",
+          "english": "No rose is red",
+          "marathi": "एकही गुलाब लाल नाही"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanationEnglish": "The first statement directly establishes that all roses are flowers.",
+      "explanationMarathi": "पहिल्या विधानानुसार सर्व गुलाब फुले आहेत हा निष्कर्ष थेट निश्चित होतो.",
+      "subject": "Reasoning",
+      "topic": "Logical Reasoning",
+      "difficulty": "medium"
+    },
+    {
+      "questionEnglish": "In a certain code, MANGO is written as NBOHP. How is APPLE written using the same rule?",
+      "questionMarathi": "एका सांकेतिक भाषेत MANGO हे NBOHP असे लिहिले जाते. त्याच नियमानुसार APPLE कसे लिहाल?",
+      "options": [
+        {
+          "id": "A",
+          "english": "BQQMF",
+          "marathi": "BQQMF"
+        },
+        {
+          "id": "B",
+          "english": "BPPMF",
+          "marathi": "BPPMF"
+        },
+        {
+          "id": "C",
+          "english": "BQQLE",
+          "marathi": "BQQLE"
+        },
+        {
+          "id": "D",
+          "english": "ZOO KD",
+          "marathi": "ZOO KD"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanationEnglish": "Each letter is shifted one position forward: A→B, P→Q, P→Q, L→M, E→F, giving BQQMF.",
+      "explanationMarathi": "प्रत्येक अक्षर एक स्थान पुढे नेले आहे: A→B, P→Q, P→Q, L→M, E→F; म्हणून BQQMF.",
+      "subject": "Reasoning",
+      "topic": "Coding-Decoding",
+      "difficulty": "medium"
+    },
+    {
+      "questionEnglish": "Which Article provides for the establishment of a Finance Commission?",
+      "questionMarathi": "वित्त आयोगाच्या स्थापनेची तरतूद कोणत्या कलमात आहे?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Article 280",
+          "marathi": "कलम २८०"
+        },
+        {
+          "id": "B",
+          "english": "Article 324",
+          "marathi": "कलम ३२४"
+        },
+        {
+          "id": "C",
+          "english": "Article 148",
+          "marathi": "कलम १४८"
+        },
+        {
+          "id": "D",
+          "english": "Article 243",
+          "marathi": "कलम २४३"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanationEnglish": "Article 280 provides for the Finance Commission.",
+      "explanationMarathi": "कलम २८० मध्ये वित्त आयोगाची तरतूद आहे.",
+      "subject": "Polity",
+      "topic": "Finance Commission",
+      "difficulty": "medium"
+    },
+    {
+      "questionEnglish": "Who was the first woman teacher of modern India associated with the pioneering girls' school at Pune?",
+      "questionMarathi": "पुण्यातील मुलींच्या अग्रणी शाळेशी संबंधित आधुनिक भारतातील पहिल्या महिला शिक्षिका म्हणून कोण ओळखल्या जातात?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Savitribai Phule",
+          "marathi": "सावित्रीबाई फुले"
+        },
+        {
+          "id": "B",
+          "english": "Pandita Ramabai",
+          "marathi": "पंडिता रमाबाई"
+        },
+        {
+          "id": "C",
+          "english": "Ramabai Ranade",
+          "marathi": "रमाबाई रानडे"
+        },
+        {
+          "id": "D",
+          "english": "Tarabai Shinde",
+          "marathi": "ताराबाई शिंदे"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanationEnglish": "Savitribai Phule was a pioneering woman educator who taught girls in Pune.",
+      "explanationMarathi": "सावित्रीबाई फुले या अग्रणी महिला शिक्षिका होत्या आणि त्यांनी पुण्यात मुलींच्या शिक्षणासाठी कार्य केले.",
+      "subject": "History",
+      "topic": "Women Reformers",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "Which river is a major tributary of the Godavari in Maharashtra?",
+      "questionMarathi": "महाराष्ट्रातील गोदावरी नदीची प्रमुख उपनदी कोणती?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Pravara",
+          "marathi": "प्रवरा"
+        },
+        {
+          "id": "B",
+          "english": "Tapi",
+          "marathi": "तापी"
+        },
+        {
+          "id": "C",
+          "english": "Krishna",
+          "marathi": "कृष्णा"
+        },
+        {
+          "id": "D",
+          "english": "Nira",
+          "marathi": "नीरा"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanationEnglish": "Pravara is an important tributary of the Godavari.",
+      "explanationMarathi": "प्रवरा ही गोदावरीची महत्त्वाची उपनदी आहे.",
+      "subject": "Geography",
+      "topic": "Rivers",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "Which of the following is included in non-tax revenue of the government?",
+      "questionMarathi": "खालीलपैकी कोणता सरकारच्या करेतर महसुलात समाविष्ट होतो?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Income tax",
+          "marathi": "आयकर"
+        },
+        {
+          "id": "B",
+          "english": "GST",
+          "marathi": "GST"
+        },
+        {
+          "id": "C",
+          "english": "Fees and fines",
+          "marathi": "शुल्क व दंड"
+        },
+        {
+          "id": "D",
+          "english": "Customs duty",
+          "marathi": "सीमाशुल्क"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanationEnglish": "Fees and fines are examples of non-tax revenue; taxes are tax revenue.",
+      "explanationMarathi": "शुल्क व दंड हे करेतर महसुलाचे उदाहरण आहे; आयकर, GST व सीमाशुल्क हे कर महसुलाशी संबंधित आहेत.",
+      "subject": "Economics",
+      "topic": "Public Finance",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "Which Article of the Constitution deals with the office of the Vice-President of India?",
+      "questionMarathi": "भारतीय राज्यघटनेतील कोणते कलम भारताच्या उपराष्ट्रपती पदाशी संबंधित आहे?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Article 63",
+          "marathi": "Article 63"
+        },
+        {
+          "id": "B",
+          "english": "Article 64",
+          "marathi": "Article 64"
+        },
+        {
+          "id": "C",
+          "english": "Article 66",
+          "marathi": "Article 66"
+        },
+        {
+          "id": "D",
+          "english": "Article 71",
+          "marathi": "Article 71"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanationEnglish": "Article 63 provides for the Vice-President of India.",
+      "explanationMarathi": "कलम ६३ मध्ये भारताच्या उपराष्ट्रपती पदाची तरतूद आहे.",
+      "subject": "Polity",
+      "topic": "Constitutional Offices",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "The President of India is elected by an electoral college consisting of:",
+      "questionMarathi": "भारताच्या राष्ट्रपतींची निवड कोणत्या निवडणूक मंडळाद्वारे केली जाते?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Elected MPs and elected MLAs",
+          "marathi": "Elected MPs and elected MLAs"
+        },
+        {
+          "id": "B",
+          "english": "All MPs and all MLAs",
+          "marathi": "All MPs and all MLAs"
+        },
+        {
+          "id": "C",
+          "english": "Only elected MPs",
+          "marathi": "Only elected MPs"
+        },
+        {
+          "id": "D",
+          "english": "Only elected MLAs",
+          "marathi": "Only elected MLAs"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanationEnglish": "The electoral college consists of elected members of both Houses of Parliament and elected members of State Legislative Assemblies.",
+      "explanationMarathi": "निवडणूक मंडळात संसदेच्या दोन्ही सभागृहांचे निर्वाचित सदस्य आणि राज्य विधानसभांचे निर्वाचित सदस्य असतात.",
+      "subject": "Polity",
+      "topic": "President",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "Consider the following statements:\n(a) Fundamental Duties are contained in Part IVA.\n(b) Fundamental Duties were originally included in the Constitution.",
+      "questionMarathi": "खालील विधाने विचारात घ्या :\n(अ) मूलभूत कर्तव्ये भाग IVA मध्ये आहेत.\n(ब) मूलभूत कर्तव्ये मूळ राज्यघटनेत समाविष्ट होती.",
+      "options": [
+        {
+          "id": "A",
+          "english": [
+            "Both (a) and (b) are correct",
+            "अ आणि ब दोन्ही बरोबर"
+          ],
+          "marathi": [
+            "Both (a) and (b) are correct",
+            "अ आणि ब दोन्ही बरोबर"
+          ]
+        },
+        {
+          "id": "B",
+          "english": [
+            "Both are incorrect",
+            "दोन्ही चुकीची"
+          ],
+          "marathi": [
+            "Both are incorrect",
+            "दोन्ही चुकीची"
+          ]
+        },
+        {
+          "id": "C",
+          "english": [
+            "Only (a) is correct",
+            "फक्त अ बरोबर"
+          ],
+          "marathi": [
+            "Only (a) is correct",
+            "फक्त अ बरोबर"
+          ]
+        },
+        {
+          "id": "D",
+          "english": [
+            "Only (b) is correct",
+            "फक्त ब बरोबर"
+          ],
+          "marathi": [
+            "Only (b) is correct",
+            "फक्त ब बरोबर"
+          ]
+        }
+      ],
+      "correctOptionId": "C",
+      "explanationEnglish": "Fundamental Duties are in Part IVA and were added by the 42nd Amendment.",
+      "explanationMarathi": "मूलभूत कर्तव्ये भाग IVA मध्ये असून ती ४२ व्या घटनादुरुस्तीने नंतर समाविष्ट झाली.",
+      "subject": "Polity",
+      "topic": "Fundamental Duties",
+      "difficulty": "medium"
+    },
+    {
+      "questionEnglish": "Which of the following is a feature of a federal system?",
+      "questionMarathi": "खालीलपैकी संघराज्य व्यवस्थेचे वैशिष्ट्य कोणते?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Division of powers between levels of government",
+          "marathi": "Division of powers between levels of government"
+        },
+        {
+          "id": "B",
+          "english": "Single level of government",
+          "marathi": "Single level of government"
+        },
+        {
+          "id": "C",
+          "english": "Complete absence of a written Constitution",
+          "marathi": "Complete absence of a written Constitution"
+        },
+        {
+          "id": "D",
+          "english": "No independent judiciary",
+          "marathi": "No independent judiciary"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanationEnglish": "A federal system divides constitutional powers between different levels of government.",
+      "explanationMarathi": "संघराज्य व्यवस्थेत शासनाच्या विविध स्तरांमध्ये घटनात्मक अधिकारांचे विभाजन असते.",
+      "subject": "Polity",
+      "topic": "Federalism",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "Which Article provides for the establishment of the Supreme Court of India?",
+      "questionMarathi": "भारताच्या सर्वोच्च न्यायालयाच्या स्थापनेची तरतूद कोणत्या कलमात आहे?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Article 124",
+          "marathi": "Article 124"
+        },
+        {
+          "id": "B",
+          "english": "Article 129",
+          "marathi": "Article 129"
+        },
+        {
+          "id": "C",
+          "english": "Article 136",
+          "marathi": "Article 136"
+        },
+        {
+          "id": "D",
+          "english": "Article 143",
+          "marathi": "Article 143"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanationEnglish": "Article 124 establishes the Supreme Court of India.",
+      "explanationMarathi": "कलम १२४ मध्ये भारताच्या सर्वोच्च न्यायालयाच्या स्थापनेची तरतूद आहे.",
+      "subject": "Polity",
+      "topic": "Judiciary",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "Which of the following is NOT a Fundamental Right?",
+      "questionMarathi": "खालीलपैकी कोणता मूलभूत अधिकार नाही?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Right to Equality",
+          "marathi": "Right to Equality"
+        },
+        {
+          "id": "B",
+          "english": "Right to Freedom",
+          "marathi": "Right to Freedom"
+        },
+        {
+          "id": "C",
+          "english": "Right to Property",
+          "marathi": "Right to Property"
+        },
+        {
+          "id": "D",
+          "english": "Right against Exploitation",
+          "marathi": "Right against Exploitation"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanationEnglish": "Right to Property is a constitutional legal right under Article 300A, not a Fundamental Right.",
+      "explanationMarathi": "मालमत्तेचा अधिकार हा कलम ३००अ अंतर्गत घटनात्मक कायदेशीर अधिकार आहे; तो मूलभूत अधिकार नाही.",
+      "subject": "Polity",
+      "topic": "Fundamental Rights",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "Consider the following statements about the Rajya Sabha:\n(a) It is a permanent House.\n(b) One-third of its members retire every two years.",
+      "questionMarathi": "राज्यसभेबाबत विधाने विचारात घ्या :\n(अ) ती कायमस्वरूपी सभागृह आहे.\n(ब) तिचे एक-तृतीयांश सदस्य दर दोन वर्षांनी निवृत्त होतात.",
+      "options": [
+        {
+          "id": "A",
+          "english": [
+            "Both are correct",
+            "दोन्ही बरोबर"
+          ],
+          "marathi": [
+            "Both are correct",
+            "दोन्ही बरोबर"
+          ]
+        },
+        {
+          "id": "B",
+          "english": [
+            "Both are incorrect",
+            "दोन्ही चुकीची"
+          ],
+          "marathi": [
+            "Both are incorrect",
+            "दोन्ही चुकीची"
+          ]
+        },
+        {
+          "id": "C",
+          "english": [
+            "Only (a) is correct",
+            "फक्त अ बरोबर"
+          ],
+          "marathi": [
+            "Only (a) is correct",
+            "फक्त अ बरोबर"
+          ]
+        },
+        {
+          "id": "D",
+          "english": [
+            "Only (b) is correct",
+            "फक्त ब बरोबर"
+          ],
+          "marathi": [
+            "Only (b) is correct",
+            "फक्त ब बरोबर"
+          ]
+        }
+      ],
+      "correctOptionId": "A",
+      "explanationEnglish": "Both statements are correct.",
+      "explanationMarathi": "दोन्ही विधाने बरोबर आहेत.",
+      "subject": "Polity",
+      "topic": "Rajya Sabha",
+      "difficulty": "medium"
+    },
+    {
+      "questionEnglish": "The Speaker of the Lok Sabha submits resignation to the:",
+      "questionMarathi": "लोकसभा अध्यक्ष आपला राजीनामा कोणाला देतात?",
+      "options": [
+        {
+          "id": "A",
+          "english": "President",
+          "marathi": "President"
+        },
+        {
+          "id": "B",
+          "english": "Deputy Speaker",
+          "marathi": "Deputy Speaker"
+        },
+        {
+          "id": "C",
+          "english": "Prime Minister",
+          "marathi": "Prime Minister"
+        },
+        {
+          "id": "D",
+          "english": "Vice-President",
+          "marathi": "Vice-President"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanationEnglish": "The Speaker resigns to the Deputy Speaker.",
+      "explanationMarathi": "लोकसभा अध्यक्ष उपाध्यक्षांकडे राजीनामा देतात.",
+      "subject": "Polity",
+      "topic": "Parliament",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "Which constitutional body conducts elections to the offices of President and Vice-President?",
+      "questionMarathi": "राष्ट्रपती व उपराष्ट्रपती पदांच्या निवडणुका कोणती घटनात्मक संस्था घेते?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Election Commission of India",
+          "marathi": "Election Commission of India"
+        },
+        {
+          "id": "B",
+          "english": "UPSC",
+          "marathi": "UPSC"
+        },
+        {
+          "id": "C",
+          "english": "Finance Commission",
+          "marathi": "Finance Commission"
+        },
+        {
+          "id": "D",
+          "english": "State Election Commission",
+          "marathi": "State Election Commission"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanationEnglish": "The Election Commission of India conducts these elections.",
+      "explanationMarathi": "भारत निवडणूक आयोग या निवडणुका घेतो.",
+      "subject": "Polity",
+      "topic": "Election Commission",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "Which Schedule deals with forms of oaths and affirmations?",
+      "questionMarathi": "शपथ व प्रतिज्ञेच्या नमुन्यांशी कोणती अनुसूची संबंधित आहे?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Second",
+          "marathi": "Second"
+        },
+        {
+          "id": "B",
+          "english": "Third",
+          "marathi": "Third"
+        },
+        {
+          "id": "C",
+          "english": "Fourth",
+          "marathi": "Fourth"
+        },
+        {
+          "id": "D",
+          "english": "Fifth",
+          "marathi": "Fifth"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanationEnglish": "The Third Schedule contains forms of oaths and affirmations.",
+      "explanationMarathi": "तिसऱ्या अनुसूचीत शपथ व प्रतिज्ञेचे नमुने आहेत.",
+      "subject": "Polity",
+      "topic": "Schedules",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "Consider the following statements about a Governor:\n(a) The Governor can reserve certain Bills for the consideration of the President.\n(b) The Governor is elected directly by the people of the State.",
+      "questionMarathi": "राज्यपालाबाबत विधाने विचारात घ्या :\n(अ) राज्यपाल काही विधेयके राष्ट्रपतींच्या विचारार्थ राखून ठेवू शकतात.\n(ब) राज्यपालांची निवड राज्यातील जनता थेट करते.",
+      "options": [
+        {
+          "id": "A",
+          "english": [
+            "Both are correct",
+            "दोन्ही बरोबर"
+          ],
+          "marathi": [
+            "Both are correct",
+            "दोन्ही बरोबर"
+          ]
+        },
+        {
+          "id": "B",
+          "english": [
+            "Both are incorrect",
+            "दोन्ही चुकीची"
+          ],
+          "marathi": [
+            "Both are incorrect",
+            "दोन्ही चुकीची"
+          ]
+        },
+        {
+          "id": "C",
+          "english": [
+            "Only (a) is correct",
+            "फक्त अ बरोबर"
+          ],
+          "marathi": [
+            "Only (a) is correct",
+            "फक्त अ बरोबर"
+          ]
+        },
+        {
+          "id": "D",
+          "english": [
+            "Only (b) is correct",
+            "फक्त ब बरोबर"
+          ],
+          "marathi": [
+            "Only (b) is correct",
+            "फक्त ब बरोबर"
+          ]
+        }
+      ],
+      "correctOptionId": "C",
+      "explanationEnglish": "The Governor may reserve Bills; the Governor is appointed by the President, not directly elected.",
+      "explanationMarathi": "राज्यपाल काही विधेयके राष्ट्रपतींच्या विचारार्थ राखू शकतात; त्यांची नियुक्ती राष्ट्रपती करतात.",
+      "subject": "Polity",
+      "topic": "Governor",
+      "difficulty": "medium"
+    },
+    {
+      "questionEnglish": "Which Article deals with the Finance Commission?",
+      "questionMarathi": "वित्त आयोगाशी संबंधित कलम कोणते?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Article 270",
+          "marathi": "Article 270"
+        },
+        {
+          "id": "B",
+          "english": "Article 280",
+          "marathi": "Article 280"
+        },
+        {
+          "id": "C",
+          "english": "Article 300",
+          "marathi": "Article 300"
+        },
+        {
+          "id": "D",
+          "english": "Article 315",
+          "marathi": "Article 315"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanationEnglish": "Article 280 provides for the Finance Commission.",
+      "explanationMarathi": "कलम २८० मध्ये वित्त आयोगाची तरतूद आहे.",
+      "subject": "Polity",
+      "topic": "Finance Commission",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "The Comptroller and Auditor General of India is appointed by the:",
+      "questionMarathi": "भारताचे नियंत्रक व महालेखापरीक्षक यांची नियुक्ती कोण करतात?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Prime Minister",
+          "marathi": "Prime Minister"
+        },
+        {
+          "id": "B",
+          "english": "President",
+          "marathi": "President"
+        },
+        {
+          "id": "C",
+          "english": "Parliament",
+          "marathi": "Parliament"
+        },
+        {
+          "id": "D",
+          "english": "Chief Justice of India",
+          "marathi": "Chief Justice of India"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanationEnglish": "The CAG is appointed by the President.",
+      "explanationMarathi": "CAG ची नियुक्ती राष्ट्रपती करतात.",
+      "subject": "Polity",
+      "topic": "CAG",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "Which writ is issued to quash an order of a lower court or tribunal?",
+      "questionMarathi": "कनिष्ठ न्यायालय किंवा न्यायाधिकरणाचा आदेश रद्द करण्यासाठी कोणता रिट जारी केला जातो?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Habeas Corpus",
+          "marathi": "हेबियस कॉर्पस"
+        },
+        {
+          "id": "B",
+          "english": "Mandamus",
+          "marathi": "मँडेमस"
+        },
+        {
+          "id": "C",
+          "english": "Certiorari",
+          "marathi": "सर्टिओरारी"
+        },
+        {
+          "id": "D",
+          "english": "Quo Warranto",
+          "marathi": "क्वो वॉरंटो"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanationEnglish": "Certiorari is used by a superior court to quash an order of a lower court or tribunal in appropriate cases.",
+      "explanationMarathi": "सर्टिओरारी रिटद्वारे योग्य प्रकरणात उच्च न्यायालय कनिष्ठ न्यायालय किंवा न्यायाधिकरणाचा आदेश रद्द करू शकते.",
+      "subject": "Polity",
+      "topic": "Writs",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "The minimum age for election to the Rajya Sabha is:",
+      "questionMarathi": "राज्यसभेवर निवडून येण्यासाठी किमान वय किती आहे?",
+      "options": [
+        {
+          "id": "A",
+          "english": "25 years",
+          "marathi": "25 years"
+        },
+        {
+          "id": "B",
+          "english": "30 years",
+          "marathi": "30 years"
+        },
+        {
+          "id": "C",
+          "english": "35 years",
+          "marathi": "35 years"
+        },
+        {
+          "id": "D",
+          "english": "21 years",
+          "marathi": "21 years"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanationEnglish": "A Rajya Sabha candidate must be at least 30 years old.",
+      "explanationMarathi": "राज्यसभेच्या सदस्यासाठी किमान वय ३० वर्षे आहे.",
+      "subject": "Polity",
+      "topic": "Elections",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "Which constitutional amendment introduced the Goods and Services Tax framework?",
+      "questionMarathi": "वस्तू व सेवा कराची घटनात्मक चौकट कोणत्या घटनादुरुस्तीने आणली?",
+      "options": [
+        {
+          "id": "A",
+          "english": "97th",
+          "marathi": "97th"
+        },
+        {
+          "id": "B",
+          "english": "99th",
+          "marathi": "99th"
+        },
+        {
+          "id": "C",
+          "english": "101st",
+          "marathi": "101st"
+        },
+        {
+          "id": "D",
+          "english": "103rd",
+          "marathi": "103rd"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanationEnglish": "The 101st Constitutional Amendment created the constitutional framework for GST.",
+      "explanationMarathi": "१०१ व्या घटनादुरुस्तीने GST ची घटनात्मक चौकट निर्माण केली.",
+      "subject": "Polity",
+      "topic": "Amendments",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "Which institution is responsible for inter-state water dispute adjudication under the constitutional framework?",
+      "questionMarathi": "आंतरराज्य नदीजल विवादांच्या घटनात्मक चौकटीशी संबंधित विषय कोणत्या यंत्रणेशी संबंधित आहे?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Parliamentary Public Accounts Committee",
+          "marathi": "Parliamentary Public Accounts Committee"
+        },
+        {
+          "id": "B",
+          "english": "Parliament and Union legislation under Article 262",
+          "marathi": "Parliament and Union legislation under Article 262"
+        },
+        {
+          "id": "C",
+          "english": "Finance Commission",
+          "marathi": "Finance Commission"
+        },
+        {
+          "id": "D",
+          "english": "Election Commission",
+          "marathi": "Election Commission"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanationEnglish": "Article 262 empowers Parliament to provide for adjudication of inter-state river water disputes.",
+      "explanationMarathi": "कलम २६२ संसदेला आंतरराज्य नदीजल विवादांच्या न्यायनिर्णयासाठी कायदा करण्याचा अधिकार देते.",
+      "subject": "Polity",
+      "topic": "Inter-State Relations",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "Which of the following subjects is in the Union List?",
+      "questionMarathi": "खालीलपैकी कोणता विषय संघ सूचीमध्ये आहे?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Police",
+          "marathi": "Police"
+        },
+        {
+          "id": "B",
+          "english": "Public Health",
+          "marathi": "Public Health"
+        },
+        {
+          "id": "C",
+          "english": "Defence",
+          "marathi": "Defence"
+        },
+        {
+          "id": "D",
+          "english": "Agriculture",
+          "marathi": "Agriculture"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanationEnglish": "Defence is a Union List subject.",
+      "explanationMarathi": "संरक्षण हा संघ सूचीतील विषय आहे.",
+      "subject": "Polity",
+      "topic": "Seventh Schedule",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "Consider the following statements about a Money Bill:\n(a) It can be introduced only in the Lok Sabha.\n(b) The Rajya Sabha must return it within 14 days.",
+      "questionMarathi": "धन विधेयकाबाबत विधाने विचारात घ्या :\n(अ) ते फक्त लोकसभेत मांडता येते.\n(ब) राज्यसभेने ते १४ दिवसांत परत करणे आवश्यक आहे.",
+      "options": [
+        {
+          "id": "A",
+          "english": [
+            "Both are correct",
+            "दोन्ही बरोबर"
+          ],
+          "marathi": [
+            "Both are correct",
+            "दोन्ही बरोबर"
+          ]
+        },
+        {
+          "id": "B",
+          "english": [
+            "Both are incorrect",
+            "दोन्ही चुकीची"
+          ],
+          "marathi": [
+            "Both are incorrect",
+            "दोन्ही चुकीची"
+          ]
+        },
+        {
+          "id": "C",
+          "english": [
+            "Only (a) is correct",
+            "फक्त अ बरोबर"
+          ],
+          "marathi": [
+            "Only (a) is correct",
+            "फक्त अ बरोबर"
+          ]
+        },
+        {
+          "id": "D",
+          "english": [
+            "Only (b) is correct",
+            "फक्त ब बरोबर"
+          ],
+          "marathi": [
+            "Only (b) is correct",
+            "फक्त ब बरोबर"
+          ]
+        }
+      ],
+      "correctOptionId": "A",
+      "explanationEnglish": "Both statements are correct.",
+      "explanationMarathi": "दोन्ही विधाने बरोबर आहेत.",
+      "subject": "Polity",
+      "topic": "Money Bill",
+      "difficulty": "medium"
+    },
+    {
+      "questionEnglish": "Who founded the Bahishkrit Hitakarini Sabha?",
+      "questionMarathi": "बहिष्कृत हितकारिणी सभेची स्थापना कोणी केली?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Dr. B.R. Ambedkar",
+          "marathi": "Dr. B.R. Ambedkar"
+        },
+        {
+          "id": "B",
+          "english": "M.G. Ranade",
+          "marathi": "M.G. Ranade"
+        },
+        {
+          "id": "C",
+          "english": "V.R. Shinde",
+          "marathi": "V.R. Shinde"
+        },
+        {
+          "id": "D",
+          "english": "Jyotirao Phule",
+          "marathi": "Jyotirao Phule"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanationEnglish": "Dr. B.R. Ambedkar founded the Bahishkrit Hitakarini Sabha in 1924.",
+      "explanationMarathi": "डॉ. बाबासाहेब आंबेडकर यांनी १९२४ मध्ये बहिष्कृत हितकारिणी सभेची स्थापना केली.",
+      "subject": "History",
+      "topic": "Ambedkar",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "Which organisation was founded by Vithal Ramji Shinde for social reform?",
+      "questionMarathi": "विठ्ठल रामजी शिंदे यांनी सामाजिक सुधारणांसाठी कोणती संस्था स्थापन केली?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Depressed Classes Mission",
+          "marathi": "Depressed Classes Mission"
+        },
+        {
+          "id": "B",
+          "english": "Servants of India Society",
+          "marathi": "Servants of India Society"
+        },
+        {
+          "id": "C",
+          "english": "Satyashodhak Samaj",
+          "marathi": "Satyashodhak Samaj"
+        },
+        {
+          "id": "D",
+          "english": "Arya Samaj",
+          "marathi": "Arya Samaj"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanationEnglish": "Vithal Ramji Shinde founded the Depressed Classes Mission.",
+      "explanationMarathi": "विठ्ठल रामजी शिंदे यांनी Depressed Classes Mission ची स्थापना केली.",
+      "subject": "History",
+      "topic": "Social Reform",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "Consider the following statements about the Revolt of 1857:\n(a) Company rule ended after the revolt.\n(b) The Government of India Act, 1858 transferred power to the Crown.",
+      "questionMarathi": "१८५७ च्या उठावाबाबत विधाने विचारात घ्या :\n(अ) उठावानंतर कंपनीचे शासन संपले.\n(ब) १८५८ च्या भारत शासन कायद्याने सत्ता ब्रिटिश क्राउनकडे हस्तांतरित झाली.",
+      "options": [
+        {
+          "id": "A",
+          "english": "Both are correct",
+          "marathi": "Both are correct"
+        },
+        {
+          "id": "B",
+          "english": "Both are incorrect",
+          "marathi": "Both are incorrect"
+        },
+        {
+          "id": "C",
+          "english": "Only (a) is correct",
+          "marathi": "Only (a) is correct"
+        },
+        {
+          "id": "D",
+          "english": "Only (b) is correct",
+          "marathi": "Only (b) is correct"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanationEnglish": "Both statements are correct consequences of the revolt.",
+      "explanationMarathi": "दोन्ही विधाने १८५७ च्या उठावानंतरच्या घटनांशी संबंधित असून बरोबर आहेत.",
+      "subject": "History",
+      "topic": "1857 Revolt",
+      "difficulty": "medium"
+    },
+    {
+      "questionEnglish": "Who was associated with the newspaper 'Mooknayak'?",
+      "questionMarathi": "'मूकनायक' या वृत्तपत्राशी कोणाचे नाव संबंधित आहे?",
+      "options": [
+        {
+          "id": "A",
+          "english": "B.R. Ambedkar",
+          "marathi": "B.R. Ambedkar"
+        },
+        {
+          "id": "B",
+          "english": "Tilak",
+          "marathi": "Tilak"
+        },
+        {
+          "id": "C",
+          "english": "Agarkar",
+          "marathi": "Agarkar"
+        },
+        {
+          "id": "D",
+          "english": "Gokhale",
+          "marathi": "Gokhale"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanationEnglish": "Mooknayak was started under the leadership of Dr. B.R. Ambedkar in 1920.",
+      "explanationMarathi": "मूकनायक हे डॉ. बाबासाहेब आंबेडकर यांच्या नेतृत्वाखाली १९२० मध्ये सुरू झाले.",
+      "subject": "History",
+      "topic": "Press",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "The first session of the Indian National Congress was presided over by:",
+      "questionMarathi": "भारतीय राष्ट्रीय काँग्रेसच्या पहिल्या अधिवेशनाचे अध्यक्ष कोण होते?",
+      "options": [
+        {
+          "id": "A",
+          "english": "W.C. Bonnerjee",
+          "marathi": "W.C. Bonnerjee"
+        },
+        {
+          "id": "B",
+          "english": "Dadabhai Naoroji",
+          "marathi": "Dadabhai Naoroji"
+        },
+        {
+          "id": "C",
+          "english": "A.O. Hume",
+          "marathi": "A.O. Hume"
+        },
+        {
+          "id": "D",
+          "english": "Pherozeshah Mehta",
+          "marathi": "Pherozeshah Mehta"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanationEnglish": "W.C. Bonnerjee presided over the first session in 1885.",
+      "explanationMarathi": "डब्ल्यू. सी. बॅनर्जी यांनी १८८५ च्या पहिल्या अधिवेशनाचे अध्यक्षस्थान भूषवले.",
+      "subject": "History",
+      "topic": "Congress",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "Match the following:\na. Satyashodhak Samaj — i. Jyotirao Phule\nb. Prarthana Samaj — ii. Atmaram Pandurang\nc. Depressed Classes Mission — iii. V.R. Shinde",
+      "questionMarathi": "जोड्या लावा :\nअ. सत्यशोधक समाज — i. ज्योतिराव फुले\nब. प्रार्थना समाज — ii. आत्माराम पांडुरंग\nक. डिप्रेस्ड क्लासेस मिशन — iii. वि. रा. शिंदे",
+      "options": [
+        {
+          "id": "A",
+          "english": "a-i, b-ii, c-iii",
+          "marathi": "a-i, b-ii, c-iii"
+        },
+        {
+          "id": "B",
+          "english": "a-ii, b-i, c-iii",
+          "marathi": "a-ii, b-i, c-iii"
+        },
+        {
+          "id": "C",
+          "english": "a-iii, b-ii, c-i",
+          "marathi": "a-iii, b-ii, c-i"
+        },
+        {
+          "id": "D",
+          "english": "a-i, b-iii, c-ii",
+          "marathi": "a-i, b-iii, c-ii"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanationEnglish": "All three pairs are correctly matched.",
+      "explanationMarathi": "तीन्ही जोड्या योग्य जुळलेल्या आहेत.",
+      "subject": "History",
+      "topic": "Social Reform",
+      "difficulty": "medium"
+    },
+    {
+      "questionEnglish": "The Civil Disobedience Movement began in 1930 with the:",
+      "questionMarathi": "सविनय कायदेभंग चळवळीची सुरुवात १९३० मध्ये कोणत्या घटनेने झाली?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Dandi March",
+          "marathi": "Dandi March"
+        },
+        {
+          "id": "B",
+          "english": "Champaran Satyagraha",
+          "marathi": "Champaran Satyagraha"
+        },
+        {
+          "id": "C",
+          "english": "Kheda Satyagraha",
+          "marathi": "Kheda Satyagraha"
+        },
+        {
+          "id": "D",
+          "english": "Quit India Movement",
+          "marathi": "Quit India Movement"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanationEnglish": "The Dandi March marked the beginning of the Civil Disobedience Movement.",
+      "explanationMarathi": "दांडी मार्चने सविनय कायदेभंग चळवळीला सुरुवात झाली.",
+      "subject": "History",
+      "topic": "Gandhian Movement",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "Who started the newspaper 'Sudharak'?",
+      "questionMarathi": "'सुधारक' हे वृत्तपत्र कोणी सुरू केले?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Gopal Ganesh Agarkar",
+          "marathi": "Gopal Ganesh Agarkar"
+        },
+        {
+          "id": "B",
+          "english": "Bal Gangadhar Tilak",
+          "marathi": "Bal Gangadhar Tilak"
+        },
+        {
+          "id": "C",
+          "english": "Gopal Krishna Gokhale",
+          "marathi": "Gopal Krishna Gokhale"
+        },
+        {
+          "id": "D",
+          "english": "M.G. Ranade",
+          "marathi": "M.G. Ranade"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanationEnglish": "Gopal Ganesh Agarkar started Sudharak.",
+      "explanationMarathi": "गोपाळ गणेश आगरकर यांनी 'सुधारक' सुरू केले.",
+      "subject": "History",
+      "topic": "Press",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "Which social reformer is associated with the Widow Remarriage movement in Maharashtra?",
+      "questionMarathi": "महाराष्ट्रातील विधवा पुनर्विवाह चळवळीशी कोणते समाजसुधारक संबंधित आहेत?",
+      "options": [
+        {
+          "id": "A",
+          "english": "D.K. Karve",
+          "marathi": "D.K. Karve"
+        },
+        {
+          "id": "B",
+          "english": "V.D. Savarkar",
+          "marathi": "V.D. Savarkar"
+        },
+        {
+          "id": "C",
+          "english": "Lala Lajpat Rai",
+          "marathi": "Lala Lajpat Rai"
+        },
+        {
+          "id": "D",
+          "english": "Bipin Chandra Pal",
+          "marathi": "Bipin Chandra Pal"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanationEnglish": "D.K. Karve was a leading advocate of widow remarriage and women's education.",
+      "explanationMarathi": "धोंडो केशव कर्वे हे विधवा पुनर्विवाह व महिला शिक्षणाचे प्रमुख पुरस्कर्ते होते.",
+      "subject": "History",
+      "topic": "Women Reform",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "Consider the following statements:\n(a) Tilak started the public Ganapati festival.\n(b) Tilak used festivals as a means of political mobilisation.",
+      "questionMarathi": "खालील विधाने विचारात घ्या :\n(अ) टिळकांनी सार्वजनिक गणपती उत्सवाला चालना दिली.\n(ब) राजकीय जनजागृतीसाठी त्यांनी उत्सवांचा वापर केला.",
+      "options": [
+        {
+          "id": "A",
+          "english": "Both are correct",
+          "marathi": "Both are correct"
+        },
+        {
+          "id": "B",
+          "english": "Both are incorrect",
+          "marathi": "Both are incorrect"
+        },
+        {
+          "id": "C",
+          "english": "Only (a) is correct",
+          "marathi": "Only (a) is correct"
+        },
+        {
+          "id": "D",
+          "english": "Only (b) is correct",
+          "marathi": "Only (b) is correct"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanationEnglish": "Both statements describe Tilak's public mobilisation strategy.",
+      "explanationMarathi": "दोन्ही विधाने टिळकांच्या जनजागृतीच्या कार्यपद्धतीचे योग्य वर्णन करतात.",
+      "subject": "History",
+      "topic": "Tilak",
+      "difficulty": "medium"
+    },
+    {
+      "questionEnglish": "The All India Trade Union Congress was founded in:",
+      "questionMarathi": "अखिल भारतीय ट्रेड युनियन काँग्रेसची स्थापना कोणत्या वर्षी झाली?",
+      "options": [
+        {
+          "id": "A",
+          "english": "1918",
+          "marathi": "1918"
+        },
+        {
+          "id": "B",
+          "english": "1920",
+          "marathi": "1920"
+        },
+        {
+          "id": "C",
+          "english": "1922",
+          "marathi": "1922"
+        },
+        {
+          "id": "D",
+          "english": "1924",
+          "marathi": "1924"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanationEnglish": "AITUC was founded in 1920.",
+      "explanationMarathi": "AITUC ची स्थापना १९२० मध्ये झाली.",
+      "subject": "History",
+      "topic": "Labour Movement",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "Who is regarded as a pioneer of the labour movement in Bombay?",
+      "questionMarathi": "मुंबईतील कामगार चळवळीचे अग्रणी म्हणून कोण ओळखले जातात?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Narayan Meghaji Lokhande",
+          "marathi": "Narayan Meghaji Lokhande"
+        },
+        {
+          "id": "B",
+          "english": "Gokhale",
+          "marathi": "Gokhale"
+        },
+        {
+          "id": "C",
+          "english": "Agarkar",
+          "marathi": "Agarkar"
+        },
+        {
+          "id": "D",
+          "english": "Savarkar",
+          "marathi": "Savarkar"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanationEnglish": "Narayan Meghaji Lokhande was an early pioneer of organised labour activity in Bombay.",
+      "explanationMarathi": "नारायण मेघाजी लोखंडे हे मुंबईतील संघटित कामगार चळवळीचे अग्रणी होते.",
+      "subject": "History",
+      "topic": "Labour Movement",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "The Poona Sarvajanik Sabha was associated with:",
+      "questionMarathi": "पुणे सार्वजनिक सभेशी कोणाचा संबंध होता?",
+      "options": [
+        {
+          "id": "A",
+          "english": "M.G. Ranade",
+          "marathi": "M.G. Ranade"
+        },
+        {
+          "id": "B",
+          "english": "Lord Curzon",
+          "marathi": "Lord Curzon"
+        },
+        {
+          "id": "C",
+          "english": "A.O. Hume",
+          "marathi": "A.O. Hume"
+        },
+        {
+          "id": "D",
+          "english": "W.C. Bonnerjee",
+          "marathi": "W.C. Bonnerjee"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanationEnglish": "M.G. Ranade was a prominent figure associated with the Poona Sarvajanik Sabha.",
+      "explanationMarathi": "म. गो. रानडे हे पुणे सार्वजनिक सभेशी संबंधित प्रमुख व्यक्ती होते.",
+      "subject": "History",
+      "topic": "Political Associations",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "Which Act transferred the administration of India from the East India Company to the British Crown?",
+      "questionMarathi": "ईस्ट इंडिया कंपनीकडून भारताचे प्रशासन ब्रिटिश क्राउनकडे कोणत्या कायद्याने हस्तांतरित केले?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Government of India Act, 1858",
+          "marathi": "Government of India Act, 1858"
+        },
+        {
+          "id": "B",
+          "english": "Indian Councils Act, 1861",
+          "marathi": "Indian Councils Act, 1861"
+        },
+        {
+          "id": "C",
+          "english": "Regulating Act, 1773",
+          "marathi": "Regulating Act, 1773"
+        },
+        {
+          "id": "D",
+          "english": "Charter Act, 1833",
+          "marathi": "Charter Act, 1833"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanationEnglish": "The Government of India Act, 1858 ended Company rule.",
+      "explanationMarathi": "१८५८ च्या भारत शासन कायद्याने कंपनीचे शासन संपवले.",
+      "subject": "History",
+      "topic": "British Administration",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "Match the following:\na. Mahad Satyagraha — i. Chavdar Tale\nb. Dandi March — ii. Salt Law\nc. Vaikom Satyagraha — iii. Temple-road access",
+      "questionMarathi": "जोड्या लावा :\nअ. महाड सत्याग्रह — i. चवदार तळे\nब. दांडी मार्च — ii. मिठाचा कायदा\nक. वैकोम सत्याग्रह — iii. मंदिराभोवतीच्या रस्त्यांचा प्रवेश",
+      "options": [
+        {
+          "id": "A",
+          "english": "a-i, b-ii, c-iii",
+          "marathi": "a-i, b-ii, c-iii"
+        },
+        {
+          "id": "B",
+          "english": "a-ii, b-i, c-iii",
+          "marathi": "a-ii, b-i, c-iii"
+        },
+        {
+          "id": "C",
+          "english": "a-iii, b-ii, c-i",
+          "marathi": "a-iii, b-ii, c-i"
+        },
+        {
+          "id": "D",
+          "english": "a-i, b-iii, c-ii",
+          "marathi": "a-i, b-iii, c-ii"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanationEnglish": "The three movements are correctly associated with the listed issues.",
+      "explanationMarathi": "तीन्ही चळवळींचा दिलेल्या मुद्द्यांशी योग्य संबंध आहे.",
+      "subject": "History",
+      "topic": "Satyagraha",
+      "difficulty": "medium"
+    },
+    {
+      "questionEnglish": "Who wrote 'Shetkaryacha Asud'?",
+      "questionMarathi": "'शेतकऱ्याचा असूड' हा ग्रंथ कोणी लिहिला?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Jyotirao Phule",
+          "marathi": "Jyotirao Phule"
+        },
+        {
+          "id": "B",
+          "english": "D.K. Karve",
+          "marathi": "D.K. Karve"
+        },
+        {
+          "id": "C",
+          "english": "Agarkar",
+          "marathi": "Agarkar"
+        },
+        {
+          "id": "D",
+          "english": "Lokhande",
+          "marathi": "Lokhande"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanationEnglish": "Jyotirao Phule wrote Shetkaryacha Asud.",
+      "explanationMarathi": "ज्योतिराव फुले यांनी 'शेतकऱ्याचा असूड' लिहिला.",
+      "subject": "History",
+      "topic": "Phule",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "Which event led to the withdrawal of the Non-Cooperation Movement?",
+      "questionMarathi": "असहकार चळवळ कोणत्या घटनेनंतर मागे घेण्यात आली?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Chauri Chaura incident",
+          "marathi": "Chauri Chaura incident"
+        },
+        {
+          "id": "B",
+          "english": "Jallianwala Bagh",
+          "marathi": "Jallianwala Bagh"
+        },
+        {
+          "id": "C",
+          "english": "Dandi March",
+          "marathi": "Dandi March"
+        },
+        {
+          "id": "D",
+          "english": "Kakori incident",
+          "marathi": "Kakori incident"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanationEnglish": "Gandhi withdrew the movement after the Chauri Chaura incident in 1922.",
+      "explanationMarathi": "१९२२ च्या चौरीचौरा घटनेनंतर गांधीजींनी असहकार चळवळ मागे घेतली.",
+      "subject": "History",
+      "topic": "Gandhian Movement",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "Who founded the 'Arya Samaj'?",
+      "questionMarathi": "'आर्य समाज'ची स्थापना कोणी केली?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Swami Dayanand Saraswati",
+          "marathi": "Swami Dayanand Saraswati"
+        },
+        {
+          "id": "B",
+          "english": "Swami Vivekananda",
+          "marathi": "Swami Vivekananda"
+        },
+        {
+          "id": "C",
+          "english": "Raja Ram Mohan Roy",
+          "marathi": "Raja Ram Mohan Roy"
+        },
+        {
+          "id": "D",
+          "english": "M.G. Ranade",
+          "marathi": "M.G. Ranade"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanationEnglish": "Swami Dayanand Saraswati founded Arya Samaj in 1875.",
+      "explanationMarathi": "स्वामी दयानंद सरस्वती यांनी १८७५ मध्ये आर्य समाजाची स्थापना केली.",
+      "subject": "History",
+      "topic": "Social Reform",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "Which newspaper was started by Bal Gangadhar Tilak in English?",
+      "questionMarathi": "बाळ गंगाधर टिळकांनी इंग्रजीत कोणते वृत्तपत्र सुरू केले?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Mahratta",
+          "marathi": "Mahratta"
+        },
+        {
+          "id": "B",
+          "english": "Kesari",
+          "marathi": "Kesari"
+        },
+        {
+          "id": "C",
+          "english": "Sudharak",
+          "marathi": "Sudharak"
+        },
+        {
+          "id": "D",
+          "english": "Dinbandhu",
+          "marathi": "Dinbandhu"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanationEnglish": "Mahratta was the English newspaper associated with Tilak.",
+      "explanationMarathi": "'मराठा' हे टिळकांशी संबंधित इंग्रजी वृत्तपत्र होते.",
+      "subject": "History",
+      "topic": "Press",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "Which river is the longest river flowing entirely within Maharashtra?",
+      "questionMarathi": "पूर्णपणे महाराष्ट्रातून वाहणारी सर्वात लांब नदी कोणती?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Bhima",
+          "marathi": "Bhima"
+        },
+        {
+          "id": "B",
+          "english": "Godavari",
+          "marathi": "Godavari"
+        },
+        {
+          "id": "C",
+          "english": "Wardha",
+          "marathi": "Wardha"
+        },
+        {
+          "id": "D",
+          "english": "Krishna",
+          "marathi": "Krishna"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanationEnglish": "Bhima is a major river flowing for a substantial length within Maharashtra.",
+      "explanationMarathi": "भीमा नदीचा महाराष्ट्रातील प्रवाह मोठ्या प्रमाणात राज्यातच आहे.",
+      "subject": "Geography",
+      "topic": "Rivers",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "Which district has the highest peak Kalsubai?",
+      "questionMarathi": "कळसूबाई शिखर कोणत्या जिल्ह्यात आहे?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Ahmednagar",
+          "marathi": "Ahmednagar"
+        },
+        {
+          "id": "B",
+          "english": "Nashik",
+          "marathi": "Nashik"
+        },
+        {
+          "id": "C",
+          "english": "Pune",
+          "marathi": "Pune"
+        },
+        {
+          "id": "D",
+          "english": "Satara",
+          "marathi": "Satara"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanationEnglish": "Kalsubai is in the Akole region of Ahmednagar district.",
+      "explanationMarathi": "कळसूबाई अहमदनगर जिल्ह्यातील अकोले परिसरात आहे.",
+      "subject": "Geography",
+      "topic": "Mountains",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "Examine the following statements:\nStatement A: The Western Ghats influence rainfall in Maharashtra.\nStatement B: The leeward side generally receives less rainfall.",
+      "questionMarathi": "खालील विधाने तपासा :\nविधान A : पश्चिम घाट महाराष्ट्रातील पर्जन्यावर प्रभाव टाकतात.\nविधान B : पश्चिम घाटाच्या पर्जन्यछायेच्या बाजूस सामान्यतः कमी पाऊस पडतो.",
+      "options": [
+        {
+          "id": "A",
+          "english": "Both A and B are true",
+          "marathi": "Both A and B are true"
+        },
+        {
+          "id": "B",
+          "english": "Both are false",
+          "marathi": "Both are false"
+        },
+        {
+          "id": "C",
+          "english": "A is true, B is false",
+          "marathi": "A is true, B is false"
+        },
+        {
+          "id": "D",
+          "english": "A is false, B is true",
+          "marathi": "A is false, B is true"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanationEnglish": "Both statements are correct features of orographic rainfall.",
+      "explanationMarathi": "दोन्ही विधाने पर्वतीय पर्जन्याच्या योग्य वैशिष्ट्यांशी संबंधित आहेत.",
+      "subject": "Geography",
+      "topic": "Rainfall",
+      "difficulty": "medium"
+    },
+    {
+      "questionEnglish": "Which of the following is a west-flowing river?",
+      "questionMarathi": "खालीलपैकी पश्चिमवाहिनी नदी कोणती?",
+      "options": [
+        {
+          "id": "A",
+          "english": "Tapi",
+          "marathi": "Tapi"
+        },
+        {
+          "id": "B",
+          "english": "Godavari",
+          "marathi": "Godavari"
+        },
+        {
+          "id": "C",
+          "english": "Wardha",
+          "marathi": "Wardha"
+        },
+        {
+          "id": "D",
+          "english": "Bhima",
+          "marathi": "Bhima"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanationEnglish": "The Tapi flows westward into the Arabian Sea.",
+      "explanationMarathi": "तापी पश्चिमेकडे वाहून अरबी समुद्रात मिळते.",
+      "subject": "Geography",
+      "topic": "Drainage",
+      "difficulty": "easy"
+    },
+    {
+      "questionEnglish": "Match the following:\na. Melghat — i. Amravati\nb. Tadoba — ii. Chandrapur\nc. Navegaon — iii. Gondia",
+      "questionMarathi": "जोड्या लावा :\nअ. मेळघाट — i. अमरावती\nब. ताडोबा — ii. चंद्रपूर\nक. नवेगाव — iii. गोंदिया",
+      "options": [
+        {
+          "id": "A",
+          "english": "a-i, b-ii, c-iii",
+          "marathi": "a-i, b-ii, c-iii"
+        },
+        {
+          "id": "B",
+          "english": "a-ii, b-i, c-iii",
+          "marathi": "a-ii, b-i, c-iii"
+        },
+        {
+          "id": "C",
+          "english": "a-iii, b-ii, c-i",
+          "marathi": "a-iii, b-ii, c-i"
+        },
+        {
+          "id": "D",
+          "english": "a-i, b-iii, c-ii",
+          "marathi": "a-i, b-iii, c-ii"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanationEnglish": "The three wildlife areas are correctly matched with the districts.",
+      "explanationMarathi": "तीन्ही वन्यजीव क्षेत्रे त्यांच्या जिल्ह्यांशी योग्य जुळलेली आहेत.",
+      "subject": "Geography",
+      "topic": "Wildlife",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,14 +1,36 @@
-# MPSC Daily Challenge
+# Saatatya
 
 A mobile daily-test platform for MPSC Group C aspirants. Students complete a
 sequence of 3 exam-pattern tests every day, unlocking each test only after
 completing the one before it — building the daily discipline of real exam
 practice.
 
+## 📱 Screenshots
+
+### Login
+
+![Login Screen](./images/login.jpeg)
+
+### Home
+
+![Home Screen](./images/home.jpeg)
+
+### Test List
+
+![Test List](./images/tests.jpeg)
+
+### Test Screen
+
+![Test Screen](./images/test-screen.jpeg)
+
+### Result
+
+![Result Screen](./images/result.jpeg)
+
 This repository contains four coordinated projects:
 
 ```
-mpsc-daily-challenge/
+daily-challenge/
 ├── mobile/    React Native (Expo) app — the student-facing product
 ├── api/       Node.js + Express API — the source of truth for progression & scoring
 ├── cron/      Node.js importer — publishes each day's 3 tests from JSON
