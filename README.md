@@ -7,11 +7,11 @@ practice.
 
 ## 📱 Screenshots
 <p align="center">
-  <img src="./images/login.png" width="140" />
-  <img src="./images/home.png" width="140" />
-  <img src="./images/tests.png" width="140" />
-  <img src="./images/test-screen.png" width="140" />
-  <img src="./images/result.png" width="140" />
+  <img src="./images/login.jpeg" width="140" />
+  <img src="./images/home.jpeg" width="140" />
+  <img src="./images/tests.jpeg" width="140" />
+  <img src="./images/test-screen.jpeg" width="140" />
+  <img src="./images/result.jpeg" width="140" />
 </p>
 This repository contains four coordinated projects:
 
