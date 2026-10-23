@@ -11,7 +11,7 @@ import { Container, Spinner } from "@/components/ui/misc";
  * independently authorised by the existing backend from the Firebase token.
  */
 export function AuthGuard({ children }: { children: React.ReactNode }) {
-  const { status } = useAuth();
+  const { status } = useAuth(); 
   const router = useRouter();
   const pathname = usePathname();
 
